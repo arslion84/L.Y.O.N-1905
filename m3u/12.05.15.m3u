@@ -3,8 +3,8 @@
 sop://
 #EXTINF:-0,Mersin - Galatasaray
 http://karaaslan.ddns.net:7777/karaAslanligtv
-#EXTINF:-0,LIG TV GS
-http://104.154.77.179:5001/hymspor
+#EXTINF:-0,Mersin - Galatasaray
+rtmp://63.237.48.8/live/direnadmin
 #EXTINF:-0,LIG TV 1
 rtmp://rtmp.goodcast.co:1935/liverepeater/200046
 #EXTINF:-0,LIG TV BJK
