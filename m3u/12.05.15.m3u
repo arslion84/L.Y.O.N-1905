@@ -1,6 +1,56 @@
 ﻿#EXTM3U
 #EXTINF:-0,SENI SEVIYORUM LANG IT :)
 sop://
+#EXTINF:-1 TRT 1
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt1
+#EXTINF:-1 STAR TV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1 SHOW TV
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/showtv/ playpath=mp4:showtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=showtv
+#EXTINF:-1 ATV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-01.az.myvideo.az/dvrh264/atvturk/ playpath=mp4:atvturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=atvturk
+#EXTINF:-1 KANAL D
+rtmp://$OPT:rtmp-raw=rtmp://edge04-01.az.myvideo.az/dvrh264/canald/ playpath=mp4:canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1 FOX
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/foxturk/ playpath=mp4:foxturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=foxturk
+#EXTINF:-1 KANAL TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/kanalturk/ playpath=mp4:kanalturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanalturk
+#EXTINF:-1 TV8
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/tv8/ playpath=mp4:tv8 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tv8
+#EXTINF:-1 TRT OKUL
+rtmp://$OPT:rtmp-raw=rtmp://edge04-03.az.myvideo.az/dvrh264/okul/ playpath=mp4:okul swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=okul
+#EXTINF:-1 NTV
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/canlintv/ playpath=mp4:canlintv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canlintv
+#EXTINF:-1 HABER TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/haberturk/ playpath=mp4:haberturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=haberturk
+#EXTINF:-1 36
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/skyturk/ playpath=mp4:skyturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=skyturk
+#EXTINF:-1 TRT 3
+rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt3/ playpath=mp4:trt3 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt3
+#EXTINF:-1 TMMB TV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-07.az.myvideo.az/dvrh264/tmbtv/ playpath=mp4:tmbtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tmbtv
+#EXTINF:-1 TRT COCUK
+rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/trtcocuk/ playpath=mp4:trtcocuk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtcocuk
+#EXTINF:-1 TRT TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-09.az.myvideo.az/dvrh264/trtturk/ playpath=mp4:trtturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtturk
+#EXTINF:-1 AKILLI TV
+rtmp://$OPT:rtmp-raw=rtmp://edge04-10.az.myvideo.az/dvrh264/akillitv/ playpath=mp4:akillitv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=akillitv
+#EXTINF:-1 TRT AVAZ
+rtmp://$OPT:rtmp-raw=rtmp://edge04-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1 KRAL
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/kral/ playpath=mp4:kral swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kral
+#EXTINF:-1 YABAN TV
+rtmp://$OPT:rtmp-raw=rtmp://edge03-03.az.myvideo.az/dvrh264/yabantv/ playpath=mp4:yabantv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yabantv
+#EXTINF:-1 24
+rtmp://$OPT:rtmp-raw=rtmp://edge04-10.az.myvideo.az/dvrh264/kanal24/ playpath=mp4:kanal24 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanal24
+#EXTINF:-1 KANAL 7
+rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/kanal7/ playpath=mp4:kanal7 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanal7
+#EXTINF:-1 TRT AVAZ
+rtmp://$OPT:rtmp-raw=rtmp://edge03-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1 YUMURCAK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-07.az.myvideo.az/dvrh264/yumurcak/ playpath=mp4:yumurcak swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yumurcak
+#EXTINF:-1 PLANET TURK
+rtmp://$OPT:rtmp-raw=rtmp://edge04-07.az.myvideo.az/dvrh264/planetturk/ playpath=mp4:planetturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetturk
 
 
 
