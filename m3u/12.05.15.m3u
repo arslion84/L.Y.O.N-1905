@@ -1,7 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-0,SENI SEVIYORUM LANG IT :)
 #EXTINF: 0, Kanal D
-
 http://edge.ailetv.net/org12/kanald_me/playlist.m3u8
 
 #EXTINF: 0, ATV Türk
@@ -99,6 +98,34 @@ http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
 #EXTINF: 0, A Spor
 
 http://edge.ailetv.net/org18/aspor_me/playlist.m3u8
+
+#EXTINF: 0, NTV
+
+http://edge.ailetv.net/org11/ntvrus_me/playlist.m3u8
+
+#EXTINF: 0, Akıllı TV
+
+http://edge.ailetv.net/org17/akillitv_me/playlist.m3u8
+
+#EXTINF: 0, STV
+
+http://edge.ailetv.net/org6/stv_me/playlist.m3u8
+
+#EXTINF: 0, E2
+
+http://edge.ailetv.net/org9/e2_me/playlist.m3u8
+
+#EXTINF: 0, SkyTurk 360
+
+http://edge.ailetv.net/org18/skyturk360_me/playlist.m3u8
+
+#EXTINF: 0, TRT Müzik
+
+http://edge.ailetv.net/org18/trtmusic_me/playlist.m3u8
+
+#EXTINF:-0, TRT HD
+
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 
 
 
