@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-0,KORSAN ARSLION HIZMETINIZDE :)
 sop://
-#EXTINF:-0,LIG TV FB
-rtmp://79.125.5.214:1935/live/texas36
+#EXTINF:-0,Mersin - Galatasaray
+http://karaaslan.ddns.net:7777/karaAslanligtv
 #EXTINF:-0,LIG TV GS
 http://104.154.77.179:5001/hymspor
 #EXTINF:-0,LIG TV 1
