@@ -1,26 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-0,KORSAN ARSLION HIZMETINIZDE :)
+#EXTINF:-0,SENI SEVIYORUM LANG IT :)
 sop://
-#EXTINF:-0,Mersin - Galatasaray
-http://karaaslan.ddns.net:7777/karaAslanligtv
-#EXTINF:-0,Mersin - Galatasaray
-rtmp://63.237.48.8/live/direnadmin
-#EXTINF:-0,LIG TV 1
-rtmp://rtmp.goodcast.co:1935/liverepeater/200046
-#EXTINF:-0,LIG TV BJK
-rtmp://83.169.58.36/live/turktvkaraktersizorospucocuklaribyAyberk
-#EXTINF:-0,LIG TV 2
-http://stream.ssh101.com/hls/svbc1452.m3u8
-#EXTINF:-0,SOPCAST
-sop://
-#EXTINF:-0,Mersin - Galatasaray
-sop://151.80.76.190:3912/257309
-#EXTINF:-0,Mersin - Galatasaray
-sop://151.80.76.190:3912/256411
-#EXTINF:-0,LIG TV 3
-sop://broker.sopcast.com:3912/256779
-#EXTINF:-0,LIG TV 4
-sop://broker.top90da.com:3912/257128
 
 
 
