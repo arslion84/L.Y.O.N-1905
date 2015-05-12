@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-0,SENI SEVIYORUM LANG IT :)
 sop://
-#EXTINF:-1, TRT 1
+#EXTINF:-0, TRT 1
 rtmp://$OPT:rtmp-raw=rtmp://edge04-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt1
 #EXTINF:-1, STAR TV
 rtmp://$OPT:rtmp-raw=rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
