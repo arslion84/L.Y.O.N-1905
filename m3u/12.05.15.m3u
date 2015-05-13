@@ -1,131 +1,29 @@
 ﻿#EXTM3U
-#EXTINF:-0,SENI SEVIYORUM LANG IT :)
-#EXTINF: 0, Kanal D
-http://edge.ailetv.net/org12/kanald_me/playlist.m3u8
+#EXTINF:-0,KORSAN ARSLION HIZMETINIZDE :)
+sop://
+#EXTINF:-0,Fenev - Erciyes1
+http://104.154.77.179:5001/serbestspor
+#EXTINF:-0,Fenev - Erciyes2
+rtmp://63.237.48.8/live//direnadmin
+#EXTINF:-0,Fenev - Erciyes3
+http://business:sporiptv@85.14.255.79:8080/business1
+#EXTINF:-0,Fenev - Erciyes4
+rtmp://79.125.5.214:1935/live/texas5
 
-#EXTINF: 0, ATV Türk
+#EXTINF:-0,SOPCAST
+sop://
+#EXTINF:-0,Mersin - Galatasaray
+sop://151.80.76.190:3912/257309
+#EXTINF:-0,Mersin - Galatasaray
+sop://151.80.76.190:3912/256411
+#EXTINF:-0,LIG TV 3
+sop://broker.sopcast.com:3912/256779
+#EXTINF:-0,LIG TV 4
+sop://broker.top90da.com:3912/257128
 
-http://edge.ailetv.net/org3/atv_me/playlist.m3u8
 
-#EXTINF: 0, Star TV
 
-http://edge.ailetv.net/org8/startv_me/playlist.m3u8
 
-#EXTINF: 0, TV 8
-
-http://edge.ailetv.net/org4/tv8_me/playlist.m3u8
-
-#EXTINF: 0, FOX Türkiye
-
-http://edge.ailetv.net/org1/foxtr_me/playlist.m3u8
-
-#EXTINF: 0, Cine 5
-
-http://edge.ailetv.net/org2/cine5_me/playlist.m3u8
-
-#EXTINF: 0, TRT 1
-
-http://edge.ailetv.net/org5/trt1_me/playlist.m3u8
-
-#EXTINF: 0, Kanal 7
-
-http://edge.ailetv.net/org3/kanal7_me/playlist.m3u8
-
-#EXTINF: 0, Yaban TV
-
-http://edge.ailetv.net/org10/yabantv_me/playlist.m3u8
-
-#EXTINF: 0, Samanyolu
-
-http://edge.ailetv.net/org16/samanyolutv_me/playlist.m3u8
-
-#EXTINF: 0, KanalTürk
-
-http://edge.ailetv.net/org12/kanalturk_me/playlist.m3u8
-
-#EXTINF: 0, Kral Pop
-
-http://edge.ailetv.net/org1/kralpoptv_me/playlist.m3u8
-
-#EXTINF: 0, Kral
-
-http://edge.ailetv.net/org1/kral_me/playlist.m3u8
-
-#EXTINF: 0, TRT Avaz
-
-http://edge.ailetv.net/org4/trtavaz_me/playlist.m3u8
-
-#EXTINF: 0, NR 1
-
-http://edge.ailetv.net/org10/nr1_me/playlist.m3u8
-
-#EXTINF: 0, Planet Türk
-
-http://edge.ailetv.net/org16/planetturk_me/playlist.m3u8
-
-#EXTINF: 0, PowerTürk
-
-http://edge.ailetv.net/org10/powerturktv_me/playlist.m3u8
-
-#EXTINF: 0, Planet Çocuk
-
-http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
-
-#EXTINF: 0, Yumurcak TV
-
-http://edge.ailetv.net/org4/yumurcaktv_me/playlist.m3u8
-
-#EXTINF: 0, Minika Çocuk
-
-http://edge.ailetv.net/org12/minikacocuk_me/playlist.m3u8
-
-#EXTINF: 0, TRT Çocuk
-
-http://edge.ailetv.net/org5/trtcocuk_me/playlist.m3u8
-
-#EXTINF: 0, Sports TV
-
-http://edge.ailetv.net/org10/sportstv_me/playlist.m3u8
-
-#EXTINF: 0, NTV Spor
-
-http://edge.ailetv.net/org8/ntvspor_me/playlist.m3u8
-
-#EXTINF: 0, TRT Spor
-
-http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
-
-#EXTINF: 0, A Spor
-
-http://edge.ailetv.net/org18/aspor_me/playlist.m3u8
-
-#EXTINF: 0, NTV
-
-http://edge.ailetv.net/org11/ntvrus_me/playlist.m3u8
-
-#EXTINF: 0, Akıllı TV
-
-http://edge.ailetv.net/org17/akillitv_me/playlist.m3u8
-
-#EXTINF: 0, STV
-
-http://edge.ailetv.net/org6/stv_me/playlist.m3u8
-
-#EXTINF: 0, E2
-
-http://edge.ailetv.net/org9/e2_me/playlist.m3u8
-
-#EXTINF: 0, SkyTurk 360
-
-http://edge.ailetv.net/org18/skyturk360_me/playlist.m3u8
-
-#EXTINF: 0, TRT Müzik
-
-http://edge.ailetv.net/org18/trtmusic_me/playlist.m3u8
-
-#EXTINF:-0, TRT HD
-
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 
 
 
