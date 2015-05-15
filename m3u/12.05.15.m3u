@@ -1,15 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-0,KORSAN ARSLION HIZMETINIZDE :)
-http://
-#EXTINF:-0,Akhisar -BJK
-http://104.154.77.179:5001/retricaspor
-#EXTINF:-0,Akhisar -BJK
-rtmp://63.237.48.8/live/direnadmin
-#EXTINF:-0,Akhisar -BJK
-http://83.169.58.36/live/turktv2015/playlist.m3u8
-#EXTINF:-0,Akhisar - BJK?
-rtmp://79.125.5.214:1935/live/texas5
-
+#EXTINF:-0,Sopcast yayini varsa onu acin daha iyi
+sop://
 #EXTINF:-0,SOPCAST
 http://
 #EXTINF:-0,Akhisar -BJK
@@ -20,6 +11,22 @@ lıg tv sop://broker.sopcast.com:3912/257318
 sop://broker.sopcast.com:3912/256779
 #EXTINF:-0,LIG TV 4
 sop://broker.top90da.com:3912/257128
+
+#EXTINF:-0,---------------------------------------
+http://
+#EXTINF:-0,SERVER
+http://
+#EXTINF:-0,Akhisar -BJK
+http://104.154.77.179:5001/retricaspor
+#EXTINF:-0,Akhisar -BJK
+rtmp://63.237.48.8/live/direnadmin
+#EXTINF:-0,Akhisar -BJK
+http://83.169.58.36/live/turktv2015/playlist.m3u8
+#EXTINF:-0,Akhisar - BJK?
+rtmp://79.125.5.214:1935/live/texas5
+#EXTINF:-1,ligtv maclarda acik
+http://hls.goodgame.ru/hls/20932.m3u8
+
 
 
 
