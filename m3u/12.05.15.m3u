@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-0,Sopcast yayini varsa onu acin daha iyi
 sop://
+#EXTINF:-0,
+http://
 #EXTINF:-0,SOPCAST
 http://
 #EXTINF:-0,Akhisar -BJK
@@ -12,7 +14,7 @@ sop://broker.sopcast.com:3912/256779
 #EXTINF:-0,LIG TV 4
 sop://broker.top90da.com:3912/257128
 
-#EXTINF:-0,---------------------------------------
+#EXTINF:-0,----------------------------------------------------------------------------------------
 http://
 #EXTINF:-0,SERVER
 http://
