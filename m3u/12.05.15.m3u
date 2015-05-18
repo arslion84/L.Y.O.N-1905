@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-0,AZIIIIIIIIIZZZZZ!!!
+#EXTINF:-0, En saglam ve iyi Kaliteyi Herzaman 1.linke ekliyorum Haberiniz olsun bir kac defa basmaniz gerekebilir.
 http://
 
 #EXTINF:-0,(****YILDIZ)
@@ -15,8 +15,8 @@ sop://151.80.76.190:3912/529265
 http://
 #EXTINF:-0,(Alternativ)
 http://
-#EXTINF:-0,Mersin - Fener 3
-http://business:sporlive@85.14.255.79:8080/businesshdlive1
+#EXTINF:-0,Besiktas- Torku Konya 3
+rtmp://85.132.67.123:1935/live/turktv42
 #EXTINF:-0,Mersin - Fener 4
 rtmp://63.237.48.8/live/direnadmin
 #EXTINF:-0,LIGTV
@@ -24,6 +24,10 @@ http://83.169.58.36/live/turktv2015/playlist.m3u8
 #EXTINF:-0,LIGTV 
 rtmp://79.125.5.214:1935/live/texas5
 
+
+
+#EXTINF:-0, YASASIN KORSANLIK ....Arslion Sunar
+http://
 
 
 
