@@ -1,26 +1,20 @@
 ﻿#EXTM3U
-#EXTINF:-0, En saglam ve iyi Kaliteyi Herzaman 1.linke ekliyorum Haberiniz olsun 
-http://
 #EXTINF:-0,Maca 5-10 dk kala Ligtv ye Tekrar girin en son güncellemeyi Ozaman Yapiyorum
 http://
-#EXTINF:-0,IYI SEYIRLER
-http://
-#EXTINF:-0,1.Besiktas- Torku Konya (iyi kalite)
-sop://151.80.76.190:3912/257468
-#EXTINF:-0,2.LINK YOK 
-sop://broker.sopcast.com:3912/257408
+#EXTINF:-0,1.BVB - Werder Bremen 
+sop://broker.sopcast.com:3912/257224
+#EXTINF:-0,2.BVB - Werder Breme 
+sop://broker.sopcast.com:3912/257225
 
 #EXTINF:-0,-----------------------------------------
 http://
-#EXTINF:-0,(Alternativ)
-http://
 #EXTINF:-0,3.Arslion TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
-#EXTINF:-0,4.Besiktas- Torku Konya 
-http://bu:business@85.14.255.79:8080/onlyforyou
-#EXTINF:-0,5.Besiktas- Torku Konya 
+#EXTINF:-0,4.LIGTV
+http://business:3443@85.14.255.79:8081/77business77
+#EXTINF:-0,5.x
 rtmp://63.237.48.8/live/simpletv
-#EXTINF:-0,6.Besiktas- Torku Konya 
+#EXTINF:-0,6.x 
 rtmp://85.132.67.123:1935/live/turktv42
 
 
