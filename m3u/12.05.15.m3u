@@ -12,13 +12,13 @@ sop://broker.sopcast.com:3912/257294
 http://
 #EXTINF:-0,Kanal3.Galatasaray - Besiktas (LIGTV)
 rtmp://63.237.48.8/live/simpletvhd
-#EXTINF:-0,Kanal4.x
+#EXTINF:-0,Kanal4.Galatasaray - Besiktas (LIGTV)
 http://bysamihd:fulhdstream@195.154.54.172:5001
-#EXTINF:-0,Kanal5.x 
+#EXTINF:-0,Kanal5.Galatasaray - Besiktas (LIGTV)
 rtmp://63.237.48.8/live/simpletv
-#EXTINF:-0,Kanal6.x 
+#EXTINF:-0,Kanal6.Galatasaray - Besiktas (LIGTV) 
 rtmp://63.237.48.8/live/simpletv
-#EXTINF:-0,Kanal7.x 
+#EXTINF:-0,Kanal7.Galatasaray - Besiktas (LIGTV) 
 rtmp://63.237.48.8/live/simpletv
 #EXTINF:-0,Kanal8.Arslion TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
