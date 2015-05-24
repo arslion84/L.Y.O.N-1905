@@ -5,12 +5,7 @@ http://
 sop://broker.sopcast.com:3912/257224
 #EXTINF:-0,2.BVB - Werder Breme 
 sop://broker.sopcast.com:3912/257225
-#EXTINF:-0,2.21:30 REAL MADRID-GETAFE
-sop://broker.sopcast.com:3912/257223
-#EXTINF:-0,1.19:30 FC BARCELONA-DEPORTIVO
-sop://broker.sopcast.com:3912/257222
-#EXTINF:-0,2.19:30 FC BARCELONA-DEPORTIVO
-sop://broker.sopcast.com:3912/257223
+
 
 
 #EXTINF:-0,-----------------------------------------
@@ -18,9 +13,9 @@ http://
 #EXTINF:-0,3.Arslion TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 #EXTINF:-0,4.LIGTV
-http://business:3443@85.14.255.79:8081/77business77
-#EXTINF:-0,5.x
-rtmp://63.237.48.8/live/simpletv
+http://live:business@85.14.255.79:8080/businesssporhd1
+#EXTINF:-0,GS - FB Basket Maci
+http://okay:gunkod@85.14.255.79:8080/okayiptv?ahmetvipiptv?ip2015tv
 #EXTINF:-0,6.x 
 rtmp://85.132.67.123:1935/live/turktv42
 
