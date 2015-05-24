@@ -1,23 +1,23 @@
 ﻿#EXTM3U
 #EXTINF:-0,Maca 5-10 dk kala Ligtv ye Tekrar girin en son güncellemeyi Ozaman Yapiyorum
 http://
-#EXTINF:-0,1.BVB - Werder Bremen 
+#EXTINF:-0,1.Galatasaray - Besiktas (LIGTV) 
 sop://broker.sopcast.com:3912/257224
-#EXTINF:-0,2.BVB - Werder Breme 
+#EXTINF:-0,2.x 
 sop://broker.sopcast.com:3912/257225
 
 
 
 #EXTINF:-0,-----------------------------------------
 http://
-#EXTINF:-0,3.Arslion TV
-rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
-#EXTINF:-0,4.LIGTV
-http://live:business@85.14.255.79:8080/businesssporhd1
-#EXTINF:-0,GS - FB Basket Maci
+#EXTINF:-0,4.Galatasaray - Besiktas (LIGTV)
+rtmp://83.169.58.36/live/andreas
+#EXTINF:-0,x
 http://okay:gunkod@85.14.255.79:8080/okayiptv?ahmetvipiptv?ip2015tv
 #EXTINF:-0,6.x 
 rtmp://85.132.67.123:1935/live/turktv42
+#EXTINF:-0,3.Arslion TV
+rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 
 
 
