@@ -10,10 +10,11 @@ sop://broker.sopcast.com:3912/257294
 
 #EXTINF:-0,-----------------------------------------
 http://
-#EXTINF:-0,Kanal3.LIGTV
+#EXTINF:-0,Kanal4.LIGTV
+rtmp://199.168.116.10/app/efsanet24s-channel
+#EXTINF:-0,Kanal3.LIGTV 
 rtmp://185.63.252.155/app/websportr
-#EXTINF:-0,Kanal4.x
-http://bysamihd:fulhdstream@195.154.54.172:5001
+
 #EXTINF:-0,Kanal5.x
 
 
