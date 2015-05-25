@@ -11,7 +11,7 @@ sop://broker.sopcast.com:3912/257294
 #EXTINF:-0,-----------------------------------------
 http://
 #EXTINF:-0,Kanal3.LIGTV
-rtmp://63.237.48.8/live/simpletvhd
+rtmp://185.63.252.155/app/websportr
 #EXTINF:-0,Kanal4.x
 http://bysamihd:fulhdstream@195.154.54.172:5001
 #EXTINF:-0,Kanal5.x
