@@ -1,26 +1,23 @@
 ﻿#EXTM3U
 #EXTINF:-0,Güncellenme Günü: 30.05.15 (x yazanlarda yayin yok )
 http://
-#EXTINF:-0,Kanal1.Fenevbahce - Kasimpasa
+#EXTINF:-0,Kanal1.x
 sop://broker.sopcast.com:3912/257638
 #EXTINF:-0,Kanal1.x
 sop://broker.sopcast.com:3912/257294
-
-
-
 #EXTINF:-0,-----------------------------------------
 http://
-#EXTINF:-0,Kanal3.Hakan Tosunun Maci var
+#EXTINF:-0,x
 rtmp://83.169.58.36/live/maclinklerimttv
 #EXTINF:-0,Kanal4.x
 rtmp://199.168.116.9/app//heppss-channel
-#EXTINF:-0,Kanal5.4Yildiz TV (Fenevbahce - Kasimpasa)
+#EXTINF:-0,Kanal5.4Yildiz TV 
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 
 
 
 
-#EXTINF:-0, YASASIN KORSANLIK ....Arslion Sunar
+
 http://
 
 
