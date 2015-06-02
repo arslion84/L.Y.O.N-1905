@@ -1,12 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-0,Güncellenme Günü: 01.06.15 
+#EXTINF:-0,Güncellenme Tarih: 02.06.15  HTS1993
 http://
 #EXTINF:-0,Kanal1 - LIG TV
-http://zafer49:zafer49@46.105.235.249:5001
+http://adem52:adem52@46.105.235.249:5001
 #EXTINF:-0,Kanal2 - LIG TV
-http://zafer49:zafer49@46.105.235.249:5002
+http://adem52:adem52@46.105.235.249:5002
 #EXTINF:-0,Kanal3 - Smartspor HD
-http://zafer49:zafer49@46.105.235.249:5005
+http://adem52:adem52@46.105.235.249:5004
 #EXTINF:-0,Kanal4 - 4Stars TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 
