@@ -1,16 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-0,Güncellenme Tarih: 03.06.15  HTS1993
 http://
-#EXTINF:-0,Kanal1 - LIG TV
+#EXTINF:-0,Kanal1 - x
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/2.m3u8
-#EXTINF:-0,Kanal2 - SKY BUNDESLIGA HD 1
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/100.m3u8
-#EXTINF:-1,Kanal3 - Sky Sport1 HD
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/101.m3u8
-#EXTINF:-0,Kanal4 - SKY SPORT 2 HD
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/102.m3u8
-#EXTINF:-1,Kanal5 - ATV HD
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/1.m3u8
 #EXTINF:-0,Kanal6 - 4Stars TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 
