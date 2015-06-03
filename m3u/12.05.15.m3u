@@ -3,19 +3,15 @@
 http://
 #EXTINF:-0,Kanal1 - LIG TV
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/2.m3u8
-#EXTINF:-0,Kanal1 - SKY BUNDESLIGA HD 1
+#EXTINF:-0,Kanal2 - SKY BUNDESLIGA HD 1
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/100.m3u8
-#EXTINF:-1,Sky Sport1 HD
+#EXTINF:-1,Kanal3 - Sky Sport1 HD
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/101.m3u8
-#EXTINF:-0,Kanal1 - SKY SPORT 2 HD
+#EXTINF:-0,Kanal4 - SKY SPORT 2 HD
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/102.m3u8
-#EXTINF:-1,Sky-Cinema-DE
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/150.m3u8
-#EXTINF:-1,Sky-Action-DE
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/151.m3u8
-#EXTINF:-1,ATV HD
+#EXTINF:-1,Kanal5 - ATV HD
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/1.m3u8
-#EXTINF:-0,Kanal4 - 4Stars TV
+#EXTINF:-0,Kanal6 - 4Stars TV
 rtmp://85.132.67.123:1935/live/zuhzibgzbgnhmg67nu8zt7znzt687zrgnncexswbnmjhzfvdces3246t6t7
 
 
