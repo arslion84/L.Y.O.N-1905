@@ -1,18 +1,24 @@
 ﻿#EXTM3U
-#EXTINF:-0,Güncellenme Tarih: 11.06.15  HTS1993
+#EXTINF:-0,Güncellenme Tarih: 13.06.15  HTS1993
 http://
 #EXTINF:-0,Kanal1 - x
 http://proiptv.505x.biz:8000/live/dux0013/hdueu/2.m3u8
-#EXTINF:-0,Kanal6 - 4Stars TV
+#EXTINF:-0,Kanal2 - 4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 
 
-#EXTINF:-0,---FILMLER-----------------------------------------------------------
+
+#EXTINF:-0,---SINEMA FILMLER-----
+http://
 #EXTINF:-0,PEK YAKINDA (CEM YILMAZ)
 http://217.20.153.83/?id=43133438636&expires=1434208451821&type=1&ct=0&sig=771f16693ff790a5983eac0992c872f25e1b024d&clientType=0
-#EXTINF:-0,BATMAN HD ( CIZGI FILM)
-http://st306.u1.videomega.tv/v/8df0f11a325bdc45b454104f0637b4ec.mp4?st=YGJ9LfQDVQ8qzmtiao4ibA&hash=ebQt5cIWCVqsZnLn3Mn1Ag
 
+#EXTINF:-0,---CIZGI FILMLER-----
+http://
+#EXTINF:-0,BATMAN HD 
+http://st306.u1.videomega.tv/v/8df0f11a325bdc45b454104f0637b4ec.mp4?st=YGJ9LfQDVQ8qzmtiao4ibA&hash=ebQt5cIWCVqsZnLn3Mn1Ag
+#EXTINF:-0,BAY PEABODY VE MERAKLİ SHERMAN
+http://cdn30.my.mail.ru/hv/50501044.mp4?sign=82e868c312f43ce848746c581c97229ef850a22a&slave[]=f:cdn62.video.mail.ru&slave[]=s:http://127.0.0.1:5010/50501044-hv.mp4&p=f&expire_at=1434164400&touch=1406337393&region=202
 
 
 
