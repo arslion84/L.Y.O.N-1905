@@ -1,8 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-0,Güncellenme Tarih: 13.06.15  HTS1993
-http://
-#EXTINF:-0,Kanal1 - x
-http://proiptv.505x.biz:8000/live/dux0013/hdueu/2.m3u8
+#EXTINF:-0,Kanal1 - HTS93 TARIHI FILMI
+https://www.dropbox.com/s/4t9r9fndoc8anp5/HTS_2006-2007.mpg?dl=0
 #EXTINF:-0,Kanal2 - 4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 
