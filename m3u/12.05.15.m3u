@@ -1,25 +1,24 @@
 ﻿#EXTM3U
-#EXTINF:-0,HTS93 TARIHI FILMI
-https://youtu.be/wK4V8Z14u1M
-#EXTINF:-0,4Stars TV
+
+#EXTINF:-0,Kanal1 - 4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 
 
 
-#EXTINF:-0,---SINEMA FILMLER-----
+#EXTINF:-0,>>SINEMA FILMLER
 http://
-#EXTINF:-0,PEK YAKINDA (CEM YILMAZ)
+#EXTINF:-0,Pek Yakinda 
 http://217.20.153.83/?id=43133438636&expires=1434208451821&type=1&ct=0&sig=771f16693ff790a5983eac0992c872f25e1b024d&clientType=0
-#EXTINF:-0,YAPISIK KARDESLER
+#EXTINF:-0,Yapisik Kardesler
 http://217.20.153.83/?id=43451812433&expires=1434239369343&type=2&ct=0&sig=26f3ac1e4b14067dd06a3c3f5b2ff70aa8813b56&clientType=0
 
 
 
-#EXTINF:-0,---CIZGI FILMLER-----
+#EXTINF:-0,>>CIZGI FILMLER
 http://
-#EXTINF:-0,BATMAN HD 
+#EXTINF:-0,Batman 2015
 http://st306.u1.videomega.tv/v/8df0f11a325bdc45b454104f0637b4ec.mp4?st=YGJ9LfQDVQ8qzmtiao4ibA&hash=ebQt5cIWCVqsZnLn3Mn1Ag
-#EXTINF:-0,6 SÜPER KAHRAMAN
+#EXTINF:-0,6 Süper Kahraman
 http://cs634504v4.vk.me/u273241730/videos/6f31c8fd47.480.mp4?extra=x3mekJ6ryCpj2-bYufVTCk-Pcjj8YVuSlvwEA4BLa07btvIs6GXKsbFtFFA1INil_04gGv0_HpVEYgwfoGaThKGwBoUfFA&start=10.425
 
 
