@@ -1,5 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-0,nnnnnn
 <iframe src="http://www.canlitvip.com/embedtv.php?q=atv" frameborder="0" width="480" height="270"></iframe>
+#EXTINF:-0,mmmmmmm
+http://www.canlitvip.com
+#EXTINF:-0,mmmmmmma
+src="http://www.canlitvip.com/embedtv.php
+
+
 #EXTINF:-0,Kanal1 - HTS93 TARIHI FILMI
 http://youtu.be/wK4V8Z14u1M
 #EXTINF:-0,Kanal2 - 4Stars TV
