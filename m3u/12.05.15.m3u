@@ -2,13 +2,13 @@
 
 #EXTINF:-0,Kanal1 - 4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
-#EXTINF:-0,Kanal2 - LIGTV
-rtmp://83.169.58.36/live/turktv2015
+
 
 #EXTINF:-0,>>SINEMA FILMLER
 http://
 #EXTINF:-0,Pek Yakinda 
-http://217.20.153.83/?id=43133438636&expires=1434208451821&type=1&ct=0&sig=771f16693ff790a5983eac0992c872f25e1b024d&clientType=0
+http://77.81.98.137/hls/ozuqjybpzu2qedz7njgr5ddrid57hkx2kjtn4wvs4lpxp73pjnaoas7ysasa/chunk.m3u8
+
 #EXTINF:-0,Yapisik Kardesler
 http://217.20.153.83/?id=43451812433&expires=1434239369343&type=2&ct=0&sig=26f3ac1e4b14067dd06a3c3f5b2ff70aa8813b56&clientType=0
 
