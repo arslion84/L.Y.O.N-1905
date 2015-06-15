@@ -7,7 +7,8 @@ rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 #EXTINF:-0,>>SINEMA FILMLER
 http://
 #EXTINF:-0,Pek Yakinda 
-http://77.81.98.137/hls/ozuqjybpzu2qedz7njgr5ddrid57hkx2kjtn4wvs4lpxp73pjnaoas7ysasa/chunk.m3u8
+http://217.20.153.81/?id=40602635000&expires=1434492342341&type=1&ct=0&sig=65d602142bce3155cf34aa81ad417be4421f6e2a&clientType=0
+
 
 #EXTINF:-0,Yapisik Kardesler
 http://217.20.153.83/?id=43451812433&expires=1434239369343&type=2&ct=0&sig=26f3ac1e4b14067dd06a3c3f5b2ff70aa8813b56&clientType=0
