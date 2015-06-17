@@ -1,26 +1,100 @@
 ﻿#EXTM3U
 
+#EXTINF:-0,Kanal1 - LIGTV 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/209.ts
+
+#EXTINF:-0,Kanal1 - LIGTV 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/79.ts
+
+#EXTINF:-0,Kanal1 - LIGTV 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/182.ts
+
+#EXTINF:-1,lig 1
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr015?user=emrekutahya&pass=11122014
+#EXTINF:-1,lig 2
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr016?user=emrekutahya&pass=11122014
+#EXTINF:-1,lig  3
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr017?user=emrekutahya&pass=11122014
+#EXTINF:-1,SPOR 4
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr018?user=emrekutahya&pass=11122014
+#EXTINF:-1,SPOR 5
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr019?user=emrekutahya&pass=11122014
+#EXTINF:-1,CINEMA 1
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr020?user=emrekutahya&pass=11122014
+#EXTINF:-1,CINEMA 2
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr021?user=emrekutahya&pass=11122014
+#EXTINF:-1,CINEMA 3
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr022?user=emrekutahya&pass=11122014
+#EXTINF:-1,Kanal D HD
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr023?user=emrekutahya&pass=11122014
+#EXTINF:-1,ATV HD
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr024?user=emrekutahya&pass=11122014
+#EXTINF:-1,Show HD
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr025?user=emrekutahya&pass=11122014
+#EXTINF:-1,Star HD
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr026?user=emrekutahya&pass=11122014
+#EXTINF:-1,FOX HD
+rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr027?user=emrekutahya&pass=11122014
+#EXTINF:-1,TRT 1
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch24?user=emrekutahya&pass=11122014
+#EXTINF:-1,TRT HABER
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch25?user=emrekutahya&pass=11122014
+#EXTINF:-1,CNN TURK
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch29?user=emrekutahya&pass=11122014
+#EXTINF:-1,NTV AVRUPA
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch07?user=emrekutahya&pass=11122014
+#EXTINF:-1,360 TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch08?user=emrekutahya&pass=11122014
+#EXTINF:-1,A HABER
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch14?user=emrekutahya&pass=11122014
+#EXTINF:-1,SAMANYOLU HABER
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch17?user=emrekutahya&pass=11122014
+#EXTINF:-1,ULKE TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch13?user=emrekutahya&pass=11122014
+#EXTINF:-1,KANAL TURK
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch19?user=emrekutahya&pass=11122014
+#EXTINF:-1,TV 8
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch15?user=emrekutahya&pass=11122014
+#EXTINF:-1,KANAL7 Avrupa
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch12?user=emrekutahya&pass=11122014
+#EXTINF:-1,SAMANYOLU
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch16?user=emrekutahya&pass=11122014
+#EXTINF:-1,TV 2
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch30?user=emrekutahya&pass=11122014
+#EXTINF:-1,FLASH TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch11?user=emrekutahya&pass=11122014
+#EXTINF:-1,HALK TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch22?user=emrekutahya&pass=11122014
+#EXTINF:-1,ULUSAL KANAL
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch23?user=emrekutahya&pass=11122014
+#EXTINF:-1,IMC TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch09?user=emrekutahya&pass=11122014
+#EXTINF:-1,HAYAT TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch10?user=emrekutahya&pass=11122014
+#EXTINF:-1,CEM TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch21?user=emrekutahya&pass=11122014
+#EXTINF:-1,YOL TV
+rtmp://yol.dyndns.tv:2100/yol/yolstream?user=emrekutahya&pass=11122014
+#EXTINF:-1,TV 10
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch20?user=emrekutahya&pass=11122014
+#EXTINF:-1,TRT 3 SPOR
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch26?user=emrekutahya&pass=11122014
+#EXTINF:-1,TRT COCUK
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch27?user=emrekutahya&pass=11122014
+#EXTINF:-1,YUMURCAK TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch18?user=emrekutahya&pass=11122014
+#EXTINF:-1,TRT MUZIK
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch28?user=emrekutahya&pass=11122014
+#EXTINF:-1,NR1 TURK TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch01?user=emrekutahya&pass=11122014
+#EXTINF:-1,KRAL POP TV
+rtmp://free-fta-tsat-linkadd.is-very-good.org:2100/slot2/ch02?user=emrekutahya&pass=11122014
+
+
+
 #EXTINF:-0,Kanal1 - 4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 
-
-#EXTINF:-0,>>SINEMA FILMLER
-http://
-#EXTINF:-0,Pek Yakinda 
-http://217.20.153.81/?id=40602635000&expires=1434492342341&type=1&ct=0&sig=65d602142bce3155cf34aa81ad417be4421f6e2a&clientType=0
-
-
-#EXTINF:-0,Yapisik Kardesler
-http://217.20.153.83/?id=43451812433&expires=1434239369343&type=2&ct=0&sig=26f3ac1e4b14067dd06a3c3f5b2ff70aa8813b56&clientType=0
-
-
-
-#EXTINF:-0,>>CIZGI FILMLER
-http://
-#EXTINF:-0,Batman 2015
-http://st306.u1.videomega.tv/v/8df0f11a325bdc45b454104f0637b4ec.mp4?st=YGJ9LfQDVQ8qzmtiao4ibA&hash=ebQt5cIWCVqsZnLn3Mn1Ag
-#EXTINF:-0,6 Süper Kahraman
-http://cs634504v4.vk.me/u273241730/videos/6f31c8fd47.480.mp4?extra=x3mekJ6ryCpj2-bYufVTCk-Pcjj8YVuSlvwEA4BLa07btvIs6GXKsbFtFFA1INil_04gGv0_HpVEYgwfoGaThKGwBoUfFA&start=10.425
 
 
 
