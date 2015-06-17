@@ -1,14 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-0,Kanal1 - LIGTV 1
-http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/209.ts
-
-#EXTINF:-0,Kanal1 - LIGTV 2
-http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/79.ts
-
-#EXTINF:-0,Kanal1 - LIGTV 3
-http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/182.ts
-
 #EXTINF:-1,lig 1
 rtmp://xyznewstplsfreewebsearch.dyndns.info:2100/slot1/hdr015?user=emrekutahya&pass=11122014
 #EXTINF:-1,lig 2
