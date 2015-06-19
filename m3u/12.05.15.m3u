@@ -9,8 +9,7 @@ http://www.nasatv.eu:80/live?channelId=101&uid=5&deviceUser=amer&devicePass=amer
 #EXTINF:-0,4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 #EXTINF:-0,Halk TV
-rtmp://37.77.31.3:1935/liveedge<playpath>live <swfUrl>http://i.tmgrup.com.tr/players/jwplayer/jwplayer.flash.swf <pageUrl>http://www.canlitv.mobi/halk-tv <objectEncoding>
-
+http://37.77.2.236:1935/liveedge/live/playlist.m3u8
 
 
 
