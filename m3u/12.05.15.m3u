@@ -1,17 +1,6 @@
-﻿#EXTM3U
-
-#EXTINF:-0,SPORTKLUB 1
-http://www.nasatv.eu:80/live?channelId=87&uid=5&deviceUser=amer&devicePass=amer
-#EXTINF:-0,SPORTKLUB 2
-http://www.nasatv.eu:80/live?channelId=88&uid=5&deviceUser=amer&devicePass=amer
-#EXTINF:-0,SportKlub 3
-http://www.nasatv.eu:80/live?channelId=101&uid=5&deviceUser=amer&devicePass=amer
-#EXTINF:-0,4Stars TV
+﻿#EXTINF:-0,4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
-#EXTINF:-0,Halk TV
-http://37.77.2.236:1935/liveedge/live/playlist.m3u8
-#EXTINF:-1,CEM TV
-rtmp://stream.pivol.com:1935/live/cemtv.flv
+
 
 
 
