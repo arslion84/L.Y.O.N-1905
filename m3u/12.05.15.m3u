@@ -10,6 +10,8 @@ http://www.nasatv.eu:80/live?channelId=101&uid=5&deviceUser=amer&devicePass=amer
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 #EXTINF:-0,Halk TV
 http://37.77.2.236:1935/liveedge/live/playlist.m3u8
+#EXTINF:-1,CEM TV
+rtmp://stream.pivol.com:1935/live/cemtv.flv
 
 
 
