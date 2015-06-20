@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+
+#EXTINF:-0,Pek Yakinda
+http://77.81.98.137/hls/ozuqjybpzu2qedz7njgr5ddrid57hkx2kjtn4wvs4lpxoa7hw36p65dmijoq/chunk.m3u8
 #EXTINF:-0,4Stars TV
 rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 #EXTINF:-0,SPOR 1
