@@ -5,3 +5,23 @@ rtmp://85.132.67.123:1935/live/dbdhcbdhcbddgcbddbj749436434jcncjhdfjhs73
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
+#EXTINF:-0,ATV
+http://yayinlar.tvizleyim.com/org3/atv_me/playlist.m3u8
+#EXTINF:-0,KANAL D
+http://yayinlar.tvizleyim.com/org12/kanald_me/playlist.m3u8
+#EXTINF:-0,STAR 
+http://yayinlar.tvizleyim.com/org8/startv_me/playlist.m3u8
+#EXTINF:-0,TV8
+http://yayinlar.tvizleyim.com/org4/tv8_me/playlist.m3u8
+#EXTINF:-0,FOX
+http://yayinlar.tvizleyim.com/org1/foxtr_me/playlist.m3u8
+#EXTINF:-0,TRT 1
+http://yayinlar.tvizleyim.com/org5/trt1_me/playlist.m3u8
+#EXTINF:-0,KANAL 7
+http://yayinlar.tvizleyim.com/org3/kanal7_me/playlist.m3u8
+#EXTINF:-0,SKY TÜRK
+http://yayinlar.tvizleyim.com/org18/skyturk360_me/playlist.m3u8
+#EXTINF:-0,KANALTÜRK
+http://yayinlar.tvizleyim.com/org12/kanalturk_me/playlist.m3u8
+#EXTINF:-0,SAMANYOLU
+http://yayinlar.tvizleyim.com/org16/samanyolutv_me/playlist.m3u8
