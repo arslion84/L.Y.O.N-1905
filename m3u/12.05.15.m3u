@@ -37,50 +37,50 @@ http://yayinlar.tvizleyim.com/org6/trtspor_me/playlist.m3u8
 http://yayinlar.tvizleyim.com/org18/aspor_me/playlist.m3u8
 #EXTINF:-0,SPORTS TV
 http://yayinlar.tvizleyim.com/org10/sportstv_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,AKILLI TV
 http://yayinlar.tvizleyim.com/org17/akillitv_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,PLANET MUTFAK
 http://yayinlar.tvizleyim.com/org1/planetmutfak_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,PLANET TÜRK
 http://yayinlar.tvizleyim.com/org16/planetturk_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,E2
 http://yayinlar.tvizleyim.com/org9/e2_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,YABAN TV
 http://yayinlar.tvizleyim.com/org10/yabantv_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,VIVA TV
 http://yayinlar.tvizleyim.com/org17/vivatv_me/playlist.m3u8
-#EXTINF:-0, 
+#EXTINF:-0,KRAL POP
 http://yayinlar.tvizleyim.com/org1/kralpoptv_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,KRAL
 http://yayinlar.tvizleyim.com/org1/kral_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,NR 1
 http://yayinlar.tvizleyim.com/org10/nr1_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,POWERTÜRK
 http://yayinlar.tvizleyim.com/org10/powerturktv_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,TRT MUSIC
 http://yayinlar.tvizleyim.com/org18/trtmusic_me/playlist.m3u8
-#EXTINF:-0,  
+#EXTINF:-0,DISNEY CHANNEL  
 http://yayinlar.tvizleyim.com/org4/disney_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,NICKELODEON
 http://yayinlar.tvizleyim.com/org13/nickelodeon_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,CARTOON NETWORK
 http://yayinlar.tvizleyim.com/org5/cartoonnetwork_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,PLANET COCUK
 http://yayinlar.tvizleyim.com/org1/planetcocuk_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,YUMURCAK TV
 http://yayinlar.tvizleyim.com/org4/yumurcaktv_me/playlist.m3u8
-#EXTINF:-0,   
+#EXTINF:-0,MINIKA COCUK   
 http://yayinlar.tvizleyim.com/org12/minikacocuk_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,TRT COCUK
 http://yayinlar.tvizleyim.com/org5/trtcocuk_me/playlist.m3u8
-#EXTINF:-0,
+#EXTINF:-0,TRT AVAZ
 http://yayinlar.tvizleyim.com/org4/trtavaz_me/playlist.m3u8
 #EXTINF:-0,TV2
 http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
-#EXTINF:-0, TRT HD
+#EXTINF:-0,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-0, CNN TÜRK
+#EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
