@@ -86,119 +86,61 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF: 0, SERVER 2
 http://
 #EXTINF: 0, TRT 1
-
 http://edge.ailetv.net/org5/trt1_me/playlist.m3u8
-
 #EXTINF: 0, TV 8
-
 http://edge.ailetv.net/org4/tv8_me/playlist.m3u8
-
 #EXTINF: 0, Star TV
-
 http://edge.ailetv.net/org8/startv_me/playlist.m3u8
-
 #EXTINF: 0, Kanal D
-
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
-
 #EXTINF: 0, ATV Türk
-
 http://edge.ailetv.net/org3/atv_me/playlist.m3u8
-
 #EXTINF: 0, FOX Türkiye
-
 http://edge.ailetv.net/org1/foxtr_me/playlist.m3u8
-
 #EXTINF:-0,TV2
-
 http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-
 #EXTINF: 0, Kanal 7
-
 http://livetr.gostream.nl/kanal7hq/kanal7hq/radyodelisi.m3u8
-
 #EXTINF: 0, Samanyolu
-
 http://yayin.canlitv.mobi/www-canlitv-mobi/stv.m3u8
-
 #EXTINF: 0, KanalTürk
-
 http://edge.ailetv.net/org12/kanalturk_me/playlist.m3u8
-
 #EXTINF: 0, TRT Avaz
-
 http://edge.ailetv.net/org4/trtavaz_me/playlist.m3u8
-
 #EXTINF:-1,Ülke HD
-
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
-
 #EXTINF: 0, Akıllı TV
-
 http://edge.ailetv.net/org17/akillitv_me/playlist.m3u8
-
 #EXTINF: 0, E2
-
 http://edge.ailetv.net/org9/e2_me/playlist.m3u8
-
 #EXTINF:-0, TRT HD
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-
 #EXTINF:-0, CNN TÜRK
-
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
 #EXTINF: 0, Cine 5
-
 http://edge.ailetv.net/org2/cine5_me/playlist.m3u8
-
-
 #EXTINF: 0, Planet Türk
-
 http://edge.ailetv.net/org16/planetturk_me/playlist.m3u8
-
 #EXTINF:-1,Kral 
-
 http://edge.ailetv.net/org1/kral_me/playlist.m3u8
-
 #EXTINF:-1,Kral Pop 
-
 http://edge.ailetv.net/org1/kralpoptv_me/playlist.m3u8
-
 #EXTINF: 0, PowerTürk
-
 http://edge.ailetv.net/org10/powerturktv_me/playlist.m3u8
-
 #EXTINF: 0, TRT Müzik
-
 http://edge.ailetv.net/org18/trtmusic_me/playlist.m3u8
-
 #EXTINF: 0, Yumurcak TV
-
 http://yayin.canlitv.mobi/www-canlitv-mobi/yumurcaktv.m3u8
-
 #EXTINF: 0, Minika Çocuk
-
 http://yayin.canlitv.mobi/www-canlitv-mobi/minikacocuk.m3u8
-
 #EXTINF: 0, TRT Çocuk
-
 http://edge.ailetv.net/org5/trtcocuk_me/playlist.m3u8
-
 #EXTINF: 0, Sports TV
-
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-
 #EXTINF: 0, NTV Spor
-
 http://edge.ailetv.net/org8/ntvspor_me/playlist.m3u8
-
 #EXTINF: 0, TRT Spor
-
 http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
-
 #EXTINF: 0, A Spor
-
 http://hls.turkuvazgroup.net:1935/aspor/aspor3/playlist.m3u8
 
