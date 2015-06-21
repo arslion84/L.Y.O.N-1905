@@ -1,9 +1,5 @@
 ﻿
 
-#EXTINF:-0,Spor 1
-rtmp://77.72.196.214:8554/live/texas
-#EXTINF:-0,Spor 3
-rtmp://77.72.196.214:8554/live/texas1
 #EXTINF:-0,Halk TV
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
@@ -40,8 +36,6 @@ http://yayinlar.tvizleyim.com/org6/trtspor_me/playlist.m3u8
 http://yayinlar.tvizleyim.com/org18/aspor_me/playlist.m3u8
 #EXTINF:-0,SPORTS TV
 http://yayinlar.tvizleyim.com/org10/sportstv_me/playlist.m3u8
-#EXTINF:-0,AKILLI TV
-http://yayinlar.tvizleyim.com/org17/akillitv_me/playlist.m3u8
 #EXTINF:-0,PLANET MUTFAK
 http://yayinlar.tvizleyim.com/org1/planetmutfak_me/playlist.m3u8
 #EXTINF:-0,PLANET TÜRK
