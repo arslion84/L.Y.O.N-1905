@@ -1,7 +1,11 @@
 ﻿#EXTM3U
-#EXTINF:-1,LigTVHD
-rtmp://104.156.49.212/app/andreas42s-channel
+#EXTINF:-1,LigTV
+http://top90davipiptv2015.top90da.com:8080/live/jamal/jamal/1621.ts
+#EXTINF:-1,SHOWTV
+http://31.186.24.232:8000/80
 #EXTINF:-1,STAR TV
+http://31.186.24.232:8000/1
+#EXTINF:-1,FOX TV
 http://31.186.24.232:8000/1
 #EXTINF:-1,BEYAZ TV
 http://31.186.24.232:8000/114
@@ -267,7 +271,6 @@ http://31.186.24.232:8000/148
 http://31.186.24.232:8000/91
 #EXTINF:-1,REHBER TV
 http://31.186.24.232:8000/149
-#EXTINF:-1,SHOWTV
-http://31.186.24.232:8000/80
+
 
 
