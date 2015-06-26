@@ -1,6 +1,32 @@
 ﻿#EXTM3U
-#EXTINF:-1,S
+#EXTINF:-1,SKY Bundesliga HD 1
 http://promo.dyndns.biz:8000/live/italia/italia/1380.m3u8
+#EXTINF:-1,SKY Sport HD 1
+http://promo.dyndns.biz:8000/live/italia/italia/944.m3u8
+#EXTINF:-1,SKY Sport HD 2
+http://promo.dyndns.biz:8000/live/italia/italia/945.m3u8
+#EXTINF:-1,SKY Cinema
+http://promo.dyndns.biz:8000/live/italia/italia/206.m3u8
+#EXTINF:-1,SKY Atlantic
+http://promo.dyndns.biz:8000/live/italia/italia/110.m3u8
+#EXTINF:-1,SKY Action
+http://promo.dyndns.biz:8000/live/italia/italia/209.m3u8
+#EXTINF:-1,SKY Comedy
+http://promo.dyndns.biz:8000/live/italia/italia/207.m3u8
+#EXTINF:-1,SKY Emotion
+http://promo.dyndns.biz:8000/live/italia/italia/208.m3u8
+#EXTINF:-1,SKY Nostalgie
+http://promo.dyndns.biz:8000/live/italia/italia/108.m3u8
+#EXTINF:-1,SKY Hits
+http://promo.dyndns.biz:8000/live/italia/italia/107.m3u8
+#EXTINF:-1,RTL LIVING
+http://promo.dyndns.biz:8000/live/italia/italia/132.m3u8
+#EXTINF:-1,RTL PASSION
+http://promo.dyndns.biz:8000/live/italia/italia/128.m3u8
+#EXTINF:-1,RTL Crime
+http://promo.dyndns.biz:8000/live/italia/italia/130.m3u8
+#EXTINF:-1,Natgeo Wild
+http://promo.dyndns.biz:8000/live/italia/italia/49.m3u8
 #EXTINF:-1,SHOWTV
 http://31.186.24.232:8000/80
 #EXTINF:-1,STAR TV
