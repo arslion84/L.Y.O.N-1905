@@ -21,14 +21,60 @@ http://promo.dyndns.biz:8000/live/italia/italia/208.m3u8
 http://promo.dyndns.biz:8000/live/italia/italia/108.m3u8
 #EXTINF:-1,SKY Hits
 http://promo.dyndns.biz:8000/live/italia/italia/107.m3u8
+#EXTINF:-1,SKY KRIMI
+http://promo.dyndns.biz:8000/live/italia/italia/126.m3u8
 #EXTINF:-1,RTL LIVING
 http://promo.dyndns.biz:8000/live/italia/italia/132.m3u8
 #EXTINF:-1,RTL PASSION
 http://promo.dyndns.biz:8000/live/italia/italia/128.m3u8
 #EXTINF:-1,RTL Crime
 http://promo.dyndns.biz:8000/live/italia/italia/130.m3u8
+#EXTINF:-1,AXN ACTION
+http://promo.dyndns.biz:8000/live/italia/italia/255.m3u8
+#EXTINF:-1,KINOWELT TV
+http://promo.dyndns.biz:8000/live/italia/italia/252.m3u8
+#EXTINF:-1,13th STREET
+http://promo.dyndns.biz:8000/live/italia/italia/131.m3u8
+#EXTINF:-1,MOTORVISION TV
+http://promo.dyndns.biz:8000/live/italia/italia/129.m3u8
+#EXTINF:-1,FOX SERIE
+http://promo.dyndns.biz:8000/live/italia/italia/127.m3u8
+#EXTINF:-1,TNT SERIE
+http://promo.dyndns.biz:8000/live/italia/italia/125.m3u8
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://promo.dyndns.biz:8000/live/italia/italia/105.m3u8
 #EXTINF:-1,Natgeo Wild
 http://promo.dyndns.biz:8000/live/italia/italia/49.m3u8
+http://#EXTINF:-1,SKY SELECET 1
+http://promo.dyndns.biz:8000/live/italia/italia/443.m3u8
+#EXTINF:-1,SKY SELECT 2
+http://promo.dyndns.biz:8000/live/italia/italia/444.m3u8
+#EXTINF:-1,SKY SELECT 3
+http://promo.dyndns.biz:8000/live/italia/italia/448.m3u8
+#EXTINF:-1,SKY SELECT 4
+http://promo.dyndns.biz:8000/live/italia/italia/450.m3u8
+#EXTINF:-1,SKY SELECT 5
+http://promo.dyndns.biz:8000/live/italia/italia/452.m3u8
+#EXTINF:-1,SKY SELECET 6
+http://promo.dyndns.biz:8000/live/italia/italia/446.m3u8
+#EXTINF:-1,SKY SELECET 7
+http://promo.dyndns.biz:8000/live/italia/italia/454.m3u8
+#EXTINF:-1,SKY SELECET 8
+http://promo.dyndns.biz:8000/live/italia/italia/455.m3u8
+#EXTINF:-1,SKY SELECET 9
+http://promo.dyndns.biz:8000/live/italia/italia/449.m3u8
+#EXTINF:-1,SKY SELECET 10
+http://promo.dyndns.biz:8000/live/italia/italia/451.m3u8
+#EXTINF:-1,SKY SELECET 11
+http://promo.dyndns.biz:8000/live/italia/italia/453.m3u8
+#EXTINF:-1,SKY SELECET 12
+http://promo.dyndns.biz:8000/live/italia/italia/447.m3u8
+#EXTINF:-1,SKY SELECET 13
+http://promo.dyndns.biz:8000/live/italia/italia/591.m3u8
+#EXTINF:-1,SKY SELECET 14
+http://promo.dyndns.biz:8000/live/italia/italia/642.m3u8
+
+
 #EXTINF:-1,SHOWTV
 http://31.186.24.232:8000/80
 #EXTINF:-1,STAR TV
