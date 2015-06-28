@@ -1,86 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1,Bazi Kanallari birkac kere Ok liyip deneyin ACACAKTIR!!!
 http://
-#EXTINF:-1,LIGTV
-http://reha:reha55@195.154.184.234:5001
-#EXTINF:-1,LIGTV2
-http://reha:reha55@195.154.184.234:5003
-#EXTINF:-1,SmartSpor HD
-http://reha:reha55@195.154.184.234:5005
-#EXTINF:-1,NTV SMART HD
-http://reha:reha55@195.154.184.234:5007
-#EXTINF:-1,SKY Bundesliga HD 1
-http://promo.dyndns.biz:8000/live/italia/italia/1380.m3u8
-#EXTINF:-1,SKY Sport HD 1
-http://promo.dyndns.biz:8000/live/italia/italia/944.m3u8
-#EXTINF:-1,SKY Sport HD 2
-http://promo.dyndns.biz:8000/live/italia/italia/945.m3u8
-#EXTINF:-1,SKY Cinema
-http://promo.dyndns.biz:8000/live/italia/italia/206.m3u8
-#EXTINF:-1,SKY Atlantic
-http://promo.dyndns.biz:8000/live/italia/italia/110.m3u8
-#EXTINF:-1,SKY Action
-http://promo.dyndns.biz:8000/live/italia/italia/209.m3u8
-#EXTINF:-1,SKY Comedy
-http://promo.dyndns.biz:8000/live/italia/italia/207.m3u8
-#EXTINF:-1,SKY Emotion
-http://promo.dyndns.biz:8000/live/italia/italia/208.m3u8
-#EXTINF:-1,SKY Nostalgie
-http://promo.dyndns.biz:8000/live/italia/italia/108.m3u8
-#EXTINF:-1,SKY Hits
-http://promo.dyndns.biz:8000/live/italia/italia/107.m3u8
-#EXTINF:-1,SKY KRIMI
-http://promo.dyndns.biz:8000/live/italia/italia/126.m3u8
-#EXTINF:-1,RTL LIVING
-http://promo.dyndns.biz:8000/live/italia/italia/132.m3u8
-#EXTINF:-1,RTL PASSION
-http://promo.dyndns.biz:8000/live/italia/italia/128.m3u8
-#EXTINF:-1,RTL Crime
-http://promo.dyndns.biz:8000/live/italia/italia/130.m3u8
-#EXTINF:-1,AXN ACTION
-http://promo.dyndns.biz:8000/live/italia/italia/255.m3u8
-#EXTINF:-1,KINOWELT TV
-http://promo.dyndns.biz:8000/live/italia/italia/252.m3u8
-#EXTINF:-1,13th STREET
-http://promo.dyndns.biz:8000/live/italia/italia/131.m3u8
-#EXTINF:-1,MOTORVISION TV
-http://promo.dyndns.biz:8000/live/italia/italia/129.m3u8
-#EXTINF:-1,FOX SERIE
-http://promo.dyndns.biz:8000/live/italia/italia/127.m3u8
-#EXTINF:-1,TNT SERIE
-http://promo.dyndns.biz:8000/live/italia/italia/125.m3u8
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://promo.dyndns.biz:8000/live/italia/italia/105.m3u8
-#EXTINF:-1,Natgeo Wild
-http://promo.dyndns.biz:8000/live/italia/italia/49.m3u8
-http://#EXTINF:-1,SKY SELECET 1
-http://promo.dyndns.biz:8000/live/italia/italia/443.m3u8
-#EXTINF:-1,SKY SELECT 2
-http://promo.dyndns.biz:8000/live/italia/italia/444.m3u8
-#EXTINF:-1,SKY SELECT 3
-http://promo.dyndns.biz:8000/live/italia/italia/448.m3u8
-#EXTINF:-1,SKY SELECT 4
-http://promo.dyndns.biz:8000/live/italia/italia/450.m3u8
-#EXTINF:-1,SKY SELECT 5
-http://promo.dyndns.biz:8000/live/italia/italia/452.m3u8
-#EXTINF:-1,SKY SELECET 6
-http://promo.dyndns.biz:8000/live/italia/italia/446.m3u8
-#EXTINF:-1,SKY SELECET 7
-http://promo.dyndns.biz:8000/live/italia/italia/454.m3u8
-#EXTINF:-1,SKY SELECET 8
-http://promo.dyndns.biz:8000/live/italia/italia/455.m3u8
-#EXTINF:-1,SKY SELECET 9
-http://promo.dyndns.biz:8000/live/italia/italia/449.m3u8
-#EXTINF:-1,SKY SELECET 10
-http://promo.dyndns.biz:8000/live/italia/italia/451.m3u8
-#EXTINF:-1,SKY SELECET 11
-http://promo.dyndns.biz:8000/live/italia/italia/453.m3u8
-#EXTINF:-1,SKY SELECET 12
-http://promo.dyndns.biz:8000/live/italia/italia/447.m3u8
-#EXTINF:-1,SKY SELECET 13
-http://promo.dyndns.biz:8000/live/italia/italia/591.m3u8
-#EXTINF:-1,SKY SELECET 14
-http://promo.dyndns.biz:8000/live/italia/italia/642.m3u8
+#EXTINF:-1,Diger Kanallar altda!!
+http://
+
 #EXTINF:-0,ATV
 http://yayinlar.tvizleyim.com/org3/atv_me/playlist.m3u8
 #EXTINF:-0,KANAL D
@@ -163,36 +86,80 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,AKSARAY KANAL68
 http://31.186.24.232:8000/134
-#EXTINF:-1,Corum TV CRT
-http://31.186.24.232:8000/135
-#EXTINF:-1,Bursa TV
-http://31.186.24.232:8000/136
-#EXTINF:-1,Aksaray ART
-http://31.186.24.232:8000/137
-#EXTINF:-1,Sivas SRT
-http://31.186.24.232:8000/138
-#EXTINF:-1,MARAL TV
-http://31.186.24.232:8000/139
-#EXTINF:-1,ZİRVE TÜRK TV
-http://31.186.24.232:8000/140
-#EXTINF:-1,TUANA TV
-http://31.186.24.232:8000/141
-#EXTINF:-1,BENGUTURK
-http://31.186.24.232:8000/142
-#EXTINF:-1,KON TV
-http://31.186.24.232:8000/144
-#EXTINF:-1,AKDENIZ TV
-http://31.186.24.232:8000/145
-#EXTINF:-1,SMART TV MARKET
-http://31.186.24.232:8000/146
-#EXTINF:-1,KACKAR TV
-http://31.186.24.232:8000/147
-#EXTINF:-1,VIZYONTURK
-http://31.186.24.232:8000/148
-#EXTINF:-1,KULTURTURK
-http://31.186.24.232:8000/91
-#EXTINF:-1,REHBER TV
-http://31.186.24.232:8000/149
+#EXTINF:-1,SKY Bundesliga HD 1
+http://promo.dyndns.biz:8000/live/italia/italia/1380.m3u8
+#EXTINF:-1,SKY Sport HD 1
+http://promo.dyndns.biz:8000/live/italia/italia/944.m3u8
+#EXTINF:-1,SKY Sport HD 2
+http://promo.dyndns.biz:8000/live/italia/italia/945.m3u8
+#EXTINF:-1,SKY Cinema
+http://promo.dyndns.biz:8000/live/italia/italia/206.m3u8
+#EXTINF:-1,SKY Atlantic
+http://promo.dyndns.biz:8000/live/italia/italia/110.m3u8
+#EXTINF:-1,SKY Action
+http://promo.dyndns.biz:8000/live/italia/italia/209.m3u8
+#EXTINF:-1,SKY Comedy
+http://promo.dyndns.biz:8000/live/italia/italia/207.m3u8
+#EXTINF:-1,SKY Emotion
+http://promo.dyndns.biz:8000/live/italia/italia/208.m3u8
+#EXTINF:-1,SKY Nostalgie
+http://promo.dyndns.biz:8000/live/italia/italia/108.m3u8
+#EXTINF:-1,SKY Hits
+http://promo.dyndns.biz:8000/live/italia/italia/107.m3u8
+#EXTINF:-1,SKY KRIMI
+http://promo.dyndns.biz:8000/live/italia/italia/126.m3u8
+#EXTINF:-1,RTL LIVING
+http://promo.dyndns.biz:8000/live/italia/italia/132.m3u8
+#EXTINF:-1,RTL PASSION
+http://promo.dyndns.biz:8000/live/italia/italia/128.m3u8
+#EXTINF:-1,RTL Crime
+http://promo.dyndns.biz:8000/live/italia/italia/130.m3u8
+#EXTINF:-1,AXN ACTION
+http://promo.dyndns.biz:8000/live/italia/italia/255.m3u8
+#EXTINF:-1,KINOWELT TV
+http://promo.dyndns.biz:8000/live/italia/italia/252.m3u8
+#EXTINF:-1,13th STREET
+http://promo.dyndns.biz:8000/live/italia/italia/131.m3u8
+#EXTINF:-1,MOTORVISION TV
+http://promo.dyndns.biz:8000/live/italia/italia/129.m3u8
+#EXTINF:-1,FOX SERIE
+http://promo.dyndns.biz:8000/live/italia/italia/127.m3u8
+#EXTINF:-1,TNT SERIE
+http://promo.dyndns.biz:8000/live/italia/italia/125.m3u8
+#EXTINF:-1,SPIEGEL GESCHICHTE
+http://promo.dyndns.biz:8000/live/italia/italia/105.m3u8
+#EXTINF:-1,Natgeo Wild
+http://promo.dyndns.biz:8000/live/italia/italia/49.m3u8
+http://#EXTINF:-1,SKY SELECET 1
+http://promo.dyndns.biz:8000/live/italia/italia/443.m3u8
+#EXTINF:-1,SKY SELECT 2
+http://promo.dyndns.biz:8000/live/italia/italia/444.m3u8
+#EXTINF:-1,SKY SELECT 3
+http://promo.dyndns.biz:8000/live/italia/italia/448.m3u8
+#EXTINF:-1,SKY SELECT 4
+http://promo.dyndns.biz:8000/live/italia/italia/450.m3u8
+#EXTINF:-1,SKY SELECT 5
+http://promo.dyndns.biz:8000/live/italia/italia/452.m3u8
+#EXTINF:-1,SKY SELECET 6
+http://promo.dyndns.biz:8000/live/italia/italia/446.m3u8
+#EXTINF:-1,SKY SELECET 7
+http://promo.dyndns.biz:8000/live/italia/italia/454.m3u8
+#EXTINF:-1,SKY SELECET 8
+http://promo.dyndns.biz:8000/live/italia/italia/455.m3u8
+#EXTINF:-1,SKY SELECET 9
+http://promo.dyndns.biz:8000/live/italia/italia/449.m3u8
+#EXTINF:-1,SKY SELECET 10
+http://promo.dyndns.biz:8000/live/italia/italia/451.m3u8
+#EXTINF:-1,SKY SELECET 11
+http://promo.dyndns.biz:8000/live/italia/italia/453.m3u8
+#EXTINF:-1,SKY SELECET 12
+http://promo.dyndns.biz:8000/live/italia/italia/447.m3u8
+#EXTINF:-1,SKY SELECET 13
+http://promo.dyndns.biz:8000/live/italia/italia/591.m3u8
+#EXTINF:-1,SKY SELECET 14
+http://promo.dyndns.biz:8000/live/italia/italia/642.m3u8
+
+
 
 
 
