@@ -84,8 +84,8 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-1,AKSARAY KANAL68
-http://31.186.24.232:8000/134
+#EXTINF:-1,------------------------------------------------------------------
+http://
 #EXTINF:-1,SKY Bundesliga HD 1
 http://promo.dyndns.biz:8000/live/italia/italia/1380.m3u8
 #EXTINF:-1,SKY Sport HD 1
