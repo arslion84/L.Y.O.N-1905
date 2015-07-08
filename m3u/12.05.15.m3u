@@ -3,76 +3,8 @@
 http://
 #EXTINF:-1,yoksa ben degisiklik yaptigimda sorun yasarsiniz!!!
 http://
-#EXTINF:-0,ATV
-http://yayinlar.tvizleyim.com/org3/atv_me/playlist.m3u8
 #EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
-#EXTINF:-0,STAR 
-http://yayinlar.tvizleyim.com/org8/startv_me/playlist.m3u8
-#EXTINF:-0,TV8
-http://yayinlar.tvizleyim.com/org4/tv8_me/playlist.m3u8
-#EXTINF:-0,FOX
-http://yayinlar.tvizleyim.com/org1/foxtr_me/playlist.m3u8
-#EXTINF:-0,TRT 1
-http://yayinlar.tvizleyim.com/org5/trt1_me/playlist.m3u8
-#EXTINF:-0,KANAL 7
-http://livetr.gostream.nl/kanal7hq/kanal7hq/radyodelisi.m3u8
-#EXTINF:-0,SKY TÜRK
-http://yayinlar.tvizleyim.com/org18/skyturk360_me/playlist.m3u8
-#EXTINF:-0,KANALTÜRK
-http://yayinlar.tvizleyim.com/org12/kanalturk_me/playlist.m3u8
-#EXTINF:-0,SAMANYOLU
-http://yayinlar.tvizleyim.com/org16/samanyolutv_me/playlist.m3u8
-#EXTINF:-0,Cine 5
-http://yayinlar.tvizleyim.com/org2/cine5_me/playlist.m3u8
-#EXTINF:-0,NTV
-http://yayinlar.tvizleyim.com/org11/ntvtr_me/playlist.m3u8
-#EXTINF:-0,NTV SPOR
-http://yayinlar.tvizleyim.com/org8/ntvspor_me/playlist.m3u8
-#EXTINF:-0,TRT SPOR
-http://yayinlar.tvizleyim.com/org6/trtspor_me/playlist.m3u8
-#EXTINF:-0,A SPOR
-http://yayinlar.tvizleyim.com/org18/aspor_me/playlist.m3u8
-#EXTINF:-0,SPORTS TV
-http://yayinlar.tvizleyim.com/org10/sportstv_me/playlist.m3u8
-#EXTINF:-0,PLANET MUTFAK
-http://yayinlar.tvizleyim.com/org1/planetmutfak_me/playlist.m3u8
-#EXTINF:-0,PLANET TÜRK
-http://yayinlar.tvizleyim.com/org16/planetturk_me/playlist.m3u8
-#EXTINF:-0,E2
-http://yayinlar.tvizleyim.com/org9/e2_me/playlist.m3u8
-#EXTINF:-0,YABAN TV
-http://yayinlar.tvizleyim.com/org10/yabantv_me/playlist.m3u8
-#EXTINF:-0,VIVA TV
-http://yayinlar.tvizleyim.com/org17/vivatv_me/playlist.m3u8
-#EXTINF:-0,KRAL POP
-http://yayinlar.tvizleyim.com/org1/kralpoptv_me/playlist.m3u8
-#EXTINF:-0,KRAL
-http://yayinlar.tvizleyim.com/org1/kral_me/playlist.m3u8
-#EXTINF:-0,NR 1
-http://yayinlar.tvizleyim.com/org10/nr1_me/playlist.m3u8
-#EXTINF:-0,POWERTÜRK
-http://yayinlar.tvizleyim.com/org10/powerturktv_me/playlist.m3u8
-#EXTINF:-0,TRT MUSIC
-http://yayinlar.tvizleyim.com/org18/trtmusic_me/playlist.m3u8
-#EXTINF:-0,DISNEY CHANNEL  
-http://yayinlar.tvizleyim.com/org4/disney_me/playlist.m3u8
-#EXTINF:-0,NICKELODEON
-http://gg.gg/Bt-Sports
-#EXTINF:-0,CARTOON NETWORK
-http://yayinlar.tvizleyim.com/org5/cartoonnetwork_me/playlist.m3u8
-#EXTINF:-0,PLANET COCUK
-http://yayinlar.tvizleyim.com/org1/planetcocuk_me/playlist.m3u8
-#EXTINF:-0,YUMURCAK TV
-http://yayinlar.tvizleyim.com/org4/yumurcaktv_me/playlist.m3u8
-#EXTINF:-0,MINIKA COCUK   
-http://yayinlar.tvizleyim.com/org12/minikacocuk_me/playlist.m3u8
-#EXTINF:-0,TRT COCUK
-http://yayinlar.tvizleyim.com/org5/trtcocuk_me/playlist.m3u8
-#EXTINF:-0,TRT AVAZ
-http://yayinlar.tvizleyim.com/org4/trtavaz_me/playlist.m3u8
-#EXTINF:-0,TV2
-http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 #EXTINF:-0,TRT HD
