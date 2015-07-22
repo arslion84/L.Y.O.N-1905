@@ -5,6 +5,10 @@ http://
 #EXTINF:-1,KANAL 1
 acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
 
+#EXTINF:-1,Galatasaray - CV
+rtmp://209.133.208.146/app/xrivo88s-channel
+
+
 
 #EXTINF:-1,YERLI FILIMLER------------------------------
 
