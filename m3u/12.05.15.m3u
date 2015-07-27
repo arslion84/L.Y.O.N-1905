@@ -1,28 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1,
-http://
-#EXTINF:-1,ligtv1
-http://94.23.149.148/59058/59058/1.m3u8
-#EXTINF:-1,ligtv2
-http://94.23.149.148/59058/59058/2.m3u8
-#EXTINF:-1,ligtv3
-http://94.23.149.148/59058/59058/3.m3u8
-#EXTINF:0,Atv
-http://balkanstream.com/stream/atv/putidoma22/udhfbu
-#EXTINF:0,Showtv
-http://balkanstream.com/stream/showtv/putidoma22/udhfbu
-#EXTINF:0,Tv8
-http://balkanstream.com/stream/tv8/putidoma22/udhfbu
-#EXTINF:0,Star
-http://balkanstream.com/stream/star/putidoma22/udhfbu
-#EXTINF:0,Kanal7
-http://balkanstream.com/stream/kanal7/putidoma22/udhfbu
-#EXTINF:0,Kanal D
-http://balkanstream.com/stream/KanalD/putidoma22/udhfbu
-#EXTINF:0,TRT Türk
-http://balkanstream.com/stream/trt/putidoma22/udhfbu
-#EXTINF:0,samanyolu
-http://balkanstream.com/stream/samanyolu/putidoma22/udhfbu
+#EXTINF:-1,Lig tv 1
+http://94.23.149.148/live/59058/59058/1.m3u8
+#EXTINF:-1,Lig tv 2
+http://94.23.149.148/live/59058/59058/2.m3u8
+#EXTINF:-1,Lig tv 3
+http://94.23.149.148/live/59058/59058/3.m3u8
+#EXTINF:-0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 #EXTINF:-0,TRT HD
@@ -33,8 +17,6 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-0,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #EXTINF:-1,KANAL 1 ( maclarda acik olacak, su an kapali)
 acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
 #EXTINF:-1,Smart Spor 
