@@ -1,365 +1,28 @@
 ﻿#EXTM3U
 #EXTINF:-1,
 http://
-
-#EXTINF:-1,KANAL 1 ( maclarda acik olacak, su an kapali)
-acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
-#EXTINF:-1,Smart Spor
-acestream://281970ba663fa4516b459f4197eddeaae8f2f056
-
-
-#EXTINF:-1,YERLI FILIMLER------------------------------
-
-#EXTINF:-1,ADEMIN TRENLERI
-http://hpg:disco@vod04.myvideo.az/flv/188/1879113.mp4
-
-#EXTINF:-1,ACI ASK
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857941.mp4
-
-#EXTINF:-1,ASK TUTULMASI
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857723.mp4
-
-#EXTINF:-1,ASK VE DEVRIM
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856894.mp4
-
-#EXTINF:-1,ACI ASK
-http://hpg:disco@vod02.myvideo.az/flv/181/1803930.mp4
-
-#EXTINF:-1,ANADOLU KARTALLARI
-http://hpg:disco@vod02.myvideo.az/flv/181/1801702.mp4
-
-#EXTINF:-1,ANLAT ISTANBUL
-http://hpg:disco@vod03.myvideo.az/flv/182/1817862.mp4
-
-#EXTINF:-1,ANNE YA DA LEYLA
-http://hpg:disco@vod03.myvideo.az/flv/182/1819164.mp4
-
-#EXTINF:-1,ARAF
-http://hpg:disco@vod02.myvideo.az/flv/181/1803151.mp4
-
-#EXTINF:-1,ASK KIRMIZI
-http://hpg:disco@vod03.myvideo.az/flv/183/1821298.mp4
-
-#EXTINF:-1,ASK TESADUFLERI SEVER
-http://hpg:disco@vod02.myvideo.az/flv/181/1803653.mp4
-
-#EXTINF:-1,AY LAV YOU
-http://hpg:disco@vod03.myvideo.az/flv/182/1817847.mp4
-
-#EXTINF:-1,BERLIN KAPLANI
-http://hpg:disco@vod04.myvideo.az/flv/188/1879110.mp4
-
-#EXTINF:-1,BIR HIKAYEM VAR
-http://hpg:disco@vod04.myvideo.az/flv/188/1879109.mp4
-
-#EXTINF:-1,BAHAR ISYANCIDIR
-http://hpg:disco@vod03.myvideo.az/flv/183/1823987.mp4
-
-#EXTINF:-1,BALANS VE MANEVRA
-http://hpg:disco@vod03.myvideo.az/flv/183/1820171.mp4
-
-#EXTINF:-1,BANA BIR SOYGUN YAZ
-http://hpg:disco@vod02.myvideo.az/flv/181/1802353.mp4
-
-#EXTINF:-1,BARDA
-http://hpg:disco@vod02.myvideo.az/flv/180/1794424.mp4
-
-#EXTINF:-1,BASIMIN BELASI
-http://hpg:disco@vod03.myvideo.az/flv/182/1819095.mp4
-
-#EXTINF:-1,BASKA DILDE ASK
-http://hpg:disco@vod02.myvideo.az/flv/181/1803659.mp4
-
-#EXTINF:-1,BEKLEME ODASI
-http://hpg:disco@vod02.myvideo.az/flv/180/1794449.mp4
-
-#EXTINF:-1,BENI UNUTMA
-http://hpg:disco@vod02.myvideo.az/flv/181/1803994.mp4
-
-#EXTINF:-1,BES SEHIR
-http://hpg:disco@vod03.myvideo.az/flv/183/1826310.mp4
-
-#EXTINF:-1,BIR AVUC DENIZ
-http://hpg:disco@vod02.myvideo.az/flv/181/1800666.mp4
-
-#EXTINF:-1,BU SON OLSUN
-http://hpg:disco@vod02.myvideo.az/flv/181/1803997.mp4
-
-#EXTINF:-1,C BLOK
-http://hpg:disco@vod02.myvideo.az/flv/181/1803043.mp4
-
-#EXTINF:-1,CAKALLARLA DANS
-http://hpg:disco@vod02.myvideo.az/flv/181/1801616.mp4
-
-#EXTINF:-1,CAKALLARLA DANS 2
-http://hpg:disco@vod02.myvideo.az/flv/181/1802546.mp4
-
-#EXTINF:-1,CANAKKALE 1915
-http://hpg:disco@vod02.myvideo.az/flv/181/1801625.mp4
-
-#EXTINF:-1,CANAKKALE COCUKLARI
-http://hpg:disco@vod02.myvideo.az/flv/181/1802357.mp4
-
-#EXTINF:-1,CANAKKALE YOLUN SONU
-http://hpg:disco@vod02.myvideo.az/flv/181/1803421.mp4
-
-#EXTINF:-1,CELAL ILE CEREN
-http://hpg:disco@vod02.myvideo.az/flv/181/1800349.mp4
-
-#EXTINF:-1,CEM YILMAZ - BIR TAT BIR DOKU
-http://hpg:disco@vod02.myvideo.az/flv/181/1807680.mp4
-
-#EXTINF:-1,CILGIN DERSANE KAMPTA
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857945.mp4
-
-#EXTINF:-1,CILGIN DERSANE
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857944.mp4
-
-#EXTINF:-1,CM101MMXI FUNDAMENTALS
-http://hpg:disco@vod02.myvideo.az/flv/182/1814633.mp4
-
-#EXTINF:-1,DEVRIMDEN SONRA
-http://hpg:disco@vod02.myvideo.az/flv/182/1810108.mp4
-
-#EXTINF:-1,DILA HANIM 1
-http://hpg:disco@vod03.myvideo.az/flv/185/1844340.mp4
-
-#EXTINF:-1,EL YAZISI
-http://hpg:disco@vod02.myvideo.az/flv/181/1806177.mp4
-
-#EXTINF:-1,EVCILIK OYUNU
-http://hpg:disco@vod03.myvideo.az/flv/182/1819153.mp4
-
-#EXTINF:-1,EVIM SENSIN
-http://hpg:disco@vod02.myvideo.az/flv/180/1799543.mp4
-
-#EXTINF:-1,EKSIK SAYFALAR
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857010.mp4
-
-#EXTINF:-1,ELVEDA KATYA
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856924.mp4
-
-#EXTINF:-1,FASLE KARGADAN
-http://hpg:disco@vod02.myvideo.az/flv/181/1801707.mp4
-
-#EXTINF:-1,G.D.O. KARAKEDI
-http://hpg:disco@vod02.myvideo.az/flv/181/1806024.mp4
-
-#EXTINF:-1,G.O.R.A.
-http://hpg:disco@vod02.myvideo.az/flv/181/1807687.mp4
-
-#EXTINF:-1,GECENIN KANATLARI
-http://hpg:disco@vod02.myvideo.az/flv/181/1804001.mp4
-
-#EXTINF:-1,GEMIDE
-http://hpg:disco@vod02.myvideo.az/flv/181/1802746.mp4
-
-#EXTINF:-1,GERIYE KALAN
-http://hpg:disco@vod02.myvideo.az/flv/182/1814707.mp4
-
-#EXTINF:-1,GOKTEN UC ELMA DUSTU
-http://hpg:disco@vod03.myvideo.az/flv/182/1819093.mp4
-
-#EXTINF:-1,GOREV
-http://hpg:disco@vod03.myvideo.az/flv/183/1824783.mp4
-
-#EXTINF:-1,GOZETLEME KULESI
-http://hpg:disco@vod02.myvideo.az/flv/181/1804731.mp4
-
-#EXTINF:-1,GUNESIN OGLU
-http://hpg:disco@vod02.myvideo.az/flv/182/1817715.mp4
-
-#EXTINF:-1,GUZ SANCISI
-http://hpg:disco@vod02.myvideo.az/flv/181/1804009.mp4
-
-#EXTINF:-1,HAYATIMIN KADINISIN
-http://hpg:disco@vod02.myvideo.az/flv/182/1810115.mp4
-
-#EXTINF:-1,HURMUZ
-http://hpg:disco@vod02.myvideo.az/flv/181/1803134.mp4
-
-#EXTINF:-1,HOSCAKAL GUZIN
-http://hpg:disco@vod02.myvideo.az/flv/181/1805031.mp4
-
-#EXTINF:-1,IKIZLER FIRARDA
-http://hpg:disco@vod02.myvideo.az/flv/181/1802352.mp4
-
-#EXTINF:-1,INCIR RECELI
-http://hpg:disco@vod02.myvideo.az/flv/181/1803664.mp4
-
-#EXTINF:-1,KADER
-http://hpg:disco@vod02.myvideo.az/flv/180/1794455.mp4
-
-#EXTINF:-1,KADRI'NIN GOTURDUGU YERE GIT
-http://hpg:disco@vod03.myvideo.az/flv/182/1819167.mp4
-
-#EXTINF:-1,KAMP
-http://hpg:disco@vod03.myvideo.az/flv/182/1819091.mp4
-
-#EXTINF:-1,KANAL-I-ZASYON
-http://hpg:disco@vod03.myvideo.az/flv/182/1817881.mp4
-
-#EXTINF:-1,KANIMDAKI BARUT
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857918.mp4
-
-#EXTINF:-1,KELEBEK
-http://hpg:disco@vod03.myvideo.az/flv/182/1817860.mp4
-
-#EXTINF:-1,KIRIK ZAR
-http://hpg:disco@vod03.myvideo.az/flv/182/1817882.mp4
-
-#EXTINF:-1,KISKANMAK
-http://hpg:disco@vod02.myvideo.az/flv/181/1803096.mp4
-
-#EXTINF:-1,KOLAY PARA
-http://hpg:disco@vod03.myvideo.az/flv/182/1817848.mp4
-
-#EXTINF:-1,KOLPACINO BOMBA
-http://hpg:disco@vod02.myvideo.az/flv/181/1808845.mp4
-
-#EXTINF:-1,KOPRUDEKILER
-http://hpg:disco@vod03.myvideo.az/flv/183/1829747.mp4
-
-#EXTINF:-1,KUCUK GUNAHLAR
-http://hpg:disco@vod02.myvideo.az/flv/181/1806204.mp4
-
-#EXTINF:-1,KUMA
-http://hpg:disco@vod02.myvideo.az/flv/181/1803139.mp4
-
-#EXTINF:-1,KURTLAR VADISI IRAK
-http://hpg:disco@vod04.myvideo.az/flv/186/1852422.mp4
-
-#EXTINF:-1,KURTLAR VADISI GLADIO
-http://hpg:disco@vod04.myvideo.az/flv/186/1852423.mp4
-
-#EXTINF:-1,KURTLAR VADISI FILISTIN
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1852355.mp4
-
-#EXTINF:-1,LABIRENT
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856906.mp4
-
-#EXTINF:-1,MASKELI BESLER IRAK
-http://hpg:disco@vod02.myvideo.az/flv/181/1808898.mp4
-
-#EXTINF:-1,MASUMIYET
-http://hpg:disco@vod02.myvideo.az/flv/181/1803056.mp4
-
-#EXTINF:-1,MAVI PANSIYON
-http://hpg:disco@vod02.myvideo.az/flv/181/1800648.mp4
-
-#EXTINF:-1,MURO
-http://hpg:disco@vod02.myvideo.az/flv/181/1808892.mp4
-
-#EXTINF:-1,MUTLU AILE DEFTERI
-http://hpg:disco@vod02.myvideo.az/flv/182/1814582.mp4
-
-#EXTINF:-1,MUSALLAT 2: LANET
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856890.mp4
-
-#EXTINF:-1,MERYEM
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856904.mp4
-
-#EXTINF:-1,N'AAPCAZ SIMDI
-http://hpg:disco@vod02.myvideo.az/flv/181/1806154.mp4
-
-#EXTINF:-1,NAR
-http://hpg:disco@vod03.myvideo.az/flv/183/1826307.mp4
-
-#EXTINF:-1,NEREDESIN FIRUZE
-http://hpg:disco@vod02.myvideo.az/flv/181/1802494.mp4
-
-#EXTINF:-1,OGLUM BAK GIT
-http://hpg:disco@vod02.myvideo.az/flv/181/1808844.mp4
-
-#EXTINF:-1,PAZARLARI HIC SEVMEM
-http://hpg:disco@vod02.myvideo.az/flv/181/1802468.mp4
-
-#EXTINF:-1,PLAJDA
-http://hpg:disco@vod02.myvideo.az/flv/182/1817716.mp4
-
-#EXTINF:-1,PROPAGANDA
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857939.mp4
-
-#EXTINF:-1,PRENSESIN UYKUSU
-http://hpg:disco@vod02.myvideo.az/flv/182/1814539.mp4
-
-#EXTINF:-1,RECEP IVEDIK
-http://hpg:disco@vod02.myvideo.az/flv/182/1817506.mp4
-
-#EXTINF:-1,RECEP IVEDIK 2
-http://hpg:disco@vod02.myvideo.az/flv/182/1817621.mp4
-
-#EXTINF:-1,RECEP IVEDIK 3
-http://hpg:disco@vod02.myvideo.az/flv/182/1817613.mp4
-
-#EXTINF:-1,ROMANTIK KOMEDI
-http://hpg:disco@vod02.myvideo.az/flv/181/1802373.mp4
-
-#EXTINF:-1,ROMANTIK KOMEDI 2
-http://hpg:disco@vod02.myvideo.az/flv/182/1814576.mp4
-
-#EXTINF:-1,SABIT KANCA
-http://hpg:disco@vod03.myvideo.az/flv/183/1821358.mp4
-
-#EXTINF:-1,SAG SALIM
-http://hpg:disco@vod02.myvideo.az/flv/182/1812432.mp4
-
-#EXTINF:-1,SAKLI HAYATLAR
-http://hpg:disco@vod01.myvideo.az/flv/183/1822175.mp4
-
-#EXTINF:-1,SAKLI HAYATLAR 2
-http://hpg:disco@vod03.myvideo.az/flv/183/1824174.mp4
-
-#EXTINF:-1,SEMUM
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856898.mp4
-
-#EXTINF:-1,SELAM
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1856895.mp4
-
-#EXTINF:-1,SICAK
-http://hpg:disco@vod03.myvideo.az/flv/182/1819156.mp4
-
-#EXTINF:-1,SIFIR DEDIGIMDE
-http://hpg:disco@vod03.myvideo.az/flv/182/1819094.mp4
-
-#EXTINF:-1,SU VE ATES
-http://hpg:disco@vod04.myvideo.az/flv/188/360p/1879463.mp4
-
-#EXTINF:-1,SON DERS
-http://hpg:disco@vod02.myvideo.az/flv/182/1814562.mp4
-
-#EXTINF:-1,TEK KISILIK DEV KADRO
-http://hpg:disco@vod03.myvideo.az/flv/185/1846340.mp4
-
-#EXTINF:-1,TEPENIN ARDI
-http://hpg:disco@vod02.myvideo.az/flv/181/1803749.mp4
-
-#EXTINF:-1,TOPRAGIN COCUKLARI
-http://hpg:disco@vod02.myvideo.az/flv/181/1802351.mp4
-
-#EXTINF:-1,TURKLER CILDIRMIS OLMALI
-http://hpg:disco@vod02.myvideo.az/flv/181/1808179.mp4
-
-#EXTINF:-1,VICDAN
-http://hpg:disco@vod03.myvideo.az/flv/182/1819157.mp4
-
-#EXTINF:-1,YANGIN VAR
-http://hpg:disco@vod02.myvideo.az/flv/181/1808846.mp4
-
-#EXTINF:-1,YA SONRA
-http://hpg:disco@vod04.myvideo.az/flv/186/360p/1857001.mp4
-
-#EXTINF:-1,YAZGI
-http://hpg:disco@vod02.myvideo.az/flv/181/1803042.mp4
-
-#EXTINF:-1,YUREGINE SOR
-http://hpg:disco@vod03.myvideo.az/flv/182/1817851.mp4
-
-#EXTINF:-1,VUCUT
-http://hpg:disco@vod02.myvideo.az/flv/181/1803149.mp4
-
-#EXTINF:-0,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,ligtv1
+http://94.23.149.148/59058/59058/1.m3u8
+#EXTINF:-1,ligtv2
+http://94.23.149.148/59058/59058/2.m3u8
+#EXTINF:-1,ligtv3
+http://94.23.149.148/59058/59058/3.m3u8
+#EXTINF:0,Atv
+http://balkanstream.com/stream/atv/putidoma22/udhfbu
+#EXTINF:0,Showtv
+http://balkanstream.com/stream/showtv/putidoma22/udhfbu
+#EXTINF:0,Tv8
+http://balkanstream.com/stream/tv8/putidoma22/udhfbu
+#EXTINF:0,Star
+http://balkanstream.com/stream/star/putidoma22/udhfbu
+#EXTINF:0,Kanal7
+http://balkanstream.com/stream/kanal7/putidoma22/udhfbu
+#EXTINF:0,Kanal D
+http://balkanstream.com/stream/KanalD/putidoma22/udhfbu
+#EXTINF:0,TRT Türk
+http://balkanstream.com/stream/trt/putidoma22/udhfbu
+#EXTINF:0,samanyolu
+http://balkanstream.com/stream/samanyolu/putidoma22/udhfbu
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 #EXTINF:-0,TRT HD
@@ -370,6 +33,12 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
+#EXTINF:-0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,KANAL 1 ( maclarda acik olacak, su an kapali)
+acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
+#EXTINF:-1,Smart Spor 
+acestream://281970ba663fa4516b459f4197eddeaae8f2f056
 #EXTINF:-1,------------------------------------------------------------------
 http://
 
