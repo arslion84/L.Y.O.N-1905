@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1,Buradaki Smartspor "Mac esnasinda" kaliteli yayin!!
+http://
+EXTINF:-1,Smart Spor 
+acestream://281970ba663fa4516b459f4197eddeaae8f2f056
 #EXTINF:-1,Lig tv 1
 http://94.23.149.148/live/59058/59058/1.m3u8
 #EXTINF:-1,Lig tv 2
@@ -19,10 +23,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,KANAL 1 ( maclarda acik olacak, su an kapali)
 acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
-#EXTINF:-1,Smart Spor 
-acestream://281970ba663fa4516b459f4197eddeaae8f2f056
-#EXTINF:-1,------------------------------------------------------------------
-http://
+
 
 
 
