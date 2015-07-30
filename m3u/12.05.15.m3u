@@ -1,16 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1,Haydi Fenerbahce!!! Basarilar!
-http://
-#EXTINF:-1,Fenerbahce - Shakhtar Donetsk SD (yabanci dil)
-acestream://f05a3a5ab5a38e38c9f9a739f3bf55e6106cc712
-#EXTINF:-1,Smart Spor 
-acestream://281970ba663fa4516b459f4197eddeaae8f2f056
 #EXTINF:-1,Lig tv 1
 http://94.23.149.148/live/59058/59058/1.m3u8
 #EXTINF:-1,Lig tv 2
 http://94.23.149.148/live/59058/59058/2.m3u8
 #EXTINF:-1,Lig tv 3
 http://94.23.149.148/live/59058/59058/3.m3u8
+#EXTINF:-1,Smart Spor 
+acestream://281970ba663fa4516b459f4197eddeaae8f2f056
 #EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #EXTINF:-1,Ülke HD
