@@ -1,12 +1,10 @@
 ﻿#EXTM3U
-#EXTINF:-1,LigTV 1 HD
+#EXTINF:-1, LigTV 1 HD
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/112.m3u8
-#EXTINF:-1,LIG TV 2
+#EXTINF:-1, LIG TV 2
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/1700.m3u8
-#EXTINF:-1,LIG TV 3
+#EXTINF:-1, LIG TV 3
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/1701.m3u8
-#EXTINF:-1,Lig tv 1 yedek (gec acilir)
-acestream://b73d12346afb6a1a12e4a36c488a0e6fd9ba708f
 #EXTINF:-1, ATV HD
 rtmp://146.0.32.43:1935/hls/1
 #EXTINF:-1, SHOW TV HD
@@ -53,6 +51,8 @@ Smartspor gec acilir
 rtmp://s2.streamsheep.co/edge//ch150
 ligtv gec acilir
 rtmp://s1.streamsheep.co/edge//ch201
+EXTINF:-1, Lig tv 1 yedek (gec acilir)
+acestream://b73d12346afb6a1a12e4a36c488a0e6fd9ba708f
 
 
 
