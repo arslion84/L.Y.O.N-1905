@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1, Real Madrid - Galatasaray
+sop://broker.top90da.com:3912/258920?forum.top90da.com
+#EXTINF:-1, Real Madrid - Galatasaray
+acestream://38b51f41238ac26a726a3cdc584ae447919f38d3
 #EXTINF:-1, LigTV 1 HD
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/112.m3u8
 #EXTINF:-1, LIG TV 2
