@@ -1,8 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1, Real Madrid - Galatasaray
-sop://broker.top90da.com:3912/258920?forum.top90da.com
-#EXTINF:-1, Real Madrid - Galatasaray
-acestream://38b51f41238ac26a726a3cdc584ae447919f38d3
+#EXTM3U
 #EXTINF:-1, LigTV 1 HD
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/112.m3u8
 #EXTINF:-1, LIG TV 2
@@ -39,9 +35,7 @@ rtmp://146.0.32.43:1935/hls/11
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-
-
-EXTINF:-1,Smart Spor 
+#EXTINF:-1,Smart Spor 
 acestream://281970ba663fa4516b459f4197eddeaae8f2f056
 EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
