@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Atromithos Athens - Fenerbahce 1
-http://mn-tivibu.mncdn.com/tivibu_live/smil:tivibu.smil/playlist.m3u8
-#EXTINF:-1,Atromithos Athens - Fenerbahce 2
-http://mn-tivibu.mncdn.com/tivibu_live/smil:tivibu.smil/chunklist_w219445052_b964000.m3u8
 #EXTINF:-1, LigTV 1 HD
+acestream://dc38423375ecacde244f51619159ea737f7735f3
+#EXTINF:-1, LigTV 1 
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/112.m3u8
 #EXTINF:-1, LIG TV 2
 http://s1.iptv-cccam.com:80/live/455SNGAL/JfLdoFdH98/1700.m3u8
