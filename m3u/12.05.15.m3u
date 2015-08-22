@@ -3,12 +3,16 @@
 http://
 #EXTINF:-1, Mac Günleri Mac baslamadan 10dk kala Kodiyi kapatip acin yoksa güncellenmez..
 http://
-#EXTINF:-1, Besiktas - Trabzonspor 1
-rtmp://198.178.121.108/app//tribunsevdai12s-channel
+#EXTINF:-1, Besiktas - Trabzonspor 1 HD
+sop://151.80.76.190:3912/258958
 #EXTINF:-1, Besiktas - Trabzonspor 2
-rtmp://209.133.208.194/app//asa7s-channel
+rtmp://198.178.121.108/app//tribunsevdai12s-channel
 #EXTINF:-1, Besiktas - Trabzonspor 3
+rtmp://209.133.208.194/app//asa7s-channel
+#EXTINF:-1, Besiktas - Trabzonspor 4
 rtmp://104.156.49.212/app//smplytvs-channel
+#EXTINF:-1, Besiktas - Trabzonspor 5
+rtmp://rtmp.deltatv.pw:1935/live/texas2 
 #EXTINF:-1, LigTV 1 HD
 acestream://dc38423375ecacde244f51619159ea737f7735f3
 #EXTINF:-1, Ligtv1
