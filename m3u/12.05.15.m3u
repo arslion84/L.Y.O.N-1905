@@ -3,14 +3,14 @@
 http://
 #EXTINF:-1, Oto Güncellenme icin maca 10 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1, Fenerbahce - Caykur Rize 1
-acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
-#EXTINF:-1, Fenerbahce - Caykur Rize 2
-rtmp://198.178.121.108/app//tribunsevdai12s-channel
-#EXTINF:-1, Bursa - Gaziantep (fener - rize)
-rtmp://rtmp.deltatv.pw:1935/live/texas1 
 #EXTINF:-1, 19:30 Eskişehirspor – Sivasspor 
 acestream://c41c2eb1ecd91af4aca6b80f462442a182ea69b8
+#EXTINF:-1, Fener - Caykur Rize  (Bursa - Gaziantep)  
+rtmp://rtmp.deltatv.pw:1935/live/texas1 
+#EXTINF:-1, Fenerbahce - Caykur Rize 2
+acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
+#EXTINF:-1, Fenerbahce - Caykur Rize 3
+rtmp://198.178.121.108/app//tribunsevdai12s-channel
 #EXTINF:-1, LigTV 1 HD
 acestream://dc38423375ecacde244f51619159ea737f7735f3
 #EXTINF:-1, Ligtv1
