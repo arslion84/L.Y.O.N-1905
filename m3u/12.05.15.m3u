@@ -3,6 +3,10 @@
 http://
 #EXTINF:-1, Oto Güncellenme icin maca 10 dk kala kodiyi kapatip acin..
 http://
+#EXTINF:-1, Fenerbahce - Caykur Rize 1
+acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
+#EXTINF:-1, Fenerbahce - Caykur Rize 2
+rtmp://198.178.121.108/app//tribunsevdai12s-channel
 #EXTINF:-1, LigTV 1 HD
 acestream://dc38423375ecacde244f51619159ea737f7735f3
 #EXTINF:-1, Ligtv1
@@ -48,24 +52,8 @@ EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,KANAL 1 (su an kapali)
-acestream://876c2ac8ded2c086b2e457f7ef4074a3b09ec60c
-Smartspor gec acilir
-rtmp://s2.streamsheep.co/edge//ch150
-ligtv gec acilir
-rtmp://s1.streamsheep.co/edge//ch201
-EXTINF:-1, Lig tv 1 yedek (gec acilir)
-acestream://b73d12346afb6a1a12e4a36c488a0e6fd9ba708f
 #EXTINF:-1, 
 sop://151.80.76.190:3912/258958
-#EXTINF:-1, 
-rtmp://198.178.121.108/app//tribunsevdai12s-channel
-#EXTINF:-1, 
-rtmp://209.133.208.194/app//asa7s-channel
-#EXTINF:-1, 
-rtmp://104.156.49.212/app//smplytvs-channel
-#EXTINF:-1, 
-rtmp://rtmp.deltatv.pw:1935/live/texas2 
 
 
 
