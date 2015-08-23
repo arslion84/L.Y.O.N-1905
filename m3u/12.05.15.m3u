@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Güncelleme mac baslamadan 10 dk kala !!!!
+#EXTINF:-1, Mac baslamadan 10 dk kala  !!!!
 http://
 #EXTINF:-1, Oto Güncellenme icin maca 10 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1, 
-sop://151.80.76.190:3912/258958
-#EXTINF:-1, 
-rtmp://198.178.121.108/app//tribunsevdai12s-channel
-#EXTINF:-1, 
-rtmp://209.133.208.194/app//asa7s-channel
-#EXTINF:-1, 
-rtmp://104.156.49.212/app//smplytvs-channel
-#EXTINF:-1, 
-rtmp://rtmp.deltatv.pw:1935/live/texas2 
 #EXTINF:-1, LigTV 1 HD
 acestream://dc38423375ecacde244f51619159ea737f7735f3
 #EXTINF:-1, Ligtv1
@@ -51,8 +41,7 @@ rtmp://146.0.32.43:1935/hls/11
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-1,Smart Spor 
-acestream://281970ba663fa4516b459f4197eddeaae8f2f056
+
 EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 EXTINF:-1,Ülke HD
@@ -67,6 +56,16 @@ ligtv gec acilir
 rtmp://s1.streamsheep.co/edge//ch201
 EXTINF:-1, Lig tv 1 yedek (gec acilir)
 acestream://b73d12346afb6a1a12e4a36c488a0e6fd9ba708f
+#EXTINF:-1, 
+sop://151.80.76.190:3912/258958
+#EXTINF:-1, 
+rtmp://198.178.121.108/app//tribunsevdai12s-channel
+#EXTINF:-1, 
+rtmp://209.133.208.194/app//asa7s-channel
+#EXTINF:-1, 
+rtmp://104.156.49.212/app//smplytvs-channel
+#EXTINF:-1, 
+rtmp://rtmp.deltatv.pw:1935/live/texas2 
 
 
 
