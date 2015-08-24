@@ -6,8 +6,10 @@ http://
 #EXTINF:-1, Galatasaray - Osmanlispor 1
 http://www.weebly.com/uploads/5/4/6/2/54622805/ligtvch1.m3u8
 #EXTINF:-1, Galatasaray - Osmanlispor 2
-acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
+rtmp://209.133.208.154/app/berk-iptvs-channel
 #EXTINF:-1, Galatasaray - Osmanlispor 3
+acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
+#EXTINF:-1, Galatasaray - Osmanlispor 4
 acestream://c41c2eb1ecd91af4aca6b80f462442a182ea69b8
 #EXTINF:-1, LigTV 1 HD
 acestream://dc38423375ecacde244f51619159ea737f7735f3
