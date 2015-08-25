@@ -7,8 +7,6 @@ http://94.23.149.148/live/23096/23096/1.m3u8
 http://94.23.149.148/live/23096/23096/2.m3u8
 #EXTINF:-1, LIG TV 3
 http://94.23.149.148/live/23096/23096/3.m3u8
-#EXTINF:-1, LigTV 1 yedek
-acestream://dc38423375ecacde244f51619159ea737f7735f3
 #EXTINF:-1, ATV HD
 rtmp://146.0.32.43:1935/hls/1
 #EXTINF:-1, SHOW TV HD
@@ -46,7 +44,7 @@ EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1, 
+EXTINF:-1, 
 sop://151.80.76.190:3912/258958
 
 
