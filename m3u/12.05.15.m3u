@@ -1,24 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Mac baslamadan 10 dk kala  !!!!
+#EXTINF:-1, Oto Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1, Oto Güncellenme icin maca 10 dk kala kodiyi kapatip acin..
-http://
-#EXTINF:-1, Galatasaray - Osmanlispor 1
-rtmp://162.220.56.237/app/simpletvs-channel
-#EXTINF:-1, Galatasaray - Osmanlispor 2
-rtmp://209.133.208.154/app/berk-iptvs-channel
-#EXTINF:-1, Galatasaray - Osmanlispor 3
-acestream://12648962fbefe8fe9a2c3da8ba0856d48d238994
-#EXTINF:-1, Galatasaray - Osmanlispor 4
-acestream://c41c2eb1ecd91af4aca6b80f462442a182ea69b8
-#EXTINF:-1, LigTV 1 HD
+#EXTINF:-1, LIG TV 1
+http://94.23.149.148/live/23096/23096/1.m3u8
+#EXTINF:-1, LIG TV 2
+http://94.23.149.148/live/23096/23096/2.m3u8
+#EXTINF:-1, LIG TV 3
+http://94.23.149.148/live/23096/23096/3.m3u8
+#EXTINF:-1, LigTV 1 yedek
 acestream://dc38423375ecacde244f51619159ea737f7735f3
-#EXTINF:-1, Ligtv1
-http://94.23.149.148/live/59058/59058/1.m3u8
-#EXTINF:-1, Ligtv2
-http://94.23.149.148/live/59058/59058/2.m3u8
-#EXTINF:-1, Ligtv3
-http://94.23.149.148/live/59058/59058/3.m3u8
 #EXTINF:-1, ATV HD
 rtmp://146.0.32.43:1935/hls/1
 #EXTINF:-1, SHOW TV HD
