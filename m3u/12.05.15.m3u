@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Oto Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
+#EXTINF:-1, Konya - Galatasaray
+rtmp://217.160.130.45/live/stvk5678
 http://
 #EXTINF:-1, LIG TV 1
 http://94.23.149.148/live/23096/23096/1.m3u8
