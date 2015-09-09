@@ -11,6 +11,8 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 http://bit.do/Atv
 #EXTINF:-1,SHOW HD
 http://bit.do/Showtv
+#EXTINF:-0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #‎EXTINF‬:-1,TRT 1 HD
 http://bit.do/Trt1hd
 #EXTINF:-1,KANALTÜRK
@@ -96,8 +98,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 
-EXTINF:-0,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 EXTINF:-0,CNN TÜRK
