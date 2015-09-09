@@ -9,14 +9,10 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 #EXTINF:-1,ATV
 http://bit.do/Atv
-#EXTINF:-1,KANAL D HD
-http://bit.do/kanaldhd
 #EXTINF:-1,SHOW HD
 http://bit.do/Showtv
 #‎EXTINF‬:-1,TRT 1 HD
 http://bit.do/Trt1hd
-#EXTINF:-1,KANAL 7 HD
-http://bit.do/kanal7hd
 #EXTINF:-1,KANALTÜRK
 http://bit.do/Kanalturk
 #EXTINF:-1,HABERTÜRK
@@ -29,8 +25,6 @@ http://bit.do/cnnturk
 http://bit.do/buguntv
 #EXTINF:-1,SKY TV
 http://bit.do/skytv
-#EXTINF:-1,AKILLI TV
-http://bit.do/akillit
 #EXTINF:-1,FİL TV
 http://bit.do/Filtv
 #EXTINF:-1,FLASH TV
@@ -67,8 +61,6 @@ http://bit.do/vizyonturk
 http://bit.do/yesilcam
 v#EXTINF:-1,BEST TV
 http://bit.do/besttv
-#EXTINF:-1,BEYAZIT TV
-http://bit.do/beyazittv
 #EXTINF:-1,CİNERAMA TV
 http://bit.do/cineramatv
 #EXTINF:-1,CNBC-e
@@ -81,12 +73,6 @@ http://bit.do/minikacocuk
 http://bit.do/minikago
 #EXTINF:-1,E2
 http://bit.do/E-2
-#EXTINF:-1,GS TV
-http://bit.do/Gstv
-#EXTINF:-1,POPÜLER TV
-http://bit.do/populertv
-#EXTINF:-1,SRT
-http://bit.do/srttv
 #EXTINF:-1,TGRT BELGESEL
 http://bit.do/Tgrtbelgesel
 #EXTINF:-1,TGRT HABER
