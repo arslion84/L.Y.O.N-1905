@@ -7,32 +7,104 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
 #EXTINF:-1, LIG TV 3
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
-#EXTINF:-1, ATV HD
-rtmp://146.0.32.43:1935/hls/1
-#EXTINF:-1, SHOW TV HD
-rtmp://146.0.32.43:1935/hls/4
-#EXTINF:-1, TV 8 HD
-rtmp://146.0.32.43:1935/hls/6
-#EXTINF:-1, FOX TV HD
-rtmp://146.0.32.43:1935/hls/7
-#EXTINF:-1, TRT 1 HD
-rtmp://146.0.32.43:1935/hls/9
-#EXTINF:-1, STAR TV
-rtmp://146.0.32.43:1935/hls/10
-#EXTINF:-1, KANAL D
-rtmp://146.0.32.43:1935/hls/13
-#EXTINF:-1, KANALTÜRK HD
-rtmp://146.0.32.43:1935/hls/2
-#EXTINF:-1, BUGÜN HD
-rtmp://146.0.32.43:1935/hls/3
-#EXTINF:-1, SAMANYOLU HD
-rtmp://146.0.32.43:1935/hls/8
-#EXTINF:-1, CNN TÜRK HD
-rtmp://146.0.32.43:1935/hls/12
-#EXTINF:-0, TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1, NTV
-rtmp://146.0.32.43:1935/hls/11
+#EXTINF:-1,ATV
+http://bit.do/Atv
+#EXTINF:-1,KANAL D HD
+http://bit.do/kanaldhd
+#EXTINF:-1,SHOW HD
+http://bit.do/Showtv
+#‎EXTINF‬:-1,TRT 1 HD
+http://bit.do/Trt1hd
+#EXTINF:-1,KANAL 7 HD
+http://bit.do/kanal7hd
+#EXTINF:-1,KANALTÜRK
+http://bit.do/Kanalturk
+#EXTINF:-1,HABERTÜRK
+http://bit.do/haberturk
+#EXTINF:-1,KANAL A
+http://bit.do/kanal-a
+#EXTINF:-1,CNN TURK
+http://bit.do/cnnturk
+#EXTINF:-1,BUGÜN TV
+http://bit.do/buguntv
+#EXTINF:-1,SKY TV
+http://bit.do/skytv
+#EXTINF:-1,AKILLI TV
+http://bit.do/akillit
+#EXTINF:-1,FİL TV
+http://bit.do/Filtv
+#EXTINF:-1,FLASH TV
+http://bit.do/flastv
+#EXTINF:-1,TRT HD
+http://bit.do/trthd
+#EXTINF:-1,TRT TURK
+http://bit.do/Trtturk
+#EXTINF:-1,TRT SPOR HD
+http://bit.do/trtsporhd
+#EXTINF:-1,A SPOR
+http://bit.do/Aspor
+#EXTINF:-1,NTV SPOR
+http://bit.do/Ntvspor
+#EXTINF:-1,SPORTS TV
+http://bit.do/Sportstv
+#EXTINF:-1,DREAM TÜRK
+http://bit.do/dreamturk
+#EXTINF:-1,TRT MUZIK
+http://bit.do/Trtmuzik
+#EXTINF:-1,2000 TV
+http://bit.do/2000tv
+#EXTINF:-1,360 TV
+http://bit.do/360tv
+#EXTINF:-1,A SİNEMA TV
+http://bit.do/acinema
+#EXTINF:-1,ESKİ FİLMLER
+http://bit.do/eskifilmler
+#EXTINF:-1,SİNEMA TV
+http://bit.do/sinematv
+#EXTINF:-1,VİZYONTÜRK TV
+http://bit.do/vizyonturk
+#EXTINF:-1,YEŞİLÇAM TV
+http://bit.do/yesilcam
+v#EXTINF:-1,BEST TV
+http://bit.do/besttv
+#EXTINF:-1,BEYAZIT TV
+http://bit.do/beyazittv
+#EXTINF:-1,CİNERAMA TV
+http://bit.do/cineramatv
+#EXTINF:-1,CNBC-e
+http://bit.do/cnbc-e
+#EXTINF:-1,DİSNEY CHANNEL
+http://bit.do/disneytv
+#EXTINF:-1,MİNİKA ÇOCUK
+http://bit.do/minikacocuk
+#EXTINF:-1,MİNİKA GO
+http://bit.do/minikago
+#EXTINF:-1,E2
+http://bit.do/E-2
+#EXTINF:-1,GS TV
+http://bit.do/Gstv
+#EXTINF:-1,POPÜLER TV
+http://bit.do/populertv
+#EXTINF:-1,SRT
+http://bit.do/srttv
+#EXTINF:-1,TGRT BELGESEL
+http://bit.do/Tgrtbelgesel
+#EXTINF:-1,TGRT HABER
+http://bit.do/Tgrthaber
+#EXTINF:-1,TİVİTİ TV
+http://bit.do/tivititv
+#EXTINF:-1,TMB TV
+http://bit.do/tmbtv
+#EXTINF:-1,TV 2
+http://bit.do/Tv2tv
+#EXTINF:-1,TV 5
+http://bit.do/tv5TV
+#EXTINF:-1,TV EM
+http://bit.do/tvem
+#EXTINF:-1,ÜLKE TV
+http://bit.do/ulketvhd
+#EXTINF:-1,A9 TV
+http://bit.do/a9tv
 #EXTINF:-0,Halk TV
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
