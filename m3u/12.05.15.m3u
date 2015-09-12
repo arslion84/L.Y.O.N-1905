@@ -10,7 +10,7 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 #EXTINF:-1,ATV
 http://bit.do/Atv
 #EXTINF:-1,SHOW HD
-http://live-ciner.mncdn.net/showtv/showtv2/.m3u8 
+http://live-ciner.mncdn.net/live/showtv/showtv2.m3u8 
 #EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #‎EXTINF‬:-1,TRT 1 HD
@@ -19,8 +19,6 @@ http://bit.do/Trt1hd
 http://bit.do/Kanalturk
 #EXTINF:-1,BUGÜN TV
 http://bit.do/buguntv
-#EXTINF:-1,SKY TV
-http://bit.do/skytv
 #EXTINF:-1,FİL TV
 http://bit.do/Filtv
 #EXTINF:-1,FLASH TV
