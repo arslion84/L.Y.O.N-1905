@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Oto Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1, Eurobasket - Round of 16 France- Turkey
-sop://broker.sopcast.com:3912/259042
-#EXTINF:-1, 19:15 Galatasaray - Mersin İY 
-sop://151.80.76.190:3912/259115
-#EXTINF:-1, 19:15 Galatasaray - Mersin İY 1
-sop://151.80.76.190:3912/259107
 #EXTINF:-1, 19:15 Galatasaray - Mersin İY 2
 http://88.198.58.215:5002/turktv2015andre
 #EXTINF:-1, 19:15 Galatasaray - Mersin İY 3
@@ -19,8 +13,6 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 #EXTINF:-1,ATV
 http://bit.do/Atv
-#EXTINF:-1,SHOW HD
-http://bit.do/Showtv
 #EXTINF:-0,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
 #‎EXTINF‬:-1,TRT 1 HD
@@ -61,18 +53,12 @@ http://bit.do/acinema
 http://bit.do/eskifilmler
 #EXTINF:-1,SİNEMA TV
 http://bit.do/sinematv
-#EXTINF:-1,VİZYONTÜRK TV
-http://bit.do/vizyonturk
-#EXTINF:-1,YEŞİLÇAM TV
-http://bit.do/yesilcam
 v#EXTINF:-1,BEST TV
 http://bit.do/besttv
 #EXTINF:-1,CİNERAMA TV
 http://bit.do/cineramatv
 #EXTINF:-1,CNBC-e
 http://bit.do/cnbc-e
-#EXTINF:-1,DİSNEY CHANNEL
-http://bit.do/disneytv
 #EXTINF:-1,MİNİKA ÇOCUK
 http://bit.do/minikacocuk
 #EXTINF:-1,MİNİKA GO
@@ -83,31 +69,21 @@ http://bit.do/E-2
 http://bit.do/Tgrtbelgesel
 #EXTINF:-1,TGRT HABER
 http://bit.do/Tgrthaber
-#EXTINF:-1,TİVİTİ TV
-http://bit.do/tivititv
-#EXTINF:-1,TMB TV
-http://bit.do/tmbtv
 #EXTINF:-1,TV 2
 http://bit.do/Tv2tv
 #EXTINF:-1,TV 5
 http://bit.do/tv5TV
 #EXTINF:-1,TV EM
 http://bit.do/tvem
-#EXTINF:-1,ÜLKE TV
-http://bit.do/ulketvhd
 #EXTINF:-1,A9 TV
 http://bit.do/a9tv
 #EXTINF:-0,Halk TV
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-
-EXTINF:-1,Ülke HD
+#EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
-EXTINF:-0,CNN TÜRK
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-EXTINF:-1, 
-sop://151.80.76.190:3912/258958
+
 
 
 
