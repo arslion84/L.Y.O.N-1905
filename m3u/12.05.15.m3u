@@ -19,6 +19,8 @@ http://bit.do/Trt1hd
 http://bit.do/Kanalturk
 #EXTINF:-1,BUGÜN TV
 http://bit.do/buguntv
+#EXTINF:-0,CNN TÜRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,FİL TV
 http://bit.do/Filtv
 #EXTINF:-1,FLASH TV
