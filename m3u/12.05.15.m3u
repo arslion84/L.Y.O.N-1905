@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Oto Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
 http://
+#EXTINF:-1, 19:15 Galatasaray - Mersin İY 
+sop://151.80.76.190:3912/259115
 #EXTINF:-1, 19:15 Galatasaray - Mersin İY 1
 sop://151.80.76.190:3912/259107
 #EXTINF:-1, 19:15 Galatasaray - Mersin İY 2
