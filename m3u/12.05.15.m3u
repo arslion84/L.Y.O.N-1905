@@ -106,8 +106,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
-#EXTINF:-1,test
-http://bit.do/Showtv
+#EXTINF:-1,test 1
+http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 
 
 
