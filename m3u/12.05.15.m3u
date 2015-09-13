@@ -13,12 +13,7 @@ acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
 http://88.198.58.215:5001/turktv2015yayinidir
 #EXTINF:-1,21:00 Kasımpaşa - Fenerbahçe 6
 http://88.198.58.215:5003/turktv2015yayinidir
-#EXTINF:-1, Inter Milan
-sop://broker.sopcast.com:3912/258800
-#EXTINF:-1, Inter Milan
-sop://broker.sopcast.com:3912/140000
-#EXTINF:-1, Inter Milan
-sop://broker.sopcast.com:3912/190789
+
 
 #EXTINF:-1, LIG TV 1
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
@@ -29,7 +24,7 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 #EXTINF:-1,TV 8 HD
 http://tv8.viviso.tv/live.m3u8
 #EXTINF:-1,Show Tv
-http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
+http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-1,Star 
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 #EXTINF:-1,ATV
@@ -106,8 +101,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
-#EXTINF:-1,test 1
-http://mn-l.mncdn.com/showtv/showtv2/.m3u8
+
+show yedek
+http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 
 
 
