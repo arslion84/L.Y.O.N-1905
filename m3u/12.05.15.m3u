@@ -15,6 +15,8 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 http://tv8.viviso.tv/live.m3u8
 #EXTINF:-1,Show HD
 http://mn-l.mncdn.com/showtv/showtv2/.m3u8
+#EXTINF:-1,Show TV
+http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-0,KANAL D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-0,TRT 1 HD
@@ -25,16 +27,8 @@ http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 #EXTINF:-1,ATV
 http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8
-#EXTINF:-1,KANALTÜRK
-http://bit.do/Kanalturk
-#EXTINF:-1,BUGÜN TV
-http://bit.do/buguntv
 #EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,FİL TV
-http://bit.do/Filtv
-#EXTINF:-1,FLASH TV
-http://bit.do/flastv
 #EXTINF:-1,A Haber
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,TRT HABER HD
@@ -45,52 +39,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1,TRT SPOR HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1,A SPOR
-http://bit.do/Aspor
-#EXTINF:-1,NTV SPOR
-http://bit.do/Ntvspor
-#EXTINF:-1,SPORTS TV
-http://bit.do/Sportstv
-#EXTINF:-1,DREAM TÜRK
-http://bit.do/dreamturk
-#EXTINF:-1,TRT MUZIK
-http://bit.do/Trtmuzik
-#EXTINF:-1,2000 TV
-http://bit.do/2000tv
-#EXTINF:-1,360 TV
-http://bit.do/360tv
-#EXTINF:-1,A SİNEMA TV
-http://bit.do/acinema
-#EXTINF:-1,ESKİ FİLMLER
-http://bit.do/eskifilmler
-#EXTINF:-1,SİNEMA TV
-http://bit.do/sinematv
-v#EXTINF:-1,BEST TV
-http://bit.do/besttv
-#EXTINF:-1,CİNERAMA TV
-http://bit.do/cineramatv
-#EXTINF:-1,CNBC-e
-http://bit.do/cnbc-e
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,MİNİKA ÇOCUK
-http://bit.do/minikacocuk
-#EXTINF:-1,MİNİKA GO
-http://bit.do/minikago
-#EXTINF:-1,E2
-http://bit.do/E-2
-#EXTINF:-1,TGRT BELGESEL
-http://bit.do/Tgrtbelgesel
-#EXTINF:-1,TGRT HABER
-http://bit.do/Tgrthaber
-#EXTINF:-1,TV 2
-http://bit.do/Tv2tv
-#EXTINF:-1,TV 5
-http://bit.do/tv5TV
-#EXTINF:-1,TV EM
-http://bit.do/tvem
-#EXTINF:-1,A9 TV
-http://bit.do/a9tv
 #EXTINF:-0,Halk TV
 http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341be8f037/index.m3u8?time=1434745485638
 #EXTINF:-0,Ulusal Kanal
