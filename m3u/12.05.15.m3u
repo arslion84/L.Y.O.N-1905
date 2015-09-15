@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1,----DUYURU---Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
+#EXTINF:-1,----DUYURU---
 http://
-#EXTINF:-1, Mix TV de devamli Ligtv güncelleniyor oradan da ligtvyi izliyebilirsiniz.
+#EXTINF:-1,1.Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
+http://
+#EXTINF:-1,2.Mix TV de devamli Ligtv güncelleniyor oradan da ligtvyi izliyebilirsiniz.
+http://
+#EXTINF:-1,3. Alternativ Tr deki "Trt 1 HD-3" kalitesi iyi
 http://
 #EXTINF:-1, 20:45 Galatasaray - A. Madrid 1
 sop://broker.sopcast.com:3912/258920?forum.top90da.com
