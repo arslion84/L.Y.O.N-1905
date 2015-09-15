@@ -24,7 +24,7 @@ http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 #EXTINF:-1,Star TV
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 #EXTINF:-1,ATV
-http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8
+http://stream.kinoman.az/atvturk/index.m3u8?token=n-lKb2c9X4R5I99WBdMlRyCJGEL4yfQYvsLO0-Y01e1jsvwhnYP08l9NjZYs4XoiHne0K1UwTTRPHAXzXCEmYw**&st=tVpm429URymjruNAkoMvyQ&e=1442337409
 #EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,A Haber
@@ -47,9 +47,12 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 
 show yedek
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
+atv yedek
+http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8
 
 lig ace
 acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
+
 
 
 
