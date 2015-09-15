@@ -10,7 +10,7 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
 #EXTINF:-1, LIG TV 3
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 #EXTINF:-1,ATV
-http://stream.kinoman.az/atvturk/index.m3u8?token=n-lKb2c9X4R5I99WBdMlRyCJGEL4yfQYvsLO0-Y01e1jsvwhnYP08l9NjZYs4XoiHne0K1UwTTRPHAXzXCEmYw**&st=tVpm429URymjruNAkoMvyQ&e=1442337409
+http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-1,TV 8 HD
 http://tv8.viviso.tv/live.m3u8
 #EXTINF:-1,Show HD
@@ -19,6 +19,8 @@ http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
 #EXTINF:-0,KANAL D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-0,KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w1106540671.m3u8
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,Ülke HD
@@ -45,10 +47,6 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 
 
-show yedek
-http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
-atv yedek
-http://hls.turkuvazgroup.net/atv-hls/smil:atv.smil/chunklist_w314793428_b396000.m3u8
 
 lig ace
 acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
