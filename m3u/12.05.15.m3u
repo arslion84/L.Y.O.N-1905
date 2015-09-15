@@ -3,6 +3,10 @@
 http://
 #EXTINF:-1, Mix TV de devamli Ligtv güncelleniyor oradan da ligtvyi izliyebilirsiniz.
 http://
+#EXTINF:-1, 20:45 Galatasaray - A. Madrid 1
+sop://broker.sopcast.com:3912/258920?forum.top90da.com
+#EXTINF:-1, 20:45 Galatasaray - A. Madrid 2
+sop://broker.sopcast.com:3912/258921?forum.top90da.com
 #EXTINF:-1, LIG TV 1 
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
 #EXTINF:-1, LIG TV 2
@@ -10,6 +14,8 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
 #EXTINF:-1, LIG TV 3
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 
+#EXTINF:-0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TV 8 HD
 http://tv8.viviso.tv/live.m3u8
 #EXTINF:-1,Show HD
@@ -20,8 +26,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-0,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w1106540671.m3u8
-#EXTINF:-0,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
 #EXTINF:-1,Star TV
@@ -34,8 +40,6 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1,TRT SPOR HD
