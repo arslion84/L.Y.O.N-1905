@@ -5,6 +5,8 @@ http://
 http://
 #EXTINF:-1,2.Mix TV de Ligtv güncelleniyor Maclari oradan da izliyebilirsiniz.
 http://
+#EXTINF:-1, LIG TV 1  yedek
+rtmp://104.156.49.212/app//tribunsevdass-channel
 #EXTINF:-1, LIG TV 1 
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
 #EXTINF:-1, LIG TV 2
