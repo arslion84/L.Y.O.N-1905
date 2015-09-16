@@ -19,7 +19,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-0,FOX HD
 http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b664000.m3u8?token=e5dbabf14799ddb1549dcffc2d8a44fbbb13110193673052
 #EXTINF:-1,TV 8 HD
-http://tv8.viviso.tv/live.m3u8
+http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Show HD
 http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-1,Show TV
@@ -64,8 +64,8 @@ http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b66400
 fox 2
 http://stream.kinoman.az/foxturk/index.m3u8?token=wTesiUmk7uhn_37TNQaFSCZWrdMpV6IH5Zd7osXxAOL-btA1X_VR4S8UAgr9-XpEh_csdUWD7KkffG1KtnUjwA**&st=0U2BQYl22eSkjwfa2pqyEQ&e=1442432318
 
-
-
+tv
+http://tv8.viviso.tv/live.m3u8
 
 
 
