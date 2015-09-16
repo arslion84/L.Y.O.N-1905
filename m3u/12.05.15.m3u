@@ -16,6 +16,8 @@ http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-0,FOX HD
+http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b664000.m3u8?token=e5dbabf14799ddb1549dcffc2d8a44fbbb13110193673052
 #EXTINF:-1,TV 8 HD
 http://tv8.viviso.tv/live.m3u8
 #EXTINF:-1,Show HD
@@ -42,8 +44,12 @@ http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,A SPORHD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1,TRT SPOR HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:0,SPORTS TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-0,Halk TV
@@ -51,13 +57,18 @@ http://origin2.live.web.tv.streamprovider.net/streams/4da1be863730bb975a52b3341b
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-0,test
-rtmp://stream.sportstv.com.tr/sportstv<playpath>SportsTV3 <swfUrl> <pageUrl> <objectEncoding>
-
-
-
-
-lig ace
 acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
+
+fox
+http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b664000.m3u8?token=e5dbabf14799ddb1549dcffc2d8a44fbbb13110193673052
+fox 2
+http://stream.kinoman.az/foxturk/index.m3u8?token=wTesiUmk7uhn_37TNQaFSCZWrdMpV6IH5Zd7osXxAOL-btA1X_VR4S8UAgr9-XpEh_csdUWD7KkffG1KtnUjwA**&st=0U2BQYl22eSkjwfa2pqyEQ&e=1442432318
+
+
+
+
+
+
 
 
 
