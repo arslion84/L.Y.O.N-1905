@@ -5,8 +5,6 @@ http://
 http://
 #EXTINF:-1,2.Mix TV de "Mac günleri" Ligtv güncelleniyor oradan da izliyebilirsiniz.
 http://
-#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 
-http://81.7.13.162/hls/ss1/index.m3u8
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
 EXTINF:-1, LIG TV 1  yedek 1
@@ -56,7 +54,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1, Idman TV 
+#EXTINF:-1,IDMAN TV 
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-0,Halk TV
 rtmp://37.77.31.3/liveedge/live
@@ -65,15 +63,6 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-0,test
 acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
 
-fox
-http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b664000.m3u8?token=e5dbabf14799ddb1549dcffc2d8a44fbbb13110193673052
-fox 2
-http://stream.kinoman.az/foxturk/index.m3u8?token=wTesiUmk7uhn_37TNQaFSCZWrdMpV6IH5Zd7osXxAOL-btA1X_VR4S8UAgr9-XpEh_csdUWD7KkffG1KtnUjwA**&st=0U2BQYl22eSkjwfa2pqyEQ&e=1442432318
-
-tv
-http://tv8.viviso.tv/live.m3u8
-
-http://08e6.vp9.tv/chn/bein07hd/v.m3u8
 
 
 
