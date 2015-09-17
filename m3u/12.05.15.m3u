@@ -11,6 +11,8 @@ http://149.255.152.70:80/idman/index.m3u8
 http://08e6.vp9.tv/chn/bein07hd/v.m3u8
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
+EXTINF:-1, LIG TV 1  yedek 1
+http://92.222.205.40:8080/superlig
 #EXTINF:-1,LIG TV 1 
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
 #EXTINF:-1,LIG TV 2
