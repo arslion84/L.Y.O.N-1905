@@ -5,11 +5,7 @@ http://
 http://
 #EXTINF:-1,2.Mix TV de "Mac günleri" Ligtv güncelleniyor oradan da izliyebilirsiniz.
 http://
-#EXTINF:-1,19:00 Fenerbahçe - Molde  1 (Idmantv)
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 1 (BeinSport)
-http://08e6.vp9.tv/chn/bein07hd/v.m3u8
-#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 2
+#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 
 http://81.7.13.162/hls/ss1/index.m3u8
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
@@ -60,6 +56,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1, Idman TV 
+http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-0,Halk TV
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
