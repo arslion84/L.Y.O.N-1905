@@ -3,15 +3,19 @@
 http://
 #EXTINF:-1,1.Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1,2.Mix TV de Ligtv güncelleniyor Maclari oradan da izliyebilirsiniz.
+#EXTINF:-1,2.Mix TV de "Mac günleri" Ligtv güncelleniyor oradan da izliyebilirsiniz.
 http://
+#EXTINF:-1,19:00 Fenerbahçe - Molde  1 (Idmantv)
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 1 (BeinSport)
+http://08e6.vp9.tv/chn/bein07hd/v.m3u8
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
-#EXTINF:-1, LIG TV 1 
+#EXTINF:-1,LIG TV 1 
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
-#EXTINF:-1, LIG TV 2
+#EXTINF:-1,LIG TV 2
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
-#EXTINF:-1, LIG TV 3
+#EXTINF:-1,LIG TV 3
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
 
 #EXTINF:-0,TRT 1 HD
