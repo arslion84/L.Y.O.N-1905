@@ -9,6 +9,8 @@ http://
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1,21:05 Skenderbeu – Beşiktaş 1 (BeinSport)
 http://08e6.vp9.tv/chn/bein07hd/v.m3u8
+#EXTINF:-1,21:05 Skenderbeu – Beşiktaş 2
+http://81.7.13.162/hls/ss1/index.m3u8
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
 EXTINF:-1, LIG TV 1  yedek 1
