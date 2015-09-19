@@ -75,7 +75,7 @@ rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-0,test
-acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
+http://www.webspor.li/lsh5/
 
 http://test:test@51.254.71.98:5001/stvkhd
 
