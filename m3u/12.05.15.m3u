@@ -10,19 +10,9 @@ http://
 #EXTINF:-1,________________________________________________________________________
 http://
 
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray 1
-rtmp://rtmp.deltatv.pw:1935/live/mythos
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray 2
-rtmp://rtmp.deltatv.pw:1935/live/texas2
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray 3 (sopcast)
-sop://broker.sopcast.com:3912/259196
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray yedek  (sopcast)
-sop://151.80.76.190:3912/259196
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray 4
+#EXTINF:-1,LIG TV 1
 http://tvi.ddns.me:8000/live/admin/admin/896.m3u8
-#EXTINF:-1, 20:00 Trabzonspor - Galatasaray 5
-http://5.196.82.222:8000/live/test1/test1/985.m3u8
-#EXTINF:-1,LIG TV 1 
+#EXTINF:-1,LIG TV 1 yedek
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
 #EXTINF:-1,LIG TV 2
 http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
