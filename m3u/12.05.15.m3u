@@ -7,6 +7,10 @@ http://
 http://
 #EXTINF:-1,3.Mix TV de "Mac günleri" Ligtv güncelleniyor oradan da izliyebilirsiniz.
 http://
+EXTINF:-1, 20:00 Trabzonspor - Galatasaray acik 1
+rtmp://rtmp.deltatv.pw:1935/live/mythos
+EXTINF:-1, 20:00 Trabzonspor - Galatasaray acik 2
+rtmp://rtmp.deltatv.pw:1935/live/texas2
 EXTINF:-1, LIG TV 1  yedek
 rtmp://104.156.49.212/app//tribunsevdass-channel
 #EXTINF:-1,LIG TV 1  yedek 1
@@ -75,6 +79,7 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-0,test
 acestream://8f30bf27acb75bb0c0049b287dc294ef12d1dd66
 
+http://test:test@51.254.71.98:5001/stvkhd
 
 
 
