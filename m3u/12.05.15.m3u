@@ -48,8 +48,6 @@ http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-0,TGRT Haber
-http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
 #EXTINF:-1,A Haber
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,TRT HABER HD
