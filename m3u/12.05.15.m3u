@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,----DUYURU---
 http://
-#EXTINF:-1,1."TÜRKISCH" 19.09a kadar kapali olacak Update yapiliyor buradan izleyin.
+#EXTINF:-1,1."TÜRKISCH" 23.09a kadar kapali olacak Update yapiliyor buradan izleyin.
 http://
 #EXTINF:-1,2.Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
 http://
-#EXTINF:-1,3.Mix TV de "Mac günleri" Ligtv güncelleniyor oradan da izliyebilirsiniz.
+#EXTINF:-1,________________________________________________________________________
 http://
-#EXTINF:-1,Fenerbahce - Bursaspor
-sop://151.80.76.190:3912/259207 
 #EXTINF:-1,LIG TV 1
 http://tvi.ddns.me:8000/live/admin/admin/896.m3u8
 #EXTINF:-1,LIG TV 1 yedek
