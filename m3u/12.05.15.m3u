@@ -50,6 +50,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0,Habertürk
 http://live-ciner.mncdn.net/haberturk/haberturk2/seyirturk.m3u8
+#EXTINF:-1,TGRT Haber
+rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1,Yesilcam TV
@@ -70,6 +72,8 @@ http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1,IDMAN TV 
 http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-0,Kanal 68
+rtmp://stream.taksimbilisim.com/kanal68/bant1
 #EXTINF:-0,Halk TV
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
