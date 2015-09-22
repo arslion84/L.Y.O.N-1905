@@ -74,6 +74,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-0,Kanal 68
 rtmp://stream.taksimbilisim.com/kanal68/bant1
+#EXTINF:-0,Semerkand tv HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
 #EXTINF:-0,Halk TV
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
