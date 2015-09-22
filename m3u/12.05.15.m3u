@@ -48,12 +48,18 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
 #EXTINF:0,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,Habertürk
+http://live-ciner.mncdn.net/haberturk/haberturk2/seyirturk.m3u8
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,Yesilcam TV
+http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
-#EXTINF:-1,360 
+#EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
+#EXTINF:-1,Fanatik TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1,A SPORHD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1,TRT SPOR HD
