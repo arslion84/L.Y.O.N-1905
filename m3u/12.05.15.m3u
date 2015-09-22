@@ -80,14 +80,9 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-0, test
-rtmp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e7 1edf2b72344
-#EXTINF:-0, test 1
-rtmp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e7 1edf2b72344.m3u8
-#EXTINF:-0, test 2
-rtsp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e7 1edf2b72344.m3u8
-#EXTINF:-0, test 3
-rtsp://foxtv-i.mncdn.com/live/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e7 1edf2b72344
+#EXTINF:-0, Sürgün Inek
+http://cdn42.my.mail.ru/hv/50922358.mp4?sign=3f9e327e36fe5992f8bd8002630316439f05f4c3&slave[]=s:http://127.0.0.1:5010/50922358-hv.mp4&p=f&expire_at=1442970000&touch=1410003509&region=202
+
 
 
 
