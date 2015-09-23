@@ -83,7 +83,7 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,FOX test
 http://178.162.205.70:8081/live_hd/foxtv/live_hd/foxtv_hi/chunks.m3u8?nimblesessionid=4203754&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE1IDExOjUzOjAxIEFNJmhhc2hfdmFsdWU9emM3Z2J6Y1JjTnZQY0pnb0NmK2R2QT09JnZhbGlkbWludXRlcz0xMCZpcD03OC40Mi4yMzMuMjI5
 #EXTINF:-1,NTV Spor test
-178.162.205.70:8081/live_sd/ntvspor/live_sd/ntv_spor_hi/chunks.m3u8?nimblesessionid=4203288&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE1IDExOjQ2OjU0IEFNJmhhc2hfdmFsdWU9R3lma0M2WXVRQlpFaldXbmE0cFBrQT09JnZhbGlkbWludXRlcz0xMCZpcD03OC40Mi4yMzMuMjI5
+http://178.162.205.70:8081/live_sd/ntvspor/live_sd/ntv_spor_hi/chunks.m3u8?nimblesessionid=4203288&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE1IDExOjQ2OjU0IEFNJmhhc2hfdmFsdWU9R3lma0M2WXVRQlpFaldXbmE0cFBrQT09JnZhbGlkbWludXRlcz0xMCZpcD03OC40Mi4yMzMuMjI5
 #EXTINF:-1,NTV Spor HD test
 http://mn-l.mncdn.com:1935/ntvspor_live/ntvspor1/chunklist_w1247968889.m3u8?token=a6e8966b39655341d069a78c7349cb2ad19c0abe5b78a12b
 
