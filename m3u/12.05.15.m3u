@@ -7,14 +7,12 @@ http://
 http://
 #EXTINF:-1,______________________________________________________________________
 http://
-#EXTINF:-1,LIG TV 1
-http://tvi.ddns.me:8000/live/admin/admin/896.m3u8
-#EXTINF:-1,LIG TV 1 yedek
-http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/112.m3u8
-#EXTINF:-1,LIG TV 2
-http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1700.m3u8
-#EXTINF:-1,LIG TV 3
-http://s1.iptv-cccam.com:80/live/736yr132/pSVPlErapJ/1701.m3u8
+#EXTINF:-1,LIG TV1
+http://skyiptv.ddns.net:8000/live/shima/shima/246.m3u8
+#EXTINF:-1,LIG TV2
+http://skyiptv.ddns.net:8000/live/shima/shima/245.m3u8
+#EXTINF:-1,LIG TV3
+http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
 
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
