@@ -7,7 +7,7 @@ http://
 http://
 #EXTINF:-1,______________________________________________________________________
 http://
-#EXTINF:-0,Ligtv yedek
+EXTINF:-0,Ligtv yedek
 rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-0,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
