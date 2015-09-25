@@ -7,11 +7,13 @@ http://
 http://
 #EXTINF:-1,______________________________________________________________________
 http://
-#EXTINF:-1 group-title="Türkisch",Ligtv 1
+#EXTINF:-0,Ligtv yedek
+rtmp://96.31.82.123/app//websporuss-channel
+#EXTINF:-0,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
-#EXTINF:-1 group-title="Türkisch",Ligtv 2
+#EXTINF:-0,Ligtv 2
 http://eurocam.selfip.net:8000/live/lazio/lazio/692.m3u8
-#EXTINF:-1 group-title="Türkisch",Ligtv 3
+#EXTINF:-0,Ligtv 3
 http://eurocam.selfip.net:8000/live/lazio/lazio/693.m3u8
 
 #EXTINF:-0,TRT 1 HD
