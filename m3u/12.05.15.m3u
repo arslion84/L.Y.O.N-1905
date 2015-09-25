@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,1."TÜRKISCH" bölümü acilmistir ! ayar yapmam lazim beni arayin.
-http://
-#EXTINF:-1,2.Güncellenme icin.. Maca 5 dk kala kodiyi kapatip acin..
+#EXTINF:-1,2.Güncellenme icin.. Mac günü Maca 5 dk kala kodiyi kapatip acin..
 http://
 #EXTINF:-1,______________________________________________________________________
 http://
@@ -15,7 +13,8 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 #EXTINF:-0,Ligtv 3
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
-
+#EXTINF:-1,[COLOR red]Ulusal Kanallar/COLOR]
+http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 EXTINF:-0,FOX HD
@@ -28,6 +27,10 @@ http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 #EXTINF:-0,KANAL D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,Star TV
+http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
+#EXTINF:-1,ATV
+http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1,TRT HD
@@ -38,10 +41,6 @@ http://gg.gg/filtvhd
 rtmp://77.223.146.117/live/planett
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-#EXTINF:-1,Star TV
-http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
-#EXTINF:-1,ATV
-http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,A Haber
