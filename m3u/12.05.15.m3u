@@ -12,9 +12,9 @@ rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-0,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 #EXTINF:-0,Ligtv 2
-http://eurocam.selfip.net:8000/live/lazio/lazio/692.m3u8
+http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 #EXTINF:-0,Ligtv 3
-http://eurocam.selfip.net:8000/live/lazio/lazio/693.m3u8
+http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
 
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
