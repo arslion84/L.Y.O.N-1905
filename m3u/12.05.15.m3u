@@ -14,7 +14,7 @@ rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-0,18:00 Galatasaray - Gaziantepspor 4
 
 #EXTINF:-0,18:00 Galatasaray - Gaziantepspor 5 sopcast
-
+sop://broker.sopcast.com:3912/257855
 
 
 
