@@ -80,7 +80,7 @@ rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-0,test
-sop://broker.sopcast.com:3912/259242
+sop://broker.sopcast.com:3912/259228
 #EXTINF:-1,ligtv maclarda acik
 http://hls.goodgame.ru/hls/20932.m3u8
 
