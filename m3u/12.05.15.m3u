@@ -9,6 +9,8 @@ http://
 rtmp://85.132.67.123:1935/live/texas
 #EXTINF:-0,15:00 Osmanlıspor - Trabzonspor 2
 rtmp://96.31.82.123/app/websporuss-channel
+#EXTINF:-0,15:00 Osmanlıspor - Trabzonspor 3 sopcast
+sop://broker.sopcast.com:3912/259251
 #EXTINF:-1,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 #EXTINF:-0,Ligtv 2
