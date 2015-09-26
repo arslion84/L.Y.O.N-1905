@@ -23,8 +23,6 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
 http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-EXTINF:-0,FOX HD
-http://foxtv-i.mncdn.com/foxtv_iphone/smil:fox.smil/chunklist_w1387869066_b664000.m3u8?token=e5dbabf14799ddb1549dcffc2d8a44fbbb13110193673052
 #EXTINF:-1,TV 8 
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Show HD
