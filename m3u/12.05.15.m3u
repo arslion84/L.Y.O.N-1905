@@ -5,6 +5,13 @@ http://
 http://
 #EXTINF:-1,____________________________________________________________________
 http://
+#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 1 sopcast
+
+#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 2
+
+#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 3
+rtmp://85.132.67.123:1935/live/texas
+
 #EXTINF:-0,15:00 Osmanlıspor - Trabzonspor 1
 rtmp://85.132.67.123:1935/live/texas
 #EXTINF:-0,15:00 Osmanlıspor - Trabzonspor 2
