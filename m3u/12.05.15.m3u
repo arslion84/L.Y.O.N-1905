@@ -5,16 +5,13 @@ http://
 http://
 #EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 1 
+EXTINF:-0,
 rtmp://85.132.67.123:1935/live/texas
-#EXTINF:-0,18:00 Galatasaray- Antep 2
+EXTINF:-0,
 rtmp://85.132.67.123:1935/live/texas1
-#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 3
+EXTINF:-0,
 rtmp://96.31.82.123/app/websporuss-channel
-#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 4 sopcast
-sop://151.80.76.190:3912/257855 
-#EXTINF:-0,18:00 Galatasaray - Gaziantepspor 5 sopcast
-sop://broker.sopcast.com:3912/257855
+
 
 
 
