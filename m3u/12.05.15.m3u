@@ -1,7 +1,7 @@
 #EXTM3U
 EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,____________________________________________________________________
+EXTINF:-1,____________________________________________________________________
 http://
 
 EXTINF:-0
@@ -11,7 +11,7 @@ EXTINF:-0,
 EXTINF:-0,
 
 EXTINF:-0,
-#EXTINF:-1,[COLOR red]SPOR Kanallar[/COLOR]
+#EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 #EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
