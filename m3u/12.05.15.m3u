@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
+#EXTINF:-1,Yeni Kanallar eklenmistir!!!
+http://
 #EXTINF:-1,____________________________________________________________________
 http://
 
@@ -12,7 +14,7 @@ EXTINF:-0,
 
 EXTINF:-0,
 
-EXTINF:-0,Ligtv 1 düsük kalite
+#EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-1,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
@@ -42,10 +44,10 @@ http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1,FIL TV
 http://gg.gg/filtvhd
-#EXTINF:-1,Planet Türk
-rtmp://77.223.146.117/live/planett
 #EXTINF:-1,Ülke HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+#EXTINF:-0,Semerkand tv HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
 #EXTINF:-0,CNN TÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,A Haber
@@ -58,12 +60,22 @@ http://live-ciner.mncdn.net/haberturk/haberturk2/seyirturk.m3u8
 rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,Yesilcam TV
-http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
 #EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,IDMAN TV 
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-0,Kanal 68
+rtmp://stream.taksimbilisim.com/kanal68/bant1
+#EXTINF:-0,Halk TV
+rtmp://37.77.31.3/liveedge/live
+#EXTINF:-0,Ulusal Kanal
+http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
+#EXTINF:-1,[COLOR red]SPOR Kanallar[/COLOR]
+http://
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1,A SPORHD
@@ -72,28 +84,24 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://sol.trtcdn.com/tv/trtspor/trtspor_3/trtspor.m3u8
 #EXTINF:0,SPORTS TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
-#EXTINF:0,TRT ÇOCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,IDMAN TV 
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-0,Kanal 68
-rtmp://stream.taksimbilisim.com/kanal68/bant1
-#EXTINF:-0,Semerkand tv HD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
-#EXTINF:-0,Halk TV
-rtmp://37.77.31.3/liveedge/live
-#EXTINF:-0,Ulusal Kanal
-http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-0,Sinema tv HD
+#EXTINF:-1,[COLOR red]SinemaKanallar[/COLOR]
+http://
+#EXTINF:-1,Yesilcam TV
+http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
+#EXTINF:-1,Planet Türk
+rtmp://77.223.146.117/live/planett
+#EXTINF:-0,Sinema tv 
 mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
-#EXTINF:-0,Sinema tv 2 HD
+#EXTINF:-0,Sinema tv 2 
 mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
-#EXTINF:-0,Sinema tv 3 HD
+#EXTINF:-0,Sinema tv 3 
 mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
-#EXTINF:-0,Sinema tv 4 HD
+#EXTINF:-0,Sinema tv 4 
 mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
-Sinema tv 5 HD
-#EXTINF:-0,mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
+#EXTINF:-0,Sinema tv 5 
+mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
+
+
 #EXTINF:-0,test
 sop://broker.sopcast.com:3912/259262
 
