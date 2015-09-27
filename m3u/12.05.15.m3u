@@ -87,7 +87,7 @@ http://
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Planet Türk
 rtmp://77.223.146.117/live/planett
-#EXTINF:-0,Sinema tv 
+#EXTINF:-0,Sinema tv 1
 mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 2 
 mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
@@ -99,8 +99,6 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
 
-#EXTINF:-0,test
-sop://broker.sopcast.com:3912/259262
 
 
 
