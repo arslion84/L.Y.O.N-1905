@@ -15,7 +15,7 @@ EXTINF:-0,
 http://
 #EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
-#EXTINF:-1 tvg-logo="http://revextv.com/logos/ligtvhd.png" ,Ligtv 1
+#EXTINF:-1,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 #EXTINF:-0,Ligtv 2
 http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
