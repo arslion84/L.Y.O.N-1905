@@ -73,6 +73,8 @@ rtmp://cine5.stream.cubecdn.net/cine5/stream_1
 http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,Yumurcak TV
+http://kurehdlivesp-lh.akamaihd.net/i/kure_Yumurcak_SP_1@153317/index_270_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Idman TV 
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-0,Kanal 68
