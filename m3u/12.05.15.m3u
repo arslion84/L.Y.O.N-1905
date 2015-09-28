@@ -33,6 +33,8 @@ rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-0,Fox HD
+rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
 #EXTINF:-1,TV 8 
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Show HD
@@ -99,8 +101,7 @@ mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-#EXTINF:-0,test
-rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
+
 
 mac saatinde
 http://azadiyame.ddns.net:8081/azadiyame/azadiyame/chunks.m3u8
