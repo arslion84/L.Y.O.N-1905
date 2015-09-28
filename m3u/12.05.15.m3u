@@ -20,6 +20,8 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 #EXTINF:-0,Ligtv 3
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
+#EXTINF:-1,4 Stars TV
+http://tinyurl.com/ok78a57
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1,TRT Spor HD
