@@ -12,6 +12,8 @@ EXTINF:-0,
 EXTIN
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
+EXTINF:-0, Tivibu
+rtmp://217.160.130.45/live/stvkhd93o9
 EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-1,Ligtv 1
