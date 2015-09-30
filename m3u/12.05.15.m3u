@@ -22,17 +22,17 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
-#EXTINF:-1,Tivibu Spor 1 
+EXTINF:-1,Tivibu Spor 1 
 http://gercekhdd.iptv101.com:80/live/09869/09869/210.m3u8
-#EXTINF:-1,Tivibu Spor 2 
+EXTINF:-1,Tivibu Spor 2 
 http://gercekhdd.iptv101.com:80/live/09869/09869/211.m3u8
-#EXTINF:-1,Tivibu Spor 3 
+EXTINF:-1,Tivibu Spor 3 
 http://gercekhdd.iptv101.com:80/live/09869/09869/212.m3u8
-#EXTINF:-1,Tivibu Spor 4 
+EXTINF:-1,Tivibu Spor 4 
 http://gercekhdd.iptv101.com:80/live/09869/09869/213.m3u8
-#EXTINF:-1,NTV SPOR test
+EXTINF:-1,NTV SPOR test
 http://myayinn.canlitv.mobi:1903/canlitvmobi/ntvspor.m3u8?tkn=TFlTaMkuDq3TBQDWcv8TPw&tms=1443577072
-#EXTINF:-1,NTV SPOR test
+EXTINF:-1,NTV SPOR test
 http://myayinn4.canlitv.mobi:1903/canlitvmobi/ntvspor.m3u8?tkn=k8F7hOsurNEKJkoZ74EYLA&tms=1443577120
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
