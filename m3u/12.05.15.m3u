@@ -5,14 +5,23 @@ EXTINF:-1,____________________________________________________________________
 http://
 
 
-EXTINF:-0,
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 1
+sop://151.80.76.190:3912/139598
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 2
+sop://151.80.76.190:3912/258921
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 3
+sop://151.80.76.190:3912/256179
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 4
+sop://151.80.76.190:3912/173675
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 5
+sop://151.80.76.190:3912/253461
+#EXTINF:-0,18:00 Astana – Galatasaray (sop) 6
+sop://151.80.76.190:3912/150027
 
-EXTINF:-0,
 
-EXTIN
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
-EXTINF:-0, Tivibu
+#EXTINF:-0, Tivibu
 rtmp://217.160.130.45/live/stvkhd93o9
 EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
