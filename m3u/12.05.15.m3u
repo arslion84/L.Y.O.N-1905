@@ -34,8 +34,7 @@ http://cdn.ebound.tv/tv/1440797621/chunks.m3u8
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
-#EXTINF:-0, Tivibu
-rtmp://217.160.130.45/live/stvkhd93o9
+
 EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-1,Ligtv 1
@@ -131,14 +130,7 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
-#EXTINF:-1,Tivibu Spor 1 
-http://gercekhdd.iptv101.com:80/live/09869/09869/210.m3u8
-#EXTINF:-1,Tivibu Spor 2 
-http://gercekhdd.iptv101.com:80/live/09869/09869/211.m3u8
-#EXTINF:-1,Tivibu Spor 3 
-http://gercekhdd.iptv101.com:80/live/09869/09869/212.m3u8
-#EXTINF:-1,Tivibu Spor 4 
-http://gercekhdd.iptv101.com:80/live/09869/09869/213.m3u8
+
 
 
 
