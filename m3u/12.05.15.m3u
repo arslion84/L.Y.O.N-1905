@@ -3,10 +3,27 @@ EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
 EXTINF:-1,____________________________________________________________________
 http://
+#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+http://
+EXTINF:-0,19:00 Beşiktaş – Sportinglizbon sop1
+
+EXTINF:-0,19:00 Beşiktaş – Sportinglizbon sop2
+
+EXTINF:-0,19:00 Beşiktaş – Sportinglizbon 3
+rtmp://217.160.130.45/live/onur
+
+EXTINF:-0,21:05 Celtic – Fenerbahçe maçı sop1
+rtmp://217.160.130.45/live/onur
+EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop2
+
+EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop3
+
+EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop4
+
+
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
-
 EXTINF:-0,Ligtv 1 düsük kalite
 rtmp://96.31.82.123/app/websporuss-channel
 #EXTINF:-1,Ligtv 1
