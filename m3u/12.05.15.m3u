@@ -12,7 +12,7 @@ http://
 #EXTINF:-0,21:05 Celtic – Fenerbahçe maçı 1 tivibu
 http://46.4.89.213:5009/turktv42
 #EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2 sop 1
-sop://broker.sopcast.com:3912/258929
+sop://151.80.76.190:3912/258929
 #EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 1
 acestream://a3776be8c08f52b3366c83fff09609721e28cd69
 #EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 2
