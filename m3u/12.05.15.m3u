@@ -9,22 +9,13 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-0,19:00 Beşiktaş – Sportinglizbon 1
-http://85.254.184.5:8888/udp/224.200.1.170:1234
-#EXTINF:-0,19:00 Beşiktaş – Sportinglizbon 2
-#rtmp://217.160.130.45/live/onur
-EXTINF:-0,19:00 Beşiktaş – Sportinglizbon 3 sop
-
-EXTINF:-0,19:00 Beşiktaş – Sportinglizbon 4 sop
-
-
-EXTINF:-0,21:05 Celtic – Fenerbahçe maçı 1
-http://85.254.184.5:8888/udp/224.200.1.170:1234
-EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2
-rtmp://217.160.130.45/live/onur
-EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop3
+#EXTINF:-0,21:05 Celtic – Fenerbahçe maçı 1 tivibu
+http://46.4.89.213:5009/turktv42
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2 sop
+sop://151.80.76.190:3912/257669
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop3
 sop://151.80.76.190:3912/258929
-EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop4
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop4
 
 
 
