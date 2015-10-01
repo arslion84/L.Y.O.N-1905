@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1,[COLOR red]DUYURU[/COLOR]
+#EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
 #EXTINF:-1,Ace yazanlarda önce Acestream Engine acmaniz lazim!!!
 http://
@@ -7,20 +7,9 @@ http://
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-0,21:05 Celtic – Fenerbahçe maçı 1 tivibu
-http://46.4.89.213:5009/turktv42
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2 sop 1
-sop://151.80.76.190:3912/258929
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 1
-acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 2
-acestream://ad418d698e39062d4640914ff452ce62e763e10c
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 3
-acestream://74a10568c78b5b2845970b902b4d86eb88d83a67
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 4
-acestream://2c0efd30b841acd263c0539dd431e24170aa16cf
+
 
 
 
@@ -116,10 +105,13 @@ mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-#EXTINF:-0,test 1
-http://azadiyame.ddns.net:8081/azadiyame/azadiyame/chunks.m3u8
-#EXTINF:-0,test 3
-rtmp://96.31.82.123/app//websporuss-channel 
+#EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
+#EXTINF:-1,TR: LIG TV 1
+http://stream-full.selfip.com:8000/live/anjan/anjan/542.m3u8
+#EXTINF:-1,TR: LIG TV 2
+http://stream-full.selfip.com:8000/live/anjan/anjan/543.m3u8
+#EXTINF:-1,TR: LIG TV 3
+http://stream-full.selfip.com:8000/live/anjan/anjan/544.m3u8
 
 
 
