@@ -15,6 +15,12 @@ http://46.4.89.213:5009/turktv42
 sop://broker.sopcast.com:3912/258929
 #EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 1
 acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 2
+acestream://ad418d698e39062d4640914ff452ce62e763e10c
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 3
+acestream://74a10568c78b5b2845970b902b4d86eb88d83a67
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 4
+acestream://2c0efd30b841acd263c0539dd431e24170aa16cf
 
 
 
