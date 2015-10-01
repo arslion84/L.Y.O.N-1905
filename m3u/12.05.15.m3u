@@ -42,7 +42,7 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:-1,[COLOR red]Ulusal Kanallar[/COLOR]
+#EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
 http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -74,7 +74,7 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,A Haber
 http://origin2.live.web.tv.streamprovider.net/streams/996642ce8e8f48d5438c6de972497d4a_live_0_0/index.m3u8
-#EXTINF:0,Trt Haber HD
+#EXTINF:0,TRT Haber HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0,Habertürk
 http://live-ciner.mncdn.net/haberturk/haberturk2/seyirturk.m3u8
@@ -98,7 +98,7 @@ rtmp://stream.taksimbilisim.com/kanal68/bant1
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-1,[COLOR red]SinemaKanallar[/COLOR]
+#EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
 #EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
@@ -115,13 +115,13 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-0,test 1
-http://stream.kinoman.az/ntvspor/index.m3u8?token=TnKSSKSEY74O-RXZ363IK8KUMVhQxsc0brH2McY4Z9P8auEtehrgsYNLXhndDh_G-DKh-_GVZV3zuWZghI7t5Q**&st=c3PuVnudvpICPmx2SO_hKg&e=1443673341
+http://azadiyame.ddns.net:8081/azadiyame/azadiyame/chunks.m3u8
 #EXTINF:-0,test 2
-
+http://46.4.89.213:5001/turktv
 #EXTINF:-0,test 3
-
+rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF:-0,test 4
-
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-0,test 5
 
 
@@ -130,7 +130,7 @@ http://stream.kinoman.az/ntvspor/index.m3u8?token=TnKSSKSEY74O-RXZ363IK8KUMVhQxs
 mac saatinde
 http://azadiyame.ddns.net:8081/azadiyame/azadiyame/chunks.m3u8
 
-http://46.4.89.213:5001/turktv
+
 
 
 rtmp://96.31.82.123/app//websporuss-channel 
