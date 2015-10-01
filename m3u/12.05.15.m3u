@@ -1,9 +1,9 @@
 #EXTM3U
 EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,Alternativ Livesport (P2P) de Full HD Kalitesinde maclari veriyor!!!
+#EXTINF:-1,Ace yazanlarda önce Acestream Engine acmaniz lazim!!!
 http://
-#EXTINF:-1,Rojadirectme de !!!! Sorusu olan Beni arasin!!!
+#EXTINF:-1,beni arayin anlatayim!!!
 http://
 EXTINF:-1,____________________________________________________________________
 http://
@@ -11,15 +11,20 @@ http://
 http://
 #EXTINF:-0,21:05 Celtic – Fenerbahçe maçı 1 tivibu
 http://46.4.89.213:5009/turktv42
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2 sop
-sop://151.80.76.190:3912/257669
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop3
-sop://151.80.76.190:3912/258929
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop4
-sop://151.80.76.190:3912/257665
-#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı sop5
-sop://broker.sopcast.com:257665
-
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı 2 sop 1
+sop://broker.sopcast.com:3912/258929
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 1
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 2
+acestream://7e8a66f8acc92f39e52634761f391693a4134585
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 3
+acestream://3ea043120c3c65e4ae2967c5f76e79ce76b10b3d
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 4
+acestream://484f2847fcc055116f8df0ce91f3291bfc2fc8e6
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 5
+acestream://b982aeea1af62ce03e848a97159071aebc31c467
+#EXTINF:-0,22:05 Celtic – Fenerbahçe maçı ace 6
+acestream://2c0efd30b841acd263c0539dd431e24170aa16cf
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
