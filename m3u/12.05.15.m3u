@@ -9,10 +9,10 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,18:00 GaLatasaray - Istanbul B. sop
+EXTINF:-1,18:00 
 sop://broker.sopcast.com:3912/259295
-#EXTINF:-1,18:00 Galatasaray - Istanbul B. 1
-http://a1.aliez.biz:8080/hls/streama36117/index.m3u8 
+EXTINF:-1,18:00 
+
 
 
 
@@ -45,6 +45,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
 #EXTINF:-1,TV 8 
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
+#EXTINF: -1,Tv8 INT
+http://bak01-edge03.itdc.ge/tv8/index.m3u8
 #EXTINF:-1,Show HD
 http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-1,Show TV
@@ -53,6 +55,8 @@ http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,Star TV
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
+#EXTINF:-1,Atv 1
+http://bak01-edge03.itdc.ge/atvturk/index.m3u8
 #EXTINF:-1,Atv
 http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,Kanal 7 HD
@@ -118,11 +122,17 @@ http://stream-full.selfip.com:8000/live/anjan/anjan/543.m3u8
 #EXTINF:-1,TR: LIG TV 3
 http://stream-full.selfip.com:8000/live/anjan/anjan/544.m3u8
 
+#EXTINF: -1,test 1
+http://bak01-edge03.itdc.ge/foxturk/index.m3u8
+#EXTINF: -1,test 2
+http://bak01-edge03.itdc.ge/trt1/index.m3u8
+#EXTINF: -1,test 3
+http://bak01-edge03.itdc.ge/kanal7/index.m3u8
+#EXTINF: -1,test 4
+http://bak01-edge03.itdc.ge/kanald/index.m3u8
 
-http://62.210.112.56:8000/texas/texas/texas
 
-mac saatinde
-http://azadiyame.ddns.net:8081/azadiyame/azadiyame/chunks.m3u8
+
 
 
 
