@@ -57,9 +57,9 @@ http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Atv 
 http://bak01-edge03.itdc.ge/atvturk/index.m3u8
 #EXTINF:-1,Show HD
-http://mn-l.mncdn.com/showtv/showtv2/.m3u8
+http://bak01-edge03.itdc.ge/showtv/index.m3u8?
 #EXTINF:-1,Show TV
-http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
+http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-0,Kanal D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,TRT HD
@@ -70,6 +70,8 @@ EXTINF:-1,Atv yedeeeekkkk
 http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,Kanal 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#EXTINF:-1,Ntv
+http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?
 #EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:-1,Fil TV
@@ -92,6 +94,8 @@ rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+#EXTINF:-1,Kral Tv
+http://bak01-edge03.itdc.ge/kral/index.m3u8?
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-0,Kanal 68
@@ -132,9 +136,10 @@ http://bak01-edge03.itdc.ge/trt1/index.m3u8
 #EXTINF: -1,test 3
 http://bak01-edge03.itdc.ge/kanal7/index.m3u8
 #EXTINF: -1,test 4
-http://46.234.123.73/video/CrDtaBMw/20645/bo352IK/14439/ah1WYJh/ntvsporhd.m3u8
+http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 
 
+show yedek
 
 
 
