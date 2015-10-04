@@ -35,6 +35,8 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 #EXTINF:0,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
+#EXTINF:-1,Idman TV 
+http://bak01-edge03.itdc.ge/idman/index.m3u8
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
@@ -42,27 +44,29 @@ http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-0,Fox HD
-rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
-#EXTINF:-1,TV 8 
-http://50.7.161.114:1935/live/tv8/playlist.m3u8
+http://bak01-edge03.itdc.ge/foxturk/index.m3u8
 #EXTINF: -1,Tv8 INT
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
+#EXTINF:-1,TV 8 
+http://50.7.161.114:1935/live/tv8/playlist.m3u8
+#EXTINF:-1,Atv 
+http://bak01-edge03.itdc.ge/atvturk/index.m3u8
 #EXTINF:-1,Show HD
 http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-1,Show TV
 http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 #EXTINF:-0,Kanal D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1,Star TV
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
-#EXTINF:-1,Atv 1
-http://bak01-edge03.itdc.ge/atvturk/index.m3u8
-#EXTINF:-1,Atv
+EXTINF:-1,Atv yedeeeekkkk
 http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,Kanal 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1,360 TV
+http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:-1,Fil TV
 http://gg.gg/filtvhd
 #EXTINF:-1,Ülke HD
@@ -83,14 +87,8 @@ rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
-#EXTINF:-1,360 TV
-http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:0,Yumurcak TV
-http://kurehdlivesp-lh.akamaihd.net/i/kure_Yumurcak_SP_1@153317/index_270_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Idman TV 
-http://bak01-edge03.itdc.ge/idman/index.m3u8
 #EXTINF:-0,Kanal 68
 rtmp://stream.taksimbilisim.com/kanal68/bant1
 #EXTINF:-0,Halk TV
@@ -123,7 +121,7 @@ http://stream-full.selfip.com:8000/live/anjan/anjan/543.m3u8
 http://stream-full.selfip.com:8000/live/anjan/anjan/544.m3u8
 
 #EXTINF: -1,test 1
-http://bak01-edge03.itdc.ge/foxturk/index.m3u8
+rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
 #EXTINF: -1,test 2
 http://bak01-edge03.itdc.ge/trt1/index.m3u8
 #EXTINF: -1,test 3
