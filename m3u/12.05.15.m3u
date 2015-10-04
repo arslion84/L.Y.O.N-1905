@@ -10,7 +10,7 @@ http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
 #EXTINF:-1,19:00 Akisar - Fener
-http://149.6.42.122:8080/hls/streama36189/index.m3u8 
+rtmp://181.214.35.7:19350/live//websporr10 
 EXTINF:-1,18:00 
 sop://broker.sopcast.com:3912/259295
 
