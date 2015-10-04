@@ -7,13 +7,13 @@ XTINF:-1,beni arayin anlatayim!!!
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,19:00 Akisar - Fener 1
+EXTINF:-1,
 rtmp://181.214.35.7:19350/live//websporr10 
-#EXTINF:-1,19:00 Akisar - Fener 2
+EXTINF:-1,
 http://46.4.89.213:2015/turktv
-#EXTINF:-1,19:00 Akisar - Fener 3
+EXTINF:-1
 http://46.105.48.112:8888/ipvt_002
 
 
