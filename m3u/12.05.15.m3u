@@ -44,7 +44,7 @@ EXTINF:0,FB TV
 rtmp://$OPT:rtmp-raw=rtmp://live.master.cubecdn.net/fbtv playpath=stream1 swfUrl=http://live.master.cubecdn.net/player/stml/swf/flowplayer.commercial-3.2.16.swf live=true pageUrl=http://www.fbtvonline.com/
 #EXTINF:-1,Idman TV 
 http://bak01-edge03.itdc.ge/idman/index.m3u8
-EXTINF:-1,Fanatik TV
+#EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
 http://
