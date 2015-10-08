@@ -134,7 +134,7 @@ http://stream-full.selfip.com:8000/live/anjan/anjan/543.m3u8
 http://stream-full.selfip.com:8000/live/anjan/anjan/544.m3u8
 
 #EXTINF: -1,test 1
-rtsp://foxtv-i.mncdn.com:554/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
+http://bstream.universostream.org:8000/live/angela/angela/3020.m3u8
 #EXTINF: -1,test 2
 http://bak01-edge03.itdc.ge/trt1/index.m3u8
 #EXTINF: -1,test 3
