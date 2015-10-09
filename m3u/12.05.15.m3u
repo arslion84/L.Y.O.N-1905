@@ -124,15 +124,15 @@ mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 #EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-#EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
+#EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
 #EXTINF:-1,TR: LIG TV 1
-http://stream-full.selfip.com:8000/live/anjan/anjan/542.m3u8
-#EXTINF:-1,TR: LIG TV 2
-http://stream-full.selfip.com:8000/live/anjan/anjan/543.m3u8
-#EXTINF:-1,TR: LIG TV 3
-http://stream-full.selfip.com:8000/live/anjan/anjan/544.m3u8
-
+http://muharremabi:muharremabi@46.105.235.249:5001
+#EXTINF:-1,TR: LIG TV 1
+http://muratabi:muratabi@46.105.235.249:5001
+#EXTINF:-1,TR: LIG TV 1
+http://irfanabi:irfanabi@46.105.235.249:5001
+#EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
 #EXTINF: -1,test 1
 http://bstream.universostream.org:8000/live/angela/angela/3020.m3u8
 #EXTINF: -1,test 2
