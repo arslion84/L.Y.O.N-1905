@@ -111,21 +111,21 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
 #EXTINF:-1,Vip chanel turk HD
-http://gercekxx.iptv101.com:80/live/15912/15912/13.ch
+http://gercekxx.iptv101.com:80/live/15912/15912/13.playlist.m3u8
 #EXTINF:-1,Moviesmart Turk HD
 http://gercekxx.iptv101.com:80/live/15912/15912/203.playlist.m3u8
 #EXTINF:-1,Vip chanel 2 HD
-http://gercekxx.iptv101.com:80/live/15912/15912/18.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/18.playlist.m3u8
 #EXTINF:-1,Yesilcam 1 HD
-http://gercekxx.iptv101.com:80/live/15912/15912/32.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/32.playlist.m3u8
 #EXTINF:-1,Yesilcam 2 HD
-http://gercekxx.iptv101.com:80/live/15912/15912/14.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/14.playlist.m3u8
 #EXTINF:-1,Loca 1 Hd
-http://gercekxx.iptv101.com:80/live/15912/15912/15.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/15.playlist.m3u8
 #EXTINF:-1,Loca 2 HD
-http://gercekxx.iptv101.com:80/live/15912/15912/209.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/209.playlist.m3u8
 #EXTINF:-1,ANIMASYON HD
-http://gercekxx.iptv101.com:80/live/15912/15912/19.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/19.playlist.m3u8
 #EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Planet Türk
@@ -142,8 +142,6 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
-#EXTINF:-1,TR: LIG TV 1
-http://iptvkosova.dyndns.tv:8000/live/reis1/reis1/894.m3u8
 #EXTINF:-1,TR: LIG TV 1
 http://muharremabi:muharremabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
