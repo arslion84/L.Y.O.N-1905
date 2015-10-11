@@ -110,6 +110,22 @@ rtmp://37.77.31.3/liveedge/live
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
+#EXTINF:-1,vip chanel turk hd
+http://gercekxx.iptv101.com:80/live/15912/15912/13.m3u8
+#EXTINF:-1,YESILCAM 1 HD
+http://gercekxx.iptv101.com:80/live/15912/15912/32.m3u8
+#EXTINF:-1,YESILCAM 2 HD
+http://gercekxx.iptv101.com:80/live/15912/15912/14.m3u8
+#EXTINF:-1,loca 1 hd
+http://gercekxx.iptv101.com:80/live/15912/15912/15.m3u8
+#EXTINF:-1,Loca 2 HD
+http://gercekxx.iptv101.com:80/live/15912/15912/209.m3u8
+#EXTINF:-1,Moviesmart Turk HD
+http://gercekxx.iptv101.com:80/live/15912/15912/203.m3u8
+#EXTINF:-1,vip chanel 2 hd
+http://gercekxx.iptv101.com:80/live/15912/15912/18.m3u8
+#EXTINF:-1,ANIMASYON HD
+http://gercekxx.iptv101.com:80/live/15912/15912/19.m3u8
 #EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Planet Türk
