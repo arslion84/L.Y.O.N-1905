@@ -111,9 +111,9 @@ http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
 #EXTINF:-1,Vip chanel turk HD
-http://gercekxx.iptv101.com:80/live/15912/15912/13.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/13.ch
 #EXTINF:-1,Moviesmart Turk HD
-http://gercekxx.iptv101.com:80/live/15912/15912/203.m3u8
+http://gercekxx.iptv101.com:80/live/15912/15912/203.playlist.m3u8
 #EXTINF:-1,Vip chanel 2 HD
 http://gercekxx.iptv101.com:80/live/15912/15912/18.m3u8
 #EXTINF:-1,Yesilcam 1 HD
@@ -151,8 +151,6 @@ http://muratabi:muratabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
 http://irfanabi:irfanabi@46.105.235.249:5001
 #EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
-#EXTINF: -1,test 1
-http://bstream.universostream.org:8000/live/angela/angela/3020.m3u8
 #EXTINF: -1,test 2
 http://bak01-edge03.itdc.ge/trt1/index.m3u8
 #EXTINF: -1,test 3
@@ -163,7 +161,7 @@ http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 http://iptv.is-very-nice.org:9705/live/satsupreme/cccam-server.us/76.m3u8
 
 
-show yedek
+
 
 
 
