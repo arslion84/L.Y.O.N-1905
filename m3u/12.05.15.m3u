@@ -117,16 +117,16 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
-#EXTINF:-1,TR: LIG TV 1
-http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=yesil&devicePass=yesil&type=m3u
-#EXTINF:-1,TR: LIG TV 1
-http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=volkan&devicePass=volkan&type=m3u
-#EXTINF:-1,TR: LIG TV 1
-http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=ulku&devicePass=ulku&type=m3u
-#EXTINF:-1,TR: LIG TV 1
-http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=unalmis&devicePass=unalmis&type=m3u
-#EXTINF:-1,TR: LIG TV 1
-http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=ugur&devicePass=ugur&type=m3u
+#EXTINF:-1,TR: LIG TV 1 gec acilir
+http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
+#EXTINF:-1,TR: LIG TV 1 gec acilir
+http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=volkan&devicePass=volkan
+#EXTINF:-1,TR: LIG TV 1 gec acilir
+http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ulku&devicePass=ulku
+#EXTINF:-1,TR: LIG TV 1 gec acilir
+http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=unalmis&devicePass=unalmis
+#EXTINF:-1,TR: LIG TV 1 gec acilir
+http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ugur&devicePass=ugur
 #EXTINF:-1,TR: LIG TV 1
 http://muharremabi:muharremabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
