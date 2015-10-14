@@ -133,7 +133,8 @@ http://bak01-edge03.itdc.ge/kanal7/index.m3u8
 http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 #EXTINF: -1,test 4
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
-
+#EXTINF: -1,test 5
+http://master.nika.rs.ba:80/live?channelId=140&uid=66&deviceUser=besplatno&devicePass=besplatno
 
 
 
