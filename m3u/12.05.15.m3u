@@ -21,14 +21,6 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 #EXTINF:-0,Ligtv 3
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
-#EXTINF:0,Tivibu Spor 1 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/4.m3u8
-#EXTINF:0,Tivibu Spor 2 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/15.playlist.m3u8
-#EXTINF:0,Smart Spor HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/5
-#EXTINF:0,Smart Spor 2 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/6
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
 #EXTINF:-1,Ntv Spor
@@ -73,12 +65,6 @@ http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1,Ntv
 http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?
-#EXTINF:0,World Travel HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/12
-#EXTINF:0,Net Geo Wild HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/8
-#EXTINF:0,Net Geo HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/9
 #EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:-1,Fil TV
@@ -115,20 +101,6 @@ rtmp://37.77.31.3/liveedge/live
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
-#EXTINF:-1,Salon 1 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/10
-#EXTINF:-1,Salon 2 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/14
-#EXTINF:-1,Salon 3 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/11
-#EXTINF:0,Loca 1 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/16
-#EXTINF:0,Loca 2 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/17
-#EXTINF:0,Loca 3 HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/18
-#EXTINF:-1,ANIMASYON HD*
-http://akif-server.dyndns.tv:8000/akifff/akifff/7
 #EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Planet Türk
@@ -145,18 +117,12 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
-#EXTINF:0,LİG TV 1 HD
-http://akif-server.dyndns.tv:8000/akifff/akifff/1
 #EXTINF:-1,TR: LIG TV 1
 http://muharremabi:muharremabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
 http://muratabi:muratabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
 http://irfanabi:irfanabi@46.105.235.249:5001
-#EXTINF:0,LİG TV 2 HD
-http://akif-server.dyndns.tv:8000/akifff/akifff/2
-#EXTINF:0,LİG TV 3 HD
-http://akif-server.dyndns.tv:8000/akifff/akifff/3
 #EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
 http://
 #EXTINF: -1,test 1
