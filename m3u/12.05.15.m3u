@@ -118,6 +118,16 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
 #EXTINF:-1,TR: LIG TV 1
+http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=yesil&devicePass=yesil&type=m3u
+#EXTINF:-1,TR: LIG TV 1
+http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=volkan&devicePass=volkan&type=m3u
+#EXTINF:-1,TR: LIG TV 1
+http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=ulku&devicePass=ulku&type=m3u
+#EXTINF:-1,TR: LIG TV 1
+http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=unalmis&devicePass=unalmis&type=m3u
+#EXTINF:-1,TR: LIG TV 1
+http://iptvmerkez.mlbfan.org:81/playlist?uid=&deviceUser=ugur&devicePass=ugur&type=m3u
+#EXTINF:-1,TR: LIG TV 1
 http://muharremabi:muharremabi@46.105.235.249:5001
 #EXTINF:-1,TR: LIG TV 1
 http://muratabi:muratabi@46.105.235.249:5001
