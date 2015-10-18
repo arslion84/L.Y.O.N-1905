@@ -115,11 +115,11 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
 #EXTINF:-1 group-title="SKY",LIGTV1.Hd
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1170.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1170.m3u8
 #EXTINF:-1 group-title="SKY",LIGTV2.Hd
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1171.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1171.m3u8
 #EXTINF:-1 group-title="SKY",LIG.TV3.HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1172.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1172.m3u8
 EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
 EXTINF:-1,TR: LIG TV 1 gec acilir
