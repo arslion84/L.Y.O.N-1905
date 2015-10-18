@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,Maç günleri Ligtv 2 ve 3 de Ligtv1 Oluyor!!!
+#EXTINF:-1,Ligtv 2 de Ligtv 1 oluyor ve Sampiyonlar Ligi TIVIBUSPOR Oluyor!!!
 http://
 XTINF:-1,beni arayin anlatayim!!!
 http://
@@ -18,6 +18,10 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 #EXTINF:-0,Ligtv 3
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
+#EXTINF:-1,Tivibu Spor 1 
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1496.m3u8
+#EXTINF:-1,Tivibu Spor 2 HD
+http://123iptv.nl:88/live/rjexor5blH/6L5hibxgzF/1580.m3u8
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
 #EXTINF:-1,Ntv Spor
