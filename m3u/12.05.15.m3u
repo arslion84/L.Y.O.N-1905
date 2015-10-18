@@ -12,9 +12,6 @@ http://
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
-http://
-#EXTINF:-0, GS - GB maci
-http://www.aliez.tv/live/ayberksporthd/ 
 #EXTINF:-1,Ligtv 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 #EXTINF:-0,Ligtv 2
@@ -119,20 +116,15 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 http://
 #EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
-EXTINF:-1,TR: LIG TV 1 gec acilir
+#EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=volkan&devicePass=volkan
-EXTINF:-1,TR: LIG TV 1 gec acilir
+#EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ulku&devicePass=ulku
-EXTINF:-1,TR: LIG TV 1 gec acilir
+#EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=unalmis&devicePass=unalmis
-EXTINF:-1,TR: LIG TV 1 gec acilir
+#EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ugur&devicePass=ugur
-#EXTINF:-1,TR: LIG TV 1
-http://muharremabi:muharremabi@46.105.235.249:5001
-#EXTINF:-1,TR: LIG TV 1
-http://muratabi:muratabi@46.105.235.249:5001
-#EXTINF:-1,TR: LIG TV 1
-http://irfanabi:irfanabi@46.105.235.249:5001
+
 #EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
 http://
 #EXTINF: -1,test 1
@@ -144,7 +136,7 @@ http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 #EXTINF: -1,test 4
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 #EXTINF: -1,test 5
-http://master.nika.rs.ba:80/live?channelId=140&uid=66&deviceUser=besplatno&devicePass=besplatno
+rtmp://96.31.82.123/app//websporuss-channel 
 
 
 
