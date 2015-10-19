@@ -30,7 +30,7 @@ http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1,TRT Spor HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 EXTINF:0,FB TV
@@ -121,12 +121,12 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
-#EXTINF:-1 group-title="SKY",LIGTV1.Hd
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1170.m3u8
-#EXTINF:-1 group-title="SKY",LIGTV2.Hd
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1171.m3u8
-#EXTINF:-1 group-title="SKY",LIG.TV3.HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1172.m3u8
+#EXTINF:-1,Lig TV1
+http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/490.m3u8
+#EXTINF:-1,Lig TV2 
+http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/491.m3u8
+#EXTINF:-1,Lig TV3
+http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/526.m3u8
 EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
 EXTINF:-1,TR: LIG TV 1 gec acilir
@@ -152,8 +152,8 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF: -1,test 6
 http://bak01-edge03.itdc.ge/startv/index.m3u8 
-#EXTINF:-1,TRT SPOR HD 
-http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
+
+
 
 
 
