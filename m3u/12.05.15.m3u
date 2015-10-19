@@ -150,6 +150,10 @@ http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 #EXTINF: -1,test 5
 rtmp://96.31.82.123/app//websporuss-channel 
+#EXTINF: -1,test 6
+http://bak01-edge03.itdc.ge/startv/index.m3u8 
+#EXTINF:-1,TRT SPOR HD 
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 
 
 
