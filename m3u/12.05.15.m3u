@@ -152,6 +152,16 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF: -1,test 6
 http://bak01-edge03.itdc.ge/startv/index.m3u8 
+#EXTINF:-1,Beyaz TV m3u8 iptv.ink
+http://hls.tv.iptv.ink/beyazittvtr@536958.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,TRT COCUK m3u8 -TVIP.GA GEÇ AÇILIR
+http://pvr.tvip.ga/0810.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,TVEM m3u8 iptv.ink
+http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,TRT MÜZIK HD m3u8 -TVIP.GA GEÇ AÇILIR
+http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1,TRT BELGESEL m3u8 iptv.ink
+http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
 
 
 
