@@ -131,12 +131,12 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 http://
 #EXTINF:-1,LIG TV Ace
 acestream://2eb398b891859a0e528661eddd8699fb049810f8
-#EXTINF:-1,Lig TV1
-http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/490.m3u8
-#EXTINF:-1,Lig TV2 
-http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/491.m3u8
+#EXTINF:-1,Lig TV1 HD
+http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/490.m3u8
+#EXTINF:-1,Lig TV2 HD
+http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/491.m3u8
 #EXTINF:-1,Lig TV3
-http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/526.m3u8
+http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/526.m3u8
 EXTINF:-1,TR: LIG TV 1 gec acilir
 http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
 EXTINF:-1,TR: LIG TV 1 gec acilir
