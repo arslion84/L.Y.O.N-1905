@@ -162,6 +162,8 @@ http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
 http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:-1,TRT BELGESEL m3u8 iptv.ink
 http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:-1,lig ace
+acestream://2eb398b891859a0e528661eddd8699fb049810f8
 
 
 
