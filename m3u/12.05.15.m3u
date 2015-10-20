@@ -69,6 +69,8 @@ http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 #EXTINF:-1,Ntv
 http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?
+#EXTINF:-1,TRT BELGESEL 
+http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:-1,Fil TV
@@ -89,8 +91,12 @@ http://live-ciner.mncdn.net/haberturk/haberturk2/seyirturk.m3u8
 rtmp://tgrthaber.mediatriple.net:1935/tgrtliveedge/tgrt3
 #EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TVEM
+http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+#EXTINF:-1,TRT MÜZIK 
+http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:-1,Kral Tv
 http://bak01-edge03.itdc.ge/kral/index.m3u8?
 #EXTINF:-1,Dreamtürk
@@ -105,6 +111,8 @@ rtmp://37.77.31.3/liveedge/live
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 #EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
+#EXTINF:-1,Medya TV 
+http://hls.tv.iptv.ink/beyazittvtr@536958.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
 #EXTINF:-1,Planet Türk
@@ -121,6 +129,8 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 #EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
+#EXTINF:-1,LIG TV Ace
+acestream://2eb398b891859a0e528661eddd8699fb049810f8
 #EXTINF:-1,Lig TV1
 http://proxiiptv.dyndns.tv:8000/live/astrit/astrit/490.m3u8
 #EXTINF:-1,Lig TV2 
@@ -152,18 +162,7 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF: -1,test 6
 http://bak01-edge03.itdc.ge/startv/index.m3u8 
-#EXTINF:-1,Beyaz TV m3u8 iptv.ink
-http://hls.tv.iptv.ink/beyazittvtr@536958.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT COCUK m3u8 -TVIP.GA GEÇ AÇILIR
-http://pvr.tvip.ga/0810.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,TVEM m3u8 iptv.ink
-http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,TRT MÜZIK HD m3u8 -TVIP.GA GEÇ AÇILIR
-http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,TRT BELGESEL m3u8 iptv.ink
-http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:-1,lig ace
-acestream://2eb398b891859a0e528661eddd8699fb049810f8
+
 
 
 
