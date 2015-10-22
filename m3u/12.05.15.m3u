@@ -157,6 +157,8 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF: -1,test 6
 http://bak01-edge03.itdc.ge/startv/index.m3u8 
+#EXTINF: -1,test 7
+http://149.6.42.122:8080/hls/streama36681/index.m3u8
 
 
 
