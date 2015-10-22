@@ -7,16 +7,13 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,Lokomotiv Moskova - Besiktas 1 Azeri
+#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
 http://bak01-edge03.itdc.ge/idman/index.m3u8
-#EXTINF:-1,Lokomotiv Moskova - Besiktas 2 Azeri
+#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
 http://149.255.152.112/idman/index.m3u8
-#EXTINF:-1,Lokomotiv Moskova - Besiktas 3 rus
-rtmp://89.248.168.205/live/ufocastyapmamali?id=48482&pk=92bd69de6d9caf1a65a6c909eefca9dac7de43febe4fba1520eac7863ec9310b
-#EXTINF:-1,Lokomotiv Moskova - Besiktas 4 rus
-http://149.6.42.122:8080/hls/streama36611/index.m3u8
-#EXTINF:-1,Lokomotiv Moskova - Besiktas 5 ingiliz
-rtmp://107.181.182.90/app//pashas-channel
+#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
+http://149.255.152.112/trt1/index.m3u8
+
 
 
 
