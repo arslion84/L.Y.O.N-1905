@@ -15,7 +15,8 @@ http://149.255.152.112/idman/index.m3u8
 http://195.189.246.131/russia2_250k.m3u8
 #EXTINF:-1,Lokomotiv Moskova - Besiktas 4 rus
 http://149.6.42.122:8080/hls/streama36611/index.m3u8
-EXTINF:-1,Lokomotiv Moskova - Besiktas 5 yabanci
+#EXTINF:-1,Lokomotiv Moskova - Besiktas 5 test
+rtmp://107.181.182.90/app//pashas-channel
 
 
 
