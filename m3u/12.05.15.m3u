@@ -7,14 +7,18 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,Lokomotiv Moskova - Beşiktaş 1 tivibu
-rtmp://217.160.130.45/live/stvkhd49373
-#EXTINF:-1,Lokomotiv Moskova - Beşiktaş 2 tivibu 
-id=48447&pk=92bd69de6d9caf1a65a6c909eefca9dac7de43febe4fba1520eac7863ec9310b
-#EXTINF:-1,Lokomotiv Moskova - Beşiktaş 3 tivibu
-rtmp://185.39.11.60:1735/vod/?token=play@144553118700084/sdafasd2321_a5sc7vc
-#EXTINF:-1,Lokomotiv Moskova - Beşiktaş 4 yabanci
-rtmp://play1.tvope.com/tvope/stream_somb0010
+#EXTINF:-1,Lokomotiv Moskova - Besiktas 1 Azeri
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1,Lokomotiv Moskova - Besiktas 2 Azeri
+http://149.255.152.112/idman/index.m3u8
+#EXTINF:-1,Lokomotiv Moskova - Besiktas 3 rus
+http://195.189.246.131/russia2_250k.m3u8
+#EXTINF:-1,Lokomotiv Moskova - Besiktas 4 rus
+http://149.6.42.122:8080/hls/streama36611/index.m3u8
+EXTINF:-1,Lokomotiv Moskova - Besiktas 5 yabanci
+
+
+
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
