@@ -51,6 +51,8 @@ rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-0,TRT 1
+http://bak01-edge03.itdc.ge/trt1/index.m3u8
 #EXTINF:-0,Fox HD
 http://bak01-edge03.itdc.ge/foxturk/index.m3u8
 #EXTINF: -1,Tv8 INT
