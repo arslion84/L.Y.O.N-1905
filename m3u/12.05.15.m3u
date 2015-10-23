@@ -5,14 +5,12 @@ EXTINF:-1
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
-http://bak01-edge03.itdc.ge/idman/index.m3u8
-#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
-http://149.255.152.112/idman/index.m3u8
-#EXTINF:-1,22:05 ‪‎Fenerbahçe‬ - Ajax maçı
-http://149.255.152.112/trt1/index.m3u8
+EXTINF:-1,
+
+EXTINF:-1,
+
 
 
 
@@ -144,16 +142,7 @@ http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/490.m3u8
 http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/491.m3u8
 #EXTINF:-1,Lig TV3
 http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/526.m3u8
-EXTINF:-1,TR: LIG TV 1 gec acilir
-http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=yesil&devicePass=yesil
-EXTINF:-1,TR: LIG TV 1 gec acilir
-http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=volkan&devicePass=volkan
-EXTINF:-1,TR: LIG TV 1 gec acilir
-http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ulku&devicePass=ulku
-EXTINF:-1,TR: LIG TV 1 gec acilir
-http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=unalmis&devicePass=unalmis
-EXTINF:-1,TR: LIG TV 1 gec acilir
-http://iptvmerkez.mlbfan.org:81/live?channelId=277&uid=2600&deviceUser=ugur&devicePass=ugur
+
 
 #EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
 http://
@@ -169,8 +158,7 @@ http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 rtmp://96.31.82.123/app//websporuss-channel 
 #EXTINF: -1,test 6
 http://bak01-edge03.itdc.ge/startv/index.m3u8 
-#EXTINF: -1,test 7
-http://149.6.42.122:8080/hls/streama36681/index.m3u8
+
 
 
 
