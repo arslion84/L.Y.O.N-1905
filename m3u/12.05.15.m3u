@@ -32,13 +32,13 @@ http://tinyurl.com/ok78a57
 http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1,TRT Spor HD
+EXTINF:-1,TRT Spor HD
 http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:0,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 EXTINF:0,FB TV
 rtmp://$OPT:rtmp-raw=rtmp://live.master.cubecdn.net/fbtv playpath=stream1 swfUrl=http://live.master.cubecdn.net/player/stml/swf/flowplayer.commercial-3.2.16.swf live=true pageUrl=http://www.fbtvonline.com/
-#EXTINF:-1,Idman TV 
+EXTINF:-1,Idman TV 
 http://bak01-edge03.itdc.ge/idman/index.m3u8
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
@@ -48,7 +48,7 @@ http://
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-0,TRT 1
 http://bak01-edge03.itdc.ge/trt1/index.m3u8
-#EXTINF:-0,Fox HD
+EXTINF:-0,Fox HD
 http://bak01-edge03.itdc.ge/foxturk/index.m3u8
 #EXTINF: -1,Tv8 INT
 http://bak01-edge03.itdc.ge/tv8/index.m3u8
