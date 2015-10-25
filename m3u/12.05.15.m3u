@@ -28,7 +28,7 @@ http://eurocam.selfip.net:8000/live/lazio/lazio/690.m3u8
 http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
-#EXTINF:-1,Ntv Spor
+EXTINF:-1,Ntv Spor
 http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
@@ -39,25 +39,37 @@ http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b
 EXTINF:0,FB TV
 rtmp://$OPT:rtmp-raw=rtmp://live.master.cubecdn.net/fbtv playpath=stream1 swfUrl=http://live.master.cubecdn.net/player/stml/swf/flowplayer.commercial-3.2.16.swf live=true pageUrl=http://www.fbtvonline.com/
 EXTINF:-1,Idman TV 
-http://bak01-edge03.itdc.ge/idman/index.m3u8
+#EXTINF:-1,bein Sports
+http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
+#EXTINF:-1,bein Sports 1
+http://tedilive-aka-pub.telecable.es:80/akamai/05/03.m3u8
+#EXTINF:-1,bein Sports 2
+http://tedilive-aka-pub.telecable.es:80/akamai/06/03.m3u8
+#EXTINF:-1,bein Sports 3
+http://tedilive-aka-pub.telecable.es:80/akamai/07/05.m3u8
+#EXTINF:-1,bein Sports 4
+http://tedilive-aka-pub.telecable.es:80/akamai/08/03.m3u8
+#EXTINF:-1,bein Sports 5
+http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
+#EXTINF:-1,bein Sports 6
+http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
+#EXTINF:-1,bein Sports 7
+http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
+
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
 http://
 #EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-0,TRT 1
-http://bak01-edge03.itdc.ge/trt1/index.m3u8
 EXTINF:-0,Fox HD
 http://bak01-edge03.itdc.ge/foxturk/index.m3u8
-#EXTINF: -1,Tv8 INT
-http://bak01-edge03.itdc.ge/tv8/index.m3u8
 #EXTINF:-1,TV 8 
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Atv 
-http://bak01-edge03.itdc.ge/atvturk/index.m3u8
-#EXTINF:-1,Show HD
-http://bak01-edge03.itdc.ge/showtv/index.m3u8?
+http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
+EXTINF:-1,Show HD
+
 #EXTINF:-1,Show TV
 http://mn-l.mncdn.com/showtv/showtv2/.m3u8
 #EXTINF:-0,Kanal D HD
@@ -68,12 +80,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 http://149.255.152.112/startv/index.m3u8
 #EXTINF:-1,Star TV
 http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
-EXTINF:-1,Atv yedeeeekkkk
-http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
 #EXTINF:-0,Kanal 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-#EXTINF:-1,Ntv
-http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?
+EXTINF:-1,Ntv
+
 #EXTINF:-1,TRT BELGESEL 
 http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,360 TV
@@ -102,8 +112,8 @@ http://hls.tv.iptv.ink/tvemtr@320261.m3u8|X-Forwarded-For=37.34.18.55
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
 #EXTINF:-1,TRT MÜZIK 
 http://pvr.tvip.ga/0809.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,Kral Tv
-http://bak01-edge03.itdc.ge/kral/index.m3u8?
+EXTINF:-1,Kral Tv
+
 #EXTINF:-1,Dreamtürk
 http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 #EXTINF:0,TRT ÇOCUK
@@ -151,8 +161,7 @@ http://
 http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 #EXTINF: -1,test 2
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
-#EXTINF: -1,test 
-http://bak01-edge03.itdc.ge/startv/index.m3u8 
+
 
 
 
