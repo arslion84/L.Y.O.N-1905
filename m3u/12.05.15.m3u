@@ -65,9 +65,13 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 EXTINF:-0,Fox HD
 http://bak01-edge03.itdc.ge/foxturk/index.m3u8
 #EXTINF:-1,TV 8 
+http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
+#EXTINF:-1,TV 8 yedek
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Atv 
 http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
+#EXTINF:-1,Atv yedek
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 EXTINF:-1,Show HD
 
 #EXTINF:-1,Show TV
@@ -83,7 +87,8 @@ http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
 #EXTINF:-0,Kanal 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 EXTINF:-1,Ntv
-
+#EXTINF:-0,TV2
+http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
 #EXTINF:-1,TRT BELGESEL 
 http://hls.tv.iptv.ink/trtbelgeseltr@910816.m3u8|X-Forwarded-For=37.34.18.55
 #EXTINF:-1,360 TV
