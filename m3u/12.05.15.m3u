@@ -20,11 +20,11 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 #EXTINF:-1,LIGTV1.Hd
-http://iptv.electro-clair.net:8000/live/oussama/oussama/1170.ts
+http://iptv.electro-clair.net:8000/live/oussama/oussama/1170.m3u8
 #EXTINF:-1,LIGTV2.Hd
-http://iptv.electro-clair.net:8000/live/oussama/oussama/1171.ts
+http://iptv.electro-clair.net:8000/live/oussama/oussama/1171.m3u8
 #EXTINF:-1,LIG.TV3.HD
-http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.ts
+http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
 #EXTINF:-1,Lig TV 1
 http://eurocam.selfip.net:8000/live/lazio/lazio/691.m3u8
 #EXTINF:-0,Lig TV 2
