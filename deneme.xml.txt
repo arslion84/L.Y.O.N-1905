@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+	<channel>
+		<title>Meine erster feed</title>
+		<description>Dieser feed wurde nach der</description>
+		<language>de</language>
+		<link>https://www.dropbox.com/s/2lp21gkr655helc/deneme.xml.txt?dl=1<link/>
+
+	</channel>
+
+</rss>
