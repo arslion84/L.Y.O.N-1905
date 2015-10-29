@@ -20,13 +20,18 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-
-#EXTINF:-1,LIG TV 1 
+#EXTINF:-1,LIG TV 1
+http://skyiptv.ddns.net:8000/live/shima/shima/246.ts
+#EXTINF:-1,LIG TV 1 yedek
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1170.m3u8
-#EXTINF:-1,LIG.TV 2 
+#EXTINF:-1,LIG TV 2
+http://skyiptv.ddns.net:8000/live/shima/shima/245.ts
+#EXTINF:-1,LIG.TV 2 yedek
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1171.m3u8
-#EXTINF:-0,Lig TV 3
-http://eurocam.selfip.net:8000/live/lazio/lazio/689.m3u8
+#EXTINF:-1,LIG TV 3
+http://skyiptv.ddns.net:8000/live/shima/shima/244.ts
+#EXTINF:-1,LIG TV 3 yedek
+http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
 EXTINF:-1,Ntv Spor
@@ -39,9 +44,6 @@ http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 #EXTINF:-1,Fanatik TV
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-EXTINF:0,FB TV
-rtmp://$OPT:rtmp-raw=rtmp://live.master.cubecdn.net/fbtv playpath=stream1 swfUrl=http://live.master.cubecdn.net/player/stml/swf/flowplayer.commercial-3.2.16.swf live=true pageUrl=http://www.fbtvonline.com/
-EXTINF:-1,Idman TV 
 #EXTINF:0,SportKlub 1
 http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
 #EXTINF:0,SportKlub 2
@@ -167,7 +169,7 @@ http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/491.m3u8
 http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/526.m3u8
 
 
-EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
+#EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
 http://
 
 EXTINF: -1,test 1
@@ -175,15 +177,15 @@ http://yayin6.canlitv.com:1935/live/showtv/playlist.m3u8
 EXTINF: -1,test 2
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 
-EXTINF:-1, Sky Bundesliga HD 1 GE [COLOR orange](try several times)[/COLOR]
+#EXTINF:-1, Sky Bundesliga HD 1 GE [COLOR orange](mac zamani acik)[/COLOR]
 http://edge.ultracast.me:1935/live/sky1buINVcp/playlist.m3u8?Token
-EXTINF:-1, Sky Bundesliga HD 2 GE [COLOR orange](try several times)[/COLOR]
+#EXTINF:-1, Sky Bundesliga HD 2 GE [COLOR orange](mac zamani acik)[/COLOR]
 http://edge.ultracast.me:1935/live/sky2bum09Ng/playlist.m3u8?Token
-EXTINF:-1, Sky Bundesliga HD 3 GE [COLOR orange](try several times)[/COLOR]
+#EXTINF:-1, Sky Bundesliga HD 3 GE [COLOR orange](mac zamani acik)[/COLOR]
 http://edge.ultracast.me:1935/live/sky3buLeKZE/playlist.m3u8?Token
-EXTINF:-1, Sky Bundesliga HD 4 [COLOR orange](try several times)[/COLOR]
+#EXTINF:-1, Sky Bundesliga HD 4 [COLOR orange](mac zamani acik)[/COLOR]
 http://edge.ultracast.me:1935/live/sky4buERtSW/playlist.m3u8?Token
-EXTINF:-1, Sky Bundesliga HD 5 GE [COLOR orange](try several times)[/COLOR]
+#EXTINF:-1, Sky Bundesliga HD 5 GE [COLOR orange](mac zamani acik)[/COLOR]
 
 
 
