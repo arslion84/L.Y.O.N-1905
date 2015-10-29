@@ -19,18 +19,23 @@ EXTINF:-1,
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
-
 #EXTINF:-1,LIG TV 1
+http://hyper.de1-eu.com:8000/live/lazio/lazio/691.m3u8
+#EXTINF:-1,LIG TV 1 yedek 1
 http://skyiptv.ddns.net:8000/live/shima/shima/246.m3u8
-#EXTINF:-1,LIG TV 1 yedek
+#EXTINF:-1,LIG TV 1 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1170.m3u8
 #EXTINF:-1,LIG TV 2
+http://hyper.de1-eu.com:8000/live/lazio/lazio/690.m3u8
+#EXTINF:-1,LIG TV 2 yedek 1
 http://skyiptv.ddns.net:8000/live/shima/shima/245.m3u8
-#EXTINF:-1,LIG.TV 2 yedek
+#EXTINF:-1,LIG.TV 2 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1171.m3u8
 #EXTINF:-1,LIG TV 3
+http://hyper.de1-eu.com:8000/live/lazio/lazio/689.m3u8
+#EXTINF:-1,LIG TV 3 yedek 1
 http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
-#EXTINF:-1,LIG TV 3 yedek
+#EXTINF:-1,LIG TV 3 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
