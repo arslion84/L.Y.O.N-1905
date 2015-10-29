@@ -8,6 +8,8 @@ http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
 #EXTINF:-1,17:00 Osmanlıspor – Fenerbahçe 1
+rtmp://5.254.116.206/ARYNEWS//texas
+#EXTINF:-1,17:00 Osmanlıspor – Fenerbahçe 2
 rtmp://83.169.58.36/live/hakaniptv-channel1
 #EXTINF:-1,17:00 Osmanlıspor – Fenerbahçe Ace
 acestream://3b32dcd34b786cd8d749fd5a5c42f850e9b073d6
