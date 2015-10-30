@@ -3,21 +3,18 @@
 http://
 #EXTINF:-1,Almanlarda bazi HD Kanallar (kirmizi olanlar) Düzenleniyor
 http://
+#EXTINF:-1,Maca 5 dk kala Kodiyi kapatip acin Güncellenmesi icin!!
+http://
 EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,19:45 Galatasaray – Eskişehirspor 1
+#EXTINF:-1,19:45 Beşiktaş – Kasımpaşa
 rtmp://5.254.116.206/ARYNEWS//texas16
-#EXTINF:-1,19:45 Galatasaray – Eskişehirspor 2
+#EXTINF:-1,19:45 19:45 Beşiktaş – Kasımpaşa 
 rtmp://83.169.58.36/live/hakaniptv-channel1
-#EXTINF:-1,19:45 Galatasaray – Eskişehirspor Ace
+#EXTINF:-1,19:45 Beşiktaş – Kasımpaşa Ace
 acestream://3b32dcd34b786cd8d749fd5a5c42f850e9b073d6
-
-
-
-
-
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
@@ -40,24 +37,6 @@ http://hyper.de1-eu.com:8000/live/lazio/lazio/689.m3u8
 http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
 #EXTINF:-1,LIG TV 3 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
-#EXTINF:-1,4 Stars TV
-http://tinyurl.com/ok78a57
-EXTINF:-1,Ntv Spor
-http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
-#EXTINF:-1,A Spor HD
-http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-EXTINF:-1,TRT Spor HD
-http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
-#EXTINF:0,Sports TV
-http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
-#EXTINF:-1,Fanatik TV
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:0,SportKlub 1
-http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
-#EXTINF:0,SportKlub 2
-http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8
-#EXTINF:0,SportKlub 3
-http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8
 #EXTINF:-1,bein Sports
 http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
 #EXTINF:-1,bein Sports 1
@@ -74,6 +53,18 @@ http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
 http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
 #EXTINF:-1,bein Sports 7
 http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
+#EXTINF:-1,4 Stars TV
+http://tinyurl.com/ok78a57
+EXTINF:-1,Ntv Spor
+http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
+#EXTINF:-1,A Spor HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+EXTINF:-1,TRT Spor HD
+http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
+#EXTINF:0,Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
+#EXTINF:-1,Fanatik TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 
 
 EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
