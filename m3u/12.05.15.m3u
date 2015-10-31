@@ -9,33 +9,33 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,19:45 Beşiktaş – Kasımpaşa
-rtmp://5.254.116.206/ARYNEWS//texas16
-#EXTINF:-1,19:45 19:45 Beşiktaş – Kasımpaşa 
-rtmp://83.169.58.36/live/hakaniptv-channel1
-#EXTINF:-1,19:45 Beşiktaş – Kasımpaşa Ace
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,LIG ACE
 acestream://3b32dcd34b786cd8d749fd5a5c42f850e9b073d6
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
-#EXTINF:-1,LIG TV 1
+EXTINF:-1,LIG TV 1
 http://hyper.de1-eu.com:8000/live/lazio/lazio/691.m3u8
-#EXTINF:-1,LIG TV 1 yedek 1
+#EXTINF:-1,LIG TV 1 
 http://skyiptv.ddns.net:8000/live/shima/shima/246.m3u8
-#EXTINF:-1,LIG TV 1 yedek 2
+#EXTINF:-1,LIG TV 1 yedek 
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1170.m3u8
-#EXTINF:-1,LIG TV 2
+EXTINF:-1,LIG TV 2
 http://hyper.de1-eu.com:8000/live/lazio/lazio/690.m3u8
-#EXTINF:-1,LIG TV 2 yedek 1
+#EXTINF:-1,LIG TV 2 
 http://skyiptv.ddns.net:8000/live/shima/shima/245.m3u8
-#EXTINF:-1,LIG.TV 2 yedek 2
+#EXTINF:-1,LIG.TV 2 yedek 
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1171.m3u8
 #EXTINF:-1,LIG TV 3
 http://hyper.de1-eu.com:8000/live/lazio/lazio/689.m3u8
-#EXTINF:-1,LIG TV 3 yedek 1
+#EXTINF:-1,LIG TV 3 yedek 
 http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
-#EXTINF:-1,LIG TV 3 yedek 2
+EXTINF:-1,LIG TV 3 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
 #EXTINF:-1,bein Sports
 http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
@@ -170,7 +170,7 @@ http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/526.m3u8
 http://
 
 #EXTINF: -1,test 1
-https://t.co/NFB1AoPWjh
+http://origin.live.web.tv.streamprovider.net/streams/006f8fcbec8ac2e9c5ca60ed0c671cbc_live_0_0/index.m3u8
 EXTINF: -1,test 2
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 
