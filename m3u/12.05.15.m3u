@@ -37,6 +37,12 @@ http://hyper.de1-eu.com:8000/live/lazio/lazio/689.m3u8
 http://skyiptv.ddns.net:8000/live/shima/shima/244.m3u8
 EXTINF:-1,LIG TV 3 yedek 2
 http://iptv.electro-clair.net:8000/live/oussama/oussama/1172.m3u8
+#EXTINF:0,SportKlub 1
+http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
+#EXTINF:0,SportKlub 2
+http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8
+#EXTINF:0,SportKlub 3
+http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8
 #EXTINF:-1,bein Sports
 http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
 #EXTINF:-1,bein Sports 1
@@ -158,12 +164,6 @@ EXTINF:-0,Sinema tv 5
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 EXTINF:-1,[COLOR red]Bonus Bölümü[/COLOR]
 http://
-#EXTINF:-1,Lig TV1 HD
-http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/490.m3u8
-#EXTINF:-1,Lig TV2 HD
-http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/491.m3u8
-#EXTINF:-1,Lig TV3
-http://proxiiptv.dyndns.tv:8000/live/Bajram/Bajram/526.m3u8
 
 
 #EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
@@ -174,15 +174,7 @@ http://origin.live.web.tv.streamprovider.net/streams/006f8fcbec8ac2e9c5ca60ed0c6
 EXTINF: -1,test 2
 http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
 
-#EXTINF:-1, Sky Bundesliga HD 1 GE [COLOR orange](mac zamani acik)[/COLOR]
-http://edge.ultracast.me:1935/live/sky1buINVcp/playlist.m3u8?Token
-#EXTINF:-1, Sky Bundesliga HD 2 GE [COLOR orange](mac zamani acik)[/COLOR]
-http://edge.ultracast.me:1935/live/sky2bum09Ng/playlist.m3u8?Token
-#EXTINF:-1, Sky Bundesliga HD 3 GE [COLOR orange](mac zamani acik)[/COLOR]
-http://edge.ultracast.me:1935/live/sky3buLeKZE/playlist.m3u8?Token
-#EXTINF:-1, Sky Bundesliga HD 4 [COLOR orange](mac zamani acik)[/COLOR]
-http://edge.ultracast.me:1935/live/sky4buERtSW/playlist.m3u8?Token
-#EXTINF:-1, Sky Bundesliga HD 5 GE [COLOR orange](mac zamani acik)[/COLOR]
+
 
 
 
