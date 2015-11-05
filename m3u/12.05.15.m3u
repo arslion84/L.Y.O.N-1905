@@ -15,6 +15,12 @@ http://grouptv.dyndns.tv:19700/live/alex/alex/8272.m3u8
 rtmp://5.254.116.206/ARYNEWS//texas
 #EXTINF:-1,Ajax – Fenerbahçe 3
 rtmp://5.254.116.206/ARYNEWS//texas16
+#EXTINF:-1,Ajax – Fenerbahçe sop 1
+sop://broker.sopcast.com:3912/258928?forum.top90da.com
+#EXTINF:-1,Ajax – Fenerbahçe sop 2
+sop://broker.sopcast.com:3912/258929?forum.top90da.com
+#EXTINF:-1,Ajax – Fenerbahçe sop 3
+sop://broker.sopcast.com:3912/257668?forum.top90da.com
 
 
 
