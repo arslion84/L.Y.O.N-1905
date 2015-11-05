@@ -49,8 +49,8 @@ http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
 http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
 #EXTINF:-1,bein Sports 7
 http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
-#EXTINF:-1,Rai Sports 2
-http://s01.cstalking.com:8000/live/zero/zero/443.ts
+#EXTINF:-1,Rai Sports 222222
+http://s01.cstalking.com:8000/live/zero/zero/443.m3u8
 #EXTINF:-1,Rai Sports 1
 http://s01.cstalking.com:8000/live/zero/zero/442.ts
 #EXTINF:-1,Fox Sports 2 USA
