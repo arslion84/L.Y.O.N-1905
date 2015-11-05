@@ -9,9 +9,12 @@ EXTINF:-1,____________________________________________________________________
 http://
 EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-EXTINF:-1,
-
-EXTINF:-1,
+#EXTINF:-1,Ajax – Fenerbahçe 1
+http://grouptv.dyndns.tv:19700/live/alex/alex/8272.m3u8
+#EXTINF:-1,Ajax – Fenerbahçe 2
+rtmp://5.254.116.206/ARYNEWS//texas
+#EXTINF:-1,Ajax – Fenerbahçe 3
+rtmp://5.254.116.206/ARYNEWS//texas16
 
 
 
