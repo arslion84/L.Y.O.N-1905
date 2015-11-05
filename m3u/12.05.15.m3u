@@ -33,12 +33,6 @@ http://iptvch.selfip.info:80/live/josef/1234/1451.m3u8
 #EXTINF:-1,LIG TV 3  
 http://iptvchoice.zapto.org:8000/live/testrapid/3CmWLfb3kW/661.m3u8
 
-#EXTINF:0,SportKlub 1
-http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8
-#EXTINF:0,SportKlub 2
-http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8
-#EXTINF:0,SportKlub 3
-http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8
 #EXTINF:-1,bein Sports
 http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
 #EXTINF:-1,bein Sports 1
@@ -55,6 +49,80 @@ http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
 http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
 #EXTINF:-1,bein Sports 7
 http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
+#EXTINF:-1,Rai Sports 2
+http://s01.cstalking.com:8000/live/zero/zero/443.ts
+#EXTINF:-1,Rai Sports 1
+http://s01.cstalking.com:8000/live/zero/zero/442.ts
+#EXTINF:-1,Fox Sports 2 USA
+http://s01.cstalking.com:8000/live/zero/zero/278.ts
+#EXTINF:-1,Fox Sports 1 USA
+http://s01.cstalking.com:8000/live/zero/zero/277.ts
+#EXTINF:-1,Sport TV2 HD POR
+http://s01.cstalking.com:8000/live/zero/zero/418.ts
+#EXTINF:-1,Sport TV1 HD POR
+http://s01.cstalking.com:8000/live/zero/zero/417.ts
+#EXTINF:-1,Digi Sport 3
+http://s01.cstalking.com:8000/live/zero/zero/331.ts
+#EXTINF:-1,Digi Sport 2
+http://s01.cstalking.com:8000/live/zero/zero/332.ts
+#EXTINF:-1,Digi Sport 1
+http://s01.cstalking.com:8000/live/zero/zero/333.ts
+#EXTINF:-1,Supersport 4
+http://s01.cstalking.com:8000/live/zero/zero/256.ts
+#EXTINF:-1,Supersport 3
+http://s01.cstalking.com:8000/live/zero/zero/255.ts
+#EXTINF:-1,Supersport 2
+http://s01.cstalking.com:8000/live/zero/zero/254.ts
+#EXTINF:-1,Supersport 1
+http://s01.cstalking.com:8000/live/zero/zero/253.ts
+#EXTINF:-1,SPORTS : EUROSPORT 1 FR
+http://s01.cstalking.com:8000/live/zero/zero/252.ts
+#EXTINF:-1,EUROSPORT 2 FR
+http://s01.cstalking.com:8000/live/zero/zero/241.ts
+#EXTINF:-1,BEIN SPORT 1 FR HD
+http://s01.cstalking.com:8000/live/zero/zero/257.ts
+#EXTINF:-1,BEIN SPORT 2 FR HD
+http://s01.cstalking.com:8000/live/zero/zero/258.ts
+#EXTINF:-1,beIN Sport 3 FR
+http://s01.cstalking.com:8000/live/zero/zero/419.ts
+#EXTINF:-1,SportKlub 3
+http://s01.cstalking.com:8000/live/zero/zero/280.ts
+#EXTINF:-1,SportKlub 2
+http://s01.cstalking.com:8000/live/zero/zero/281.ts
+#EXTINF:-1,SportKlub 1
+http://s01.cstalking.com:8000/live/zero/zero/282.ts
+#EXTINF:-1,SkyDE Sports 2 HD
+http://s01.cstalking.com:8000/live/zero/zero/286.ts
+#EXTINF:-1,SkyDE Sports 1 HD
+http://s01.cstalking.com:8000/live/zero/zero/285.ts
+#EXTINF:-1,Sky Sports News HD
+http://s01.cstalking.com:8000/live/zero/zero/431.ts
+#EXTINF:-1,Sky BundesLiga HD
+http://s01.cstalking.com:8000/live/zero/zero/284.ts
+#EXTINF:-1,Canal  Sports HD
+http://s01.cstalking.com:8000/live/zero/zero/283.ts
+#EXTINF:-1,CANAL   LIGA HD
+http://s01.cstalking.com:8000/live/zero/zero/251.ts
+#EXTINF:-1,CANAL   LIGA DECAMPEONES HD
+http://s01.cstalking.com:8000/live/zero/zero/250.ts
+#EXTINF:-1,CANAL   GOLF HD
+http://s01.cstalking.com:8000/live/zero/zero/249.ts
+#EXTINF:-1,CANAL   FUTBALL HD
+http://s01.cstalking.com:8000/live/zero/zero/248.ts
+#EXTINF:-1,CANAL   DEPORTES HD
+http://s01.cstalking.com:8000/live/zero/zero/247.ts
+#EXTINF:-1,SNW
+http://s01.cstalking.com:8000/live/zero/zero/81.ts
+#EXTINF:-1,Arena Sport 5
+http://s01.cstalking.com:8000/live/zero/zero/6.ts
+#EXTINF:-1,Arena Sport 4
+http://s01.cstalking.com:8000/live/zero/zero/5.ts
+#EXTINF:-1,Arena Sport 3
+http://s01.cstalking.com:8000/live/zero/zero/4.ts
+#EXTINF:-1,Arena Sport 2
+http://s01.cstalking.com:8000/live/zero/zero/3.ts
+#EXTINF:-1,Arena Sport 1
+http://s01.cstalking.com:8000/live/zero/zero/2.ts
 #EXTINF:-1,4 Stars TV
 http://tinyurl.com/ok78a57
 EXTINF:-1,Ntv Spor
