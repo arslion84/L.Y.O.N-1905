@@ -1,33 +1,14 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,Almanlar Kanallar icin baglanmam lazim beni arayin.
+#EXTINF:-1,1.Almanlar Kanallar icin baglanmam lazim beni arayin.
 http://
-#EXTINF:-1,Maca 5 dk kala Kodiyi kapatip acin Güncellenmesi icin!!
+EXTINF:-1,
 http://
 EXTINF:-1,____________________________________________________________________
 http://
 EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,Ajax – Fenerbahçe tivibu
-http://a1.aliez.me:8080/hls/streama37075/index.m3u8
-#EXTINF:-1,Ajax – Fenerbahçe 1
-http://grouptv.dyndns.tv:19700/live/alex/alex/8272.m3u8
-#EXTINF:-1,Ajax – Fenerbahçe 2
-rtmp://5.254.116.206/ARYNEWS//texas
-#EXTINF:-1,Ajax – Fenerbahçe 3
-rtmp://5.254.116.206/ARYNEWS//texas16
-#EXTINF:-1,Ajax – Fenerbahçe sop 1
-sop://broker.sopcast.com:3912/258928
-rtmp://104.200.159.70/app//patronfeners-channel
-EXTINF:-1,Ajax – Fenerbahçe sop 1
-sop://broker.sopcast.com:3912/258928
-EXTINF:-1,Ajax – Fenerbahçe sop 2
-sop://broker.sopcast.com:3912/258929
-EXTINF:-1,Ajax – Fenerbahçe sop 3
-sop://broker.sopcast.com:3912/257668
-
-
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
@@ -45,22 +26,6 @@ http://grouptv.dyndns.tv:19700/live/alex/alex/4227.ts
 #EXTINF:-1,TRK Lig TV 3 yedek
 http://grouptv.dyndns.tv:19700/live/alex/alex/8274.m3u8
 
-#EXTINF:-1,bein Sports
-http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
-#EXTINF:-1,bein Sports 1
-http://tedilive-aka-pub.telecable.es:80/akamai/05/03.m3u8
-#EXTINF:-1,bein Sports 2
-http://tedilive-aka-pub.telecable.es:80/akamai/06/03.m3u8
-#EXTINF:-1,bein Sports 3
-http://tedilive-aka-pub.telecable.es:80/akamai/07/05.m3u8
-#EXTINF:-1,bein Sports 4
-http://tedilive-aka-pub.telecable.es:80/akamai/08/03.m3u8
-#EXTINF:-1,bein Sports 5
-http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
-#EXTINF:-1,bein Sports 6
-http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
-#EXTINF:-1,bein Sports 7
-http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
 
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
@@ -133,12 +98,27 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
-#EXTINF:-1,[COLOR red]TEST Bölümü[/COLOR]
-http://
-#EXTINF: -1,test 1
-http://origin.live.web.tv.streamprovider.net/streams/006f8fcbec8ac2e9c5ca60ed0c671cbc_live_0_0/index.m3u8
-EXTINF: -1,test 2
-http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
+#EXTINF:-1,[COLOR red] Sky Select Bölümü [/COLOR]
+
+#EXTINF:-1,Sky Select 1 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1482.m3u8
+#EXTINF:-1,Sky Select 2 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1483.m3u8
+#EXTINF:-1,Sky Select 3 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1484.m3u8
+#EXTINF:-1,Sky Select 4 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1485.m3u8
+#EXTINF:-1,Sky Select 5 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1486.m3u8
+#EXTINF:-1,Sky Select 6 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1487.m3u8
+#EXTINF:-1,Sky Select 7 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1488.m3u8
+#EXTINF:-1,Sky Select 8 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1489.m3u8
+#EXTINF:-1,Sky Select 9 HD
+http://bstream.planetstream.org:8000/live/alessand/alessand/1490.m3u8
+
 
 
 
