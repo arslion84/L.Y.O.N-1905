@@ -10,9 +10,9 @@ http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
 #EXTINF:-1,Rize - GalaTasaray 1
-
+http://karastream.ddns.net:5001/KaraStream
 #EXTINF:-1,Rize - Galatasaray 2
-
+http://
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
@@ -142,7 +142,6 @@ rtmp://96.31.82.123/app//websporuss-channel
 
 
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-
 
 
 
