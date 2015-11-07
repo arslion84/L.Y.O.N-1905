@@ -7,32 +7,30 @@ http://
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,Rize - GalaTasaray 1
-http://karastream.ddns.net:5001/KaraStream
-#EXTINF:-1,Rize - Galatasaray 2
-rtmp://217.160.130.45/live/simsekiptv 
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,
+
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-EXTINF:-1,LIG TV 1 
-http://selling-team.net:8000/live/masiello/masiello/3705.m3u8
+
 #EXTINF:-1,Lig TV 1 
 http://grouptv.dyndns.tv:19700/live/alex/alex/8272.m3u8
-EXTINF:-1,Lig TV 2 HD
-http://grouptv.dyndns.tv:19700/live/alex/alex/8273.m3u8
 #EXTINF:-1,LIG TV 2 
 http://selling-team.net:8000/live/masiello/masiello/3704.m3u8
-EXTINF:-1,TRK Lig TV 3 
-http://grouptv.dyndns.tv:19700/live/alex/alex/4227.ts
-#EXTINF:-1,TRK Lig TV 3 
+#EXTINF:-1,Lig TV 3 
 http://grouptv.dyndns.tv:19700/live/alex/alex/8274.m3u8
-
-
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
+
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:0,Sports TV
