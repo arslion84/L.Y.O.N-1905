@@ -22,12 +22,12 @@ EXTINF:-1,
 http://
 
 
-#EXTINF:-1,Lig TV 1 
-http://grouptv.dyndns.tv:19700/live/alex/alex/8272.m3u8
-#EXTINF:-1,LIG TV 2 
-http://selling-team.net:8000/live/masiello/masiello/3704.m3u8
-#EXTINF:-1,Lig TV 3 
-http://grouptv.dyndns.tv:19700/live/alex/alex/8274.m3u8
+#EXTINF:-1,Lig TV 1 HD
+http://grouptv.dyndns.tv:19700/live/domenico8/domenico8/8437.m3u8
+#EXTINF:-1,Lig TV 2 HD
+http://grouptv.dyndns.tv:19700/live/domenico8/domenico8/8438.m3u8
+#EXTINF:-1,Lig TV 3 HD
+http://grouptv.dyndns.tv:19700/live/domenico8/domenico8/8439.m3u8
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
 
