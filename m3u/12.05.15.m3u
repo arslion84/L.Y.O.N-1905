@@ -83,7 +83,7 @@ rtmp://stream.taksimbilisim.com/kanal68/bant1
 rtmp://37.77.31.3/liveedge/live
 #EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
-#EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
+EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
 EXTINF:-1,Yesilcam TV
 http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
