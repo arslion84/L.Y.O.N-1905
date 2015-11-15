@@ -35,8 +35,9 @@ http://tinyurl.com/ok78a57
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:0,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
-#EXTINF:-1,Fanatik TV
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1,test
+rtmp://85.132.67.123:1935/live/mumatitvbjk
+
 
 
 #EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
