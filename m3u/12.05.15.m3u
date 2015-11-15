@@ -35,8 +35,7 @@ http://tinyurl.com/ok78a57
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:0,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
-#EXTINF:-1,test
-rtmp://85.132.67.123:1935/live/mumatitvbjk
+
 
 
 
@@ -122,7 +121,10 @@ http://bstream.planetstream.org:8000/live/alessand/alessand/1489.m3u8
 #EXTINF:-1,Sky Select 9 HD
 http://bstream.planetstream.org:8000/live/alessand/alessand/1490.m3u8
 
-
+#EXTINF:-1,test
+rtmp://85.132.67.123:1935/live/mumatitvbjk
+#EXTINF:-1,test1
+http://localhost:65007/?url=84&mode=6
 
 
 
