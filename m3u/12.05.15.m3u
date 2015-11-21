@@ -9,13 +9,24 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,20:45 Bayern – Fenerbahçe Basketbol (ace)
-acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8
-EXTINF:-1,
+#EXTINF:-1,Galatasaray – Antalyaspor 1
+rtmp://85.132.67.123:1935/live/serhat
+#EXTINF:-1,Galatasaray – Antalyaspor 2
+rtmp://5.254.116.206/ARYNEWS//texas16
 
-EXTINF:-1,
+#EXTINF:-1,Galatasaray – Antalyaspor 3
+rtmp://5.254.116.206/ARYNEWS//texas17
 
-EXTINF:-1,
+#EXTINF:-1,Galatasaray – Antalyaspor 4
+http://149.6.42.122:8080/hls/streama37485/index.m3u8
+
+#EXTINF:-1,Galatasaray – Antalyaspor 5
+http://149.6.42.122:8080/hls/streama37419/index.m3u8
+
+#EXTINF:-1,Galatasaray – Antalyaspor 6
+http://149.6.42.122:8080/hls/streama37483/index.m3u8
+
+
 
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
