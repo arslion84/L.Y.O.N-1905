@@ -7,24 +7,9 @@ EXTINF:-1,Maca 5dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,Galatasaray – Antalyaspor 1
-rtmp://85.132.67.123:1935/live/serhat
-#EXTINF:-1,Galatasaray – Antalyaspor 2
-rtmp://5.254.116.206/ARYNEWS//texas16
 
-#EXTINF:-1,Galatasaray – Antalyaspor 3
-rtmp://5.254.116.206/ARYNEWS//texas17
-
-#EXTINF:-1,Galatasaray – Antalyaspor 4
-http://149.6.42.122:8080/hls/streama37485/index.m3u8
-
-#EXTINF:-1,Galatasaray – Antalyaspor 5
-http://149.6.42.122:8080/hls/streama37419/index.m3u8
-
-#EXTINF:-1,Galatasaray – Antalyaspor 6
-http://149.6.42.122:8080/hls/streama37483/index.m3u8
 
 
 
@@ -32,17 +17,14 @@ http://149.6.42.122:8080/hls/streama37483/index.m3u8
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-
+#EXTINF:-1,YENI TV (mac zamanlari acilir) 
+rtmp://85.132.67.123:1935/live/mumatitvbjk
 #EXTINF:-1,LigTV 1
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1591.m3u8
 #EXTINF:-1,LigTV 2
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1592.m3u8
 #EXTINF:-1,LigTV 3
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1593.m3u8
-#EXTINF:-1,LigTV 1 mac zamani acik
-LİG TV HD: rtmp://217.160.130.45/live/tiribunkulturu1 
-#EXTINF:-1,LigTV 3 mac zamani acik
-LİG TV 3 HD: rtmp://217.160.130.45/live/tiribunkulturu3
 
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
@@ -116,31 +98,10 @@ mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
 EXTINF:-0,Sinema tv 5 
 mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
-#EXTINF:-1,[COLOR red] Sky Select Bölümü [/COLOR]
 
-#EXTINF:-1,Sky Select 1 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1482.m3u8
-#EXTINF:-1,Sky Select 2 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1483.m3u8
-#EXTINF:-1,Sky Select 3 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1484.m3u8
-#EXTINF:-1,Sky Select 4 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1485.m3u8
-#EXTINF:-1,Sky Select 5 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1486.m3u8
-#EXTINF:-1,Sky Select 6 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1487.m3u8
-#EXTINF:-1,Sky Select 7 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1488.m3u8
-#EXTINF:-1,Sky Select 8 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1489.m3u8
-#EXTINF:-1,Sky Select 9 HD
-http://bstream.planetstream.org:8000/live/alessand/alessand/1490.m3u8
 
-#EXTINF:-1,test
-rtmp://85.132.67.123:1935/live/mumatitvbjk
-#EXTINF:-1,test1
-http://localhost:65007/?url=84&mode=6
+
+
 
 
 
