@@ -7,8 +7,16 @@ EXTINF:-1,Maca 5dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
+20:45 A. Madrid – Galatasaray 1
+rtmp://5.254.116.206/ARYNEWS//texas1
+20:45 A. Madrid – Galatasaray 2
+rtmp://5.254.116.206/ARYNEWS//texas2
+20:45 A. Madrid – Galatasaray 3 (sop)
+sop://broker.sopcast.com:3912/258922
+20:45 A. Madrid – Galatasaray 4 (ace)
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
 
 
 
