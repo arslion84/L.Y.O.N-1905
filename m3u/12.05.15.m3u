@@ -9,6 +9,8 @@ EXTINF:-1,____________________________________________________________________
 http://
 #EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
+#EXTINF:-1,20:45 A. Madrid – Galatasaray 0
+http://149.6.42.122:8080/hls/streama36711/index.m3u8
 #EXTINF:-1,20:45 A. Madrid – Galatasaray 1
 rtmp://5.254.116.206/ARYNEWS//texas1
 #EXTINF:-1,20:45 A. Madrid – Galatasaray 2
