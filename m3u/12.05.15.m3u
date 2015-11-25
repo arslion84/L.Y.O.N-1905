@@ -14,15 +14,15 @@ rtmp://5.254.116.206/ARYNEWS//texas1
 #EXTINF:-1,20:45 A. Madrid – Galatasaray 2
 rtmp://5.254.116.206/ARYNEWS//texas2
 #EXTINF:-1,20:45 A. Madrid – Galatasaray 3 (ace)
-sop://broker.sopcast.com:3912/258922
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 4 (ace)
 acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 5 (ace)
+#EXTINF:-1,20:45 A. Madrid – Galatasaray 4 (ace)
 acestream://36556ad9fcfa20ae254b91a583db9e13f95979fb
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 6 (ace)
+#EXTINF:-1,20:45 A. Madrid – Galatasaray 5 (ace)
 acestream://409456bf80cff52de3a4609907bd41518cd1385a
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 7 (ace)
+#EXTINF:-1,20:45 A. Madrid – Galatasaray 6 (ace)
 acestream://f91be54e42d13f98d2f76b9d1f4fd72472bb0cf3
+
+
 
 
 
