@@ -1,28 +1,22 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]DUYURU[/COLOR]
-http://
-EXTINF:-1,1.Almanlar Kanallar icin baglanmam lazim beni arayin.
+EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
 EXTINF:-1,Maca 5dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 0
-http://149.6.42.122:8080/hls/streama36711/index.m3u8
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 1
-rtmp://5.254.116.206/ARYNEWS//texas1
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 2
-rtmp://5.254.116.206/ARYNEWS//texas2
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 3 (ace)
-acestream://a3776be8c08f52b3366c83fff09609721e28cd69
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 4 (ace)
-acestream://36556ad9fcfa20ae254b91a583db9e13f95979fb
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 5 (ace)
-acestream://409456bf80cff52de3a4609907bd41518cd1385a
-#EXTINF:-1,20:45 A. Madrid – Galatasaray 6 (ace)
-acestream://f91be54e42d13f98d2f76b9d1f4fd72472bb0cf3
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,
+
+EXTINF:-1,
+
 
 
 
