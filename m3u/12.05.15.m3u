@@ -27,7 +27,7 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-#EXTINF:-1,Astek TV (mac zamanlari acilir) 
+#EXTINF:-1,Astek TV (mac zamanlari acilir istek üzerine) 
 rtmp://85.132.67.123:1935/live/mumatitvbjk1905
 #EXTINF:-1,LigTV 1
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1591.m3u8
