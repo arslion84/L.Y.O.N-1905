@@ -27,7 +27,7 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-#EXTINF:-1,YENI TV (mac zamanlari acilir) 
+#EXTINF:-1,Astek TV (mac zamanlari acilir) 
 rtmp://85.132.67.123:1935/live/mumatitvbjk1905
 #EXTINF:-1,LigTV 1
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1591.m3u8
@@ -55,18 +55,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
 #EXTINF:-1,TV 8 yedek
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
-#EXTINF:-1,Atv 
-http://yayin5.canlitv.com:1935/live/atv/chunklist_w1437443754.m3u8
-#EXTINF:-1,Atv yedek
+#EXTINF:-1,Atv
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-0,Kanal D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,Star TV
-http://yayin5.canlitv.com:1935/live/startv/chunklist_w1232184752.m3u8
-#EXTINF:-0,TV2
-http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
 #EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
 #EXTINF:-1,Fil TV
