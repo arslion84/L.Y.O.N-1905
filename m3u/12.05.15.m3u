@@ -108,7 +108,36 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
 
 
+<items>
 
+
+<item><title>KIRAZ MEVSIMI SON BÖLÜM</title><link>http://proxy-18.dailymotion.com/sec(d4d67d60835e64ff88cdac39851701ca)/video/425/925/206529524_mp4_h264_aac_hq.m3u8</link></item>
+<item><title>MELISA SON</title><link>$doregex[getM3U8]</link><regex><name>getM3U8</name><expres>src="(.*?)"</expres><page>http://www.filmlerseyret.com/daily?v=k2cMFqCBrKkxtBdYvwP?syndication=262055&amp;related=0&amp;logo=0</page></regex><thumbnail></thumbnail></item>
+
+<item>
+<title>KIRAZ MEVSIMI 58. Bölüm</title>
+<link>$doregex[url]</link>
+<regex><name>get-M3U8</name>
+<expres>(.*)#</expres>
+<page>$doregex[url]&amp;redirect=0</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>720.*?mp4","url":"(.*?)"</expres>
+<page>http://www.dailymotion.com/embed/video/k7oSII96zjBZDfdUpyc?autoplay=0&logo=1&info=0&hideInfos=0&start=0&syndication=264256&foreground=&highlight=&background=</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</item>
+
+|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+
+</items>
 
 
 
