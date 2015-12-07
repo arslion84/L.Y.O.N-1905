@@ -35,10 +35,12 @@ http://juventus4ever.ddns.net:8000/live/andrea/andrea/1591.m3u8
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1592.m3u8
 #EXTINF:-1,LigTV 3
 http://juventus4ever.ddns.net:8000/live/andrea/andrea/1593.m3u8
-
+#EXTINF:-1,Sky Sport 1 DE
+rtmp://terra.skykostenlos.com/tv/skysport1de
+#EXTINF:-1,Sky Sport 2 DE
+rtmp://terra.skykostenlos.com/tv/skysport2de
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
-
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:0,Sports TV
@@ -47,43 +49,57 @@ http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b
 
 
 
-#EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1,[COLOR red]ULUSAL Kanallar[/COLOR]
 http://
-#EXTINF:-0,TRT 1 HD
+EXTINF:-0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TV 8 
+EXTINF:-1,TV 8 
 http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
-#EXTINF:-1,TV 8 yedek
+EXTINF:-1,TV 8 yedek
 http://50.7.161.114:1935/live/tv8/playlist.m3u8
-#EXTINF:-1,Atv
+EXTINF:-1,Atv
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-0,Kanal D HD
+EXTINF:-0,Kanal D HD
 http://212.224.80.81/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,TRT HD
+EXTINF:-1,TRT HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,360 TV
+EXTINF:-1,360 TV
 http://46.20.7.97:80/360tv/live/playlist.m3u8
-#EXTINF:-1,Fil TV
+EXTINF:-1,Fil TV
 http://gg.gg/filtvhd
-#EXTINF:-0,Semerkand tv HD
+EXTINF:-0,Semerkand tv HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
-#EXTINF:-0,Cnn Türk
+EXTINF:-0,Cnn Türk
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,TRT Haber HD
+EXTINF:0,TRT Haber HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,TRT TURK
+EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,Cine 5
+EXTINF:-1,Cine 5
 rtmp://cine5.stream.cubecdn.net/cine5/stream_1
-#EXTINF:-1,Dreamtürk
+EXTINF:-1,Dreamtürk
 http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:0,TRT ÇOCUK
+EXTINF:0,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-0,Kanal 68
+EXTINF:-0,Kanal 68
 rtmp://stream.taksimbilisim.com/kanal68/bant1
-#EXTINF:-0,Halk TV
+EXTINF:-0,Halk TV
 rtmp://37.77.31.3/liveedge/live
-#EXTINF:-0,Ulusal Kanal
+EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 http://
