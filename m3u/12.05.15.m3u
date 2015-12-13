@@ -30,21 +30,9 @@ http://
 #EXTINF:-1,Astek TV (mac zamanlari acilir istek üzerine) 
 rtmp://85.132.67.123:1935/live/mumatitvbjk1905
 #EXTINF:-1,LigTV 1 
-http://62.210.248.96:11000/live/ghost/ghost/1961.m3u8
-#EXTINF:-1,LigTV 1 yedek
-http://juventus4ever.ddns.net:8000/live/andrea/andrea/1591.m3u8
-#EXTINF:-1,LigTV 2 
-http://62.210.248.96:11000/live/ghost/ghost/1960.m3u8
-#EXTINF:-1,LigTV 2 yedek
-http://juventus4ever.ddns.net:8000/live/andrea/andrea/1592.m3u8
-#EXTINF:-1,LigTV 3 
-http://62.210.248.96:11000/live/ghost/ghost/1959.m3u8
-#EXTINF:-1,LigTV 3 yedek
-http://juventus4ever.ddns.net:8000/live/andrea/andrea/1593.m3u8
-#EXTINF:-1,Sky Sport 1 DE
-rtmp://terra.skykostenlos.com/tv/skysport1de
-#EXTINF:-1,Sky Sport 2 DE
-rtmp://terra.skykostenlos.com/tv/skysport2de
+rtmp://5.254.116.206/ARYNEWS//oguzhan
+
+
 #EXTINF:-1,4 Stars TV 
 http://tinyurl.com/ok78a57
 #EXTINF:-1,A Spor HD
