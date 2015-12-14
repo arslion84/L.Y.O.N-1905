@@ -1,14 +1,14 @@
 #EXTM3U
 EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-EXTINF:-1,Maca 5dk kala kodiyi Kapatip acin güncellenmesi icin.
+#EXTINF:-1,Maca 10dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-EXTINF:-1,
-
+#EXTINF:-1,BESIKTAS - GALATASARAY
+https://www.ssh101.com/secure/index.php?id=derbiozel
 EXTINF:-1,
 
 EXTINF:-1,
@@ -27,7 +27,7 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-#EXTINF:-1,Astek TV (mac zamanlari acilir istek üzerine) 
+#EXTINF:-1,Astek TV (ACIK) 
 rtmp://85.132.67.123:1935/live/mumatitvbjk1905
 #EXTINF:-1,LigTV 1 
 rtmp://5.254.116.206/ARYNEWS//oguzhan
