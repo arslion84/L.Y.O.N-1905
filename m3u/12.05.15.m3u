@@ -5,12 +5,8 @@ http://
 http://
 EXTINF:-1,____________________________________________________________________
 http://
-#EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
+EXTINF:-1,[COLOR yellow]Günün Spor Müsabakaları[/COLOR]
 http://
-#EXTINF:-1,BESIKTAS - GALATASARAY
-https://www.ssh101.com/secure/index.php?id=derbiozel
-EXTINF:-1,
-
 EXTINF:-1,
 
 EXTINF:-1,
@@ -27,11 +23,13 @@ EXTINF:-1,
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 
-#EXTINF:-1,Astek TV (ACIK) 
+#EXTINF:-1,Astek TV (Istek üzerine acılır) 
 rtmp://85.132.67.123:1935/live/kimvarkimyok1905142323
 #EXTINF:-1,LigTV 1 
-rtmp://5.254.116.206/ARYNEWS//oguzhan
 
+#EXTINF:-1,LigTV 2
+
+#EXTINF:-1,LigTV 3
 
 #EXTINF:-1,Spor Kanali
 http://tinyurl.com/ok78a57
