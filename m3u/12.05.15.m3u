@@ -22,6 +22,12 @@ EXTINF:-1,
 
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
+#EXTINF:-1,Lig tv 1
+http://ipsatpro.com:8000/live/mesut/mesut/406.m3u8
+#EXTINF:-1,Lig tv 2
+http://ipsatpro.com:8000/live/mesut/mesut/405.m3u8
+#EXTINF:-1,Lig tv 3
+http://ipsatpro.com:8000/live/mesut/mesut/404.m3u8
 
 #EXTINF:-1,Astek TV (Istek üzerine acılır) 
 rtmp://85.132.67.123:1935/live/kimvarkimyok1905142323
