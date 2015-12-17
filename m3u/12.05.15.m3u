@@ -1,7 +1,7 @@
 #EXTM3U
 EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,Maca 10dk kala kodiyi Kapatip acin güncellenmesi icin.
+EXTINF:-1,Maca 10dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 http://
@@ -25,13 +25,7 @@ http://
 
 #EXTINF:-1,Astek TV (Istek üzerine acılır) 
 rtmp://85.132.67.123:1935/live/kimvarkimyok1905142323
-#EXTINF:-1,LigTV 1 
-
-#EXTINF:-1,LigTV 2
-
-#EXTINF:-1,LigTV 3
-
-#EXTINF:-1,Spor Kanali
+#EXTINF:-1,Lig TV
 http://tinyurl.com/ok78a57
 #EXTINF:-1,A Spor HD
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
