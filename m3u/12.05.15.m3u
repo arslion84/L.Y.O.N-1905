@@ -96,7 +96,7 @@ http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/703.m3u8
 EXTINF:-1,LIGTV 2 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/704.m3u8
 
-EXTINF:-1,LIGTV 3 
+EXTINF:-1,LIGTV 3 https://github.com/arslion84/L.Y.O.N-1905/edit/master/m3u/12.05.15.m3u
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/705.m3u8
 
 #EXTINF:-1,Astek TV (Istek üzerine acılır) 
@@ -109,7 +109,8 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w365023134_b800000.m3u8
 
 
-
+#EXTINF:-1,test
+rtmp://85.132.67.123:1935/live/kanarya1907blaujackie29
 
 
 
