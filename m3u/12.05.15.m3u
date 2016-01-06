@@ -166,7 +166,8 @@ EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
 
 
 
-
+#EXTINF:-1,[COLOR red]Amcodeci Ac bunlari izlemek icin[/COLOR]
+http://
 #EXTINF:-1, BT Sport/ESPN
 http://tinyurl.com/zv6m5pq
 #EXTINF:-1, Extreme Sports Russia
@@ -228,54 +229,6 @@ http://tinyurl.com/he86lt6
 #EXTINF:-1, M4 Sport
 http://bit.ly/1NDzfLx
 
-
-
-
-#EXTINF:0, Eurosport CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
-
-#EXTINF:0, Eurosport 2 CZ
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
-
-#EXTINF:0, Eurosport News RU
-http://178.165.0.14:4022/udp/239.0.0.219:1234
-
-
-#EXTINF:-1, Viasat Sport Baltic
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
-
-
-#EXTINF:-1, Rete Sport 8 IT (Low)
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-
-#EXTINF:-1, Rai Sport 1 IT
-http://212.162.68.163/raisport+
-
-#EXTINF:-1, Sport Italia
-http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
-
-#EXTINF:-1, TRT SPOR SD 
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-
-#EXTINF:-1, NBC Sports Golf 720p 
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, NBC Sports Golf 1080p 
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, Golf Meca
-http://123.108.164.71/etv2sb/phd929/chunklist_w1032135463.m3u8
-
-#EXTINF:-1, Sharjah Sport
-rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
-
-#EXTINF:-1, USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-
-#EXTINF:-1, Fox Sports 506 HD
-http://motorsport.hopto.org:8080/
-
 #EXTINF:-1, Fox Sports 1 HD NL
 http://bit.ly/1XxOerx
 
@@ -291,38 +244,6 @@ http://bit.ly/1TdiYgg
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
-http://localhost:65007/?url=izle/sat-1&mode=12
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
-http://localhost:65007/?url=sat-1-live&mode=19
-
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
-rtmp://68.232.37.6:1935/live/rtl.stream live=1
-
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
-http://localhost:65007/?url=izle/rtl&mode=12
-
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
-rtmp://68.232.37.6:1935/live/rtl2.stream live=1
-
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
-http://localhost:65007/?url=izle/rtl-2&mode=12
-
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
-http://localhost:65007/?url=rtl2-de-live&mode=19
-
-#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
-rtmp://68.232.37.6:1935/live/pro7.stream live=1
-
-#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
-http://localhost:65007/?url=izle/pro-sieben&mode=12
-
-#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
-http://localhost:65007/?url=prosieben-live&mode=19
 
 
 
