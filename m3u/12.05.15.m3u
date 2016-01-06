@@ -6,11 +6,6 @@ http://
 EXTINF:-1,____________________________________________________________________
 
 
-#EXTINF:0,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:0834 tvg-id="trtspor.tr" group-title="TR Spor Kanalları" tvg-logo="371098.png", [COLOR orangered]TRT SPOR HD[/COLOR]
-http://hls.tv.iptv.ink/trtsportr@371098.m3u8|X-Forwarded-For=37.34.18.55
-
 EXTINF:-1,test
 
 EXTINF:-1,tets
@@ -168,22 +163,6 @@ rtmp://37.77.31.3/liveedge/live
 EXTINF:-0,Ulusal Kanal
 http://184.173.181.2:1935/8132/8132/chunklist_w1203494054.m3u8?tvizleyim.com
 EXTINF:-1,[COLOR red]SINEMA Kanallar[/COLOR]
-http://
-EXTINF:-1,Yesilcam TV
-http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8
-EXTINF:-1,Planet Türk
-rtmp://77.223.146.117/live/planett
-EXTINF:-0,Sinema tv 1
-mmsh://yayin7.canliyayin.org/sinema?MSWMExt=.asf
-EXTINF:-0,Sinema tv 2 
-mmsh://yayin7.canliyayin.org/sinema2?MSWMExt=.asf
-EXTINF:-0,Sinema tv 3 
-mmsh://yayin7.canliyayin.org/sinema3?MSWMExt=.asf
-EXTINF:-0,Sinema tv 4 
-mmsh://yayin7.canliyayin.org/sinema4?MSWMExt=.asf
-EXTINF:-0,Sinema tv 5 
-mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
-
 
 
 
@@ -249,24 +228,8 @@ http://tinyurl.com/he86lt6
 #EXTINF:-1, M4 Sport
 http://bit.ly/1NDzfLx
 
-#EXTINF:-1, CBC SPORT HD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
-#EXTINF:-1, CBC SPORT SD
-http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
-#EXTINF:-1, CBC SPORT LQ
-http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
 
 
-
-#EXTINF:-1, Dolce Sport 1
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
-#EXTINF:-1, Dolce Sport 2
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
-#EXTINF:-1, Dolce Sport 3
-http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
-
-#EXTINF:0, Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
 #EXTINF:0, Eurosport CZ
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
@@ -277,35 +240,10 @@ http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
 #EXTINF:0, Eurosport News RU
 http://178.165.0.14:4022/udp/239.0.0.219:1234
 
-#EXTINF:-1, Lig TV TUR
-http://92.222.205.40:8080/superlig
 
 #EXTINF:-1, Viasat Sport Baltic
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
-mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 1 (ARA)
-rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 2 (ARA)
-rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 3 (ARA)
-rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 4 (ARA)
-rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 5 (ARA)
-rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 6 (ARA)
-rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 7 (ARA)
-rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 8 (ARA)
-rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="" group-title=“SPORT”, BEIN 11 (UK)
-rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 12 (ARA)
-rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1, Rete Sport 8 IT (Low)
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
@@ -346,66 +284,6 @@ http://bit.ly/1RciKYh
 
 #EXTINF:-1, Fox Sports 3 NL
 http://bit.ly/1TdiYgg
-
-#EXTINF:-1, Auto Moto TV Gaz (RU)
-mms://100automoto.tv/100gaz
-
-#EXTINF:-1, PORSCHE CHANNEL
-mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1, Electric
-mms://100automoto.tv/channel_electric
-
-#EXTINF:-1, AutoSport TV
-mms://100automoto.tv/100livesport
-
-#EXTINF:-1, BMW CHANNEL Italia
-mms://100automoto.tv/bmw
-
-#EXTINF:0, Mercedes-Benz Channel
-mms://100automoto.tv/channel_mercedes
-
-#EXTINF:0, Auto Italia Channel
-mms://100automoto.tv/channel_italy
-
-#EXTINF:0, Cars & Sports
-mms://100automoto.tv/100livesport
-
-
-
-#EXTINF:-1, SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
- 
-#EXTINF:-1, SPORTTV 2 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-
-#EXTINF:0, KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-#EXTINF:-1, Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
-#EXTINF:-1, Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-
-#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1, MMA BAY TV (poor quality)
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1, SPORTSTV 
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1, TileSport TV
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-#EXTINF:-1, TVA Sport Canada
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-
-
-
-
 
 
 
