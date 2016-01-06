@@ -188,6 +188,220 @@ mmsh://yayin7.canliyayin.org/sinema5?MSWMExt=.asf
 
 
 
+#EXTINF:-1, BT Sport/ESPN
+http://tinyurl.com/zv6m5pq
+#EXTINF:-1, Extreme Sports Russia
+http://bit.ly/1NDRpyE
+#EXTINF:-1, Sport Klub Polska
+http://bit.ly/1IeTWgk
+#EXTINF:-1, TVP Sport HD PL
+http://tinyurl.com/zq7ye4v
+#EXTINF:-1, Nova Sport 1
+http://bit.ly/1jo7o5O
+#EXTINF:-1, SKY Bundesliga HD1 GER
+http://bit.ly/1XmOcIc
+#EXTINF:-1, SKY Sport HD1 GER
+http://bit.ly/1PTjMJa
+#EXTINF:-1, Sport 1 GER
+http://tinyurl.com/q9bthub
+#EXTINF:-1, SKY Sport HD AUSTRIA
+http://bit.ly/1kYFDlR
+#EXTINF:-1, Formula 1 Spain
+http://bit.ly/1Ti7etz
+#EXTINF:0, Orf Sport+
+http://bit.ly/1SnY2Ty
+#EXTINF:-1, Ziggo Sport Voetbal
+http://tinyurl.com/z86r3qd
+#EXTINF:-1, Ziggo Sport Select
+http://bit.ly/1l2u5OD
+#EXTINF:-1, Sport1 US HD (buffer)
+http://bit.ly/1MQE7ex
+#EXTINF:-1, TV2 Sport
+http://tinyurl.com/zjsvv6x
+#EXTINF:0, Arena Sport 1
+http://tinyurl.com/nmkmcq8
+#EXTINF:0, Arena Sport 2
+http://tinyurl.com/nmskwnh
+#EXTINF:0, Arena Sport 3
+http://tinyurl.com/q4hy9ko
+#EXTINF:0, Arena Sport 4
+http://tinyurl.com/on4bmsl
+#EXTINF:0, Arena Sport 5
+http://tinyurl.com/o9p4pth
+#EXTINF:-1, Eurosport News Russia
+http://tinyurl.com/oyuvpxm
+#EXTINF:-1, Idman 
+http://tinyurl.com/na4slzt
+#EXTINF:-1, TV3 Sport 1 HD Denmark
+http://tinyurl.com/nlmegne
+#EXTINF:-1, TV3 Sport 2 HD Denmark
+http://bit.ly/1PhZERa
+#EXTINF:-1, Fight Box HD Russia
+http://bit.ly/1YysUEI
+#EXTINF:-1, Turkmenistan Sport
+http://bit.ly/1lq9C5Y
+#EXTINF:-1, Viasat Sport HD
+http://bit.ly/1NDTmLz
+#EXTINF:-1, Viasat Sport
+http://bit.ly/1YDGcjo
+#EXTINF:-1, Viasat Hockey
+http://tinyurl.com/he86lt6
+#EXTINF:-1, M4 Sport
+http://bit.ly/1NDzfLx
+
+#EXTINF:-1, CBC SPORT HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1, CBC SPORT SD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream2/chunklist.m3u8
+#EXTINF:-1, CBC SPORT LQ
+http://s69362.cdn.ngenix.net/live/_definst_/Stream3/chunklist.m3u8
+
+
+
+#EXTINF:-1, Dolce Sport 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1, Dolce Sport 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1, Dolce Sport 3
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+
+#EXTINF:0, Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:0, Eurosport CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
+
+#EXTINF:0, Eurosport 2 CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
+
+#EXTINF:0, Eurosport News RU
+http://178.165.0.14:4022/udp/239.0.0.219:1234
+
+#EXTINF:-1, Lig TV TUR
+http://92.222.205.40:8080/superlig
+
+#EXTINF:-1, Viasat Sport Baltic
+http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
+mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
+
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 1 (ARA)
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 2 (ARA)
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 3 (ARA)
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 4 (ARA)
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 5 (ARA)
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 6 (ARA)
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 7 (ARA)
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 8 (ARA)
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="" group-title=“SPORT”, BEIN 11 (UK)
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1 tvg-logo="Bein_sport.png" group-title=“SPORT”, BEIN 12 (ARA)
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Rete Sport 8 IT (Low)
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+
+#EXTINF:-1, Rai Sport 1 IT
+http://212.162.68.163/raisport+
+
+#EXTINF:-1, Sport Italia
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
+
+#EXTINF:-1, TRT SPOR SD 
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+
+#EXTINF:-1, NBC Sports Golf 720p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC Sports Golf 1080p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, Golf Meca
+http://123.108.164.71/etv2sb/phd929/chunklist_w1032135463.m3u8
+
+#EXTINF:-1, Sharjah Sport
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
+
+#EXTINF:-1, USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+
+#EXTINF:-1, Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, Fox Sports 1 HD NL
+http://bit.ly/1XxOerx
+
+#EXTINF:-1, Fox Sports 2 HD NL
+http://bit.ly/1RciKYh
+
+#EXTINF:-1, Fox Sports 3 NL
+http://bit.ly/1TdiYgg
+
+#EXTINF:-1, Auto Moto TV Gaz (RU)
+mms://100automoto.tv/100gaz
+
+#EXTINF:-1, PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1, Electric
+mms://100automoto.tv/channel_electric
+
+#EXTINF:-1, AutoSport TV
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1, BMW CHANNEL Italia
+mms://100automoto.tv/bmw
+
+#EXTINF:0, Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+
+#EXTINF:0, Auto Italia Channel
+mms://100automoto.tv/channel_italy
+
+#EXTINF:0, Cars & Sports
+mms://100automoto.tv/100livesport
+
+
+
+#EXTINF:-1, SPORTTV 1 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1, SPORTTV 2 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+
+#EXTINF:-1, Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1, MMA BAY TV (poor quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1, SPORTSTV 
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+
+#EXTINF:-1, TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1, TVA Sport Canada
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
 
 
 
