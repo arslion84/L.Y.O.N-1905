@@ -294,6 +294,35 @@ http://bit.ly/1TdiYgg
 
 
 
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
+http://localhost:65007/?url=izle/sat-1&mode=12
+
+#EXTINF:-1 tvg-id="SAT1" tvg-name="SAT1" group-title="Germany - גרמניה" tvg-logo="7ebeeb88075f2c880004aa750249b500.png",SAT1
+http://localhost:65007/?url=sat-1-live&mode=19
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
+rtmp://68.232.37.6:1935/live/rtl.stream live=1
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" group-title="Germany - גרמניה" tvg-logo="6f0d397641c9a9ce46d4b5e13ebb68f2.png",RTL
+http://localhost:65007/?url=izle/rtl&mode=12
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+rtmp://68.232.37.6:1935/live/rtl2.stream live=1
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+http://localhost:65007/?url=izle/rtl-2&mode=12
+
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL2" group-title="Germany - גרמניה" tvg-logo="8151ee85d1dada383e296796edf2616b.png",RTL2
+http://localhost:65007/?url=rtl2-de-live&mode=19
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+rtmp://68.232.37.6:1935/live/pro7.stream live=1
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+http://localhost:65007/?url=izle/pro-sieben&mode=12
+
+#EXTINF:-1 tvg-id="PRO7" tvg-name="PRO7" group-title="Germany - גרמניה" tvg-logo="d68df6d262a24a1e9f3539e51f93a882.png",PRO7
+http://localhost:65007/?url=prosieben-live&mode=19
 
 
 
