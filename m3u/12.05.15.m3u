@@ -1,7 +1,7 @@
 #EXTM3U
 EXTINF:-1,[COLOR red]DUYURU[/COLOR]
 http://
-#EXTINF:-1,Maca 10dk kala kodiyi Kapatip acin güncellenmesi icin.
+EXTINF:-1,Maca 10dk kala kodiyi Kapatip acin güncellenmesi icin.
 http://
 EXTINF:-1,____________________________________________________________________
 
@@ -69,22 +69,20 @@ EXTINF:-1,no
 
 
 
-
-
 #EXTINF:-1,[COLOR red]SPOR Kanalları[/COLOR]
 http://
 #EXTINF:-1,LIGTV 1
-http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/1.m3u8
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/703.m3u8
 #EXTINF:-1,LIGTV 1 yedek
 http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/2.m3u8
 #EXTINF:-1,LIGTV 2
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/2.m3u8
 #EXTINF:-1,Ligtv 2 yedek
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/3.m3u8
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/722.m3u8
 #EXTINF:-1,LIGTV 3
 http://coco.noip.us:8060/live/ahmet09/iErYITTM7T/5.m3u8
 #EXTINF:-1,Lig tv 3 yedek
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/4.m3u8
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8
 
 
 EXTINF:-1,Lig tv 1
