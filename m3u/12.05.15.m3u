@@ -73,7 +73,7 @@ EXTINF:-1,no
 #EXTINF:-1,MALUM KANAL 1
 http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/243.m3u8
 #EXTINF:-1,MALUM KANAL 1 yedek 
-http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/3.m3u8
+http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/3.m3u8|X-Forwarded-For=77.237.223.255 
 #EXTINF:-1,MALUM KANAL 2
 http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/244.m3u8
 #EXTINF:-1,MALUM KANAL 2 yedek 1
