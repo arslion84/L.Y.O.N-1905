@@ -70,26 +70,17 @@ EXTINF:-1,no
 
 -----down-----down----down--------
 
+
 #EXTINF:-1,MALUM KANAL 1
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/243.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 1 yedek 
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/3.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 2
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/244.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 2 yedek 1
+#EXTINF:-1,MALUM KANAL 2 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/722.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 3
-http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/245.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 3 yedek 1
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8|X-Forwarded-For=77.237.223.255 
-#EXTINF:-1,MALUM KANAL 3 yedek 2
+#EXTINF:-1,MALUM KANAL 3 
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.m3u8|X-Forwarded-For=77.237.223.255 
 #EXTINF:-1,LIGTV 1 DTP
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/703.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,Ligtv (dtp)
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/704.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,LIGTV HD
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/722.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,LIGTV 2HD
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/724.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,LIGTV 3HD
