@@ -84,6 +84,51 @@ http://opasnivirus.dynns.com:8000/live/Ilijakljajic/Ilijakljajic932016/245.m3u8|
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8|X-Forwarded-For=77.237.223.255 
 #EXTINF:-1,MALUM KANAL 3 yedek 2
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.m3u8|X-Forwarded-For=77.237.223.255 
+#EXTINF:-1,LIGTV 1 DTP
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/703.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,Ligtv (dtp)
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/704.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,LIGTV HD
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/722.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,LIGTV 2HD
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/724.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,LIGTV 3HD
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 9
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/909.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 8
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/910.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 7
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/911.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 6
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/913.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 5
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/914.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 4
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/915.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 3 3D (TR)
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/897.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 2 3D  (TR)
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/898.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,SALON 10
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/912.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,NAT GEO WILD HD
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/900.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,NAT GEO CHANELL HD
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/901.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIMAX PREMIER
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/904.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIEMAX TURK
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/903.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIEMAX FESTIVAL
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/905.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIEMAX FAMILY
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/906.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIEMAX COMEDY
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/907.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,MOVIEMAX ACTION
+http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/908.m3u8|X-Forwarded-For=77.237.223.255
+
 
 
 
