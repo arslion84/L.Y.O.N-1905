@@ -173,6 +173,18 @@ http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/750.m3u8|X-Forwarded-Fo
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/752.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,ZEKI METIN (TR)
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/753.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/810.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/829.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/826.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Sport 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/827.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Sport 2
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/828.m3u8|X-Forwarded-For=77.237.223.255
+#EXTINF:-1,DE: Sky Eurosport
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/809.m3u8|X-Forwarded-For=77.237.223.255
 
 
 
