@@ -69,13 +69,13 @@ EXTINF:-1,no
 
 
 -----down-----down----down--------
-#EXTINF:-1,TR: Lig TV 1 HD
+EXTINF:-1,TR: Lig TV 1 HD
 http://ksportiptv.com:1557/live/gaz/gaz/981.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-#EXTINF:-1,TR: Lig TV 2 HD
+EXTINF:-1,TR: Lig TV 2 HD
 http://ksportiptv.com:1557/live/gaz/gaz/982.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-#EXTINF:-1,TR: Lig TV 3
+EXTINF:-1,TR: Lig TV 3
 http://ksportiptv.com:1557/live/gaz/gaz/1360.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-#EXTINF:-1,TR: Lig TV
+EXTINF:-1,TR: Lig TV
 http://ksportiptv.com:1557/live/gaz/gaz/1664.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
 
 
