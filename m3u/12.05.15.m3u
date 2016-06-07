@@ -196,11 +196,11 @@ http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/722.m3u8|User-Agent=Moz
 EXTINF:-1,LIG TV 3 
 http://okayahmetbilisim.mine.nu:8000/live/rainer00212/2HWK1o5mAQ/54.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
-EXTINF:-1,Ligtv 1HD
+#EXTINF:-1,Ligtv 1HD
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/705.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-EXTINF:-1,LIGTV 2HD
+#EXTINF:-1,LIGTV 2HD
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/724.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-EXTINF:-1,LIGTV 3HD
+#EXTINF:-1,LIGTV 3HD
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
 #EXTINF:-1,SALONDA NE VAR? (TR)
