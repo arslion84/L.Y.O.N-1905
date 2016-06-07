@@ -61,8 +61,9 @@ http://www.iptvsaga.com/play/tv3/0056.m3u8
 http://www.iptvsaga.com/play/tv3/0061.m3u8
 #EXTINF:-1,TRT DIYANET HD
 http://www.iptvsaga.com/play/tv3/0062.m3u8
+#EXTINF:-1,Test
 
-
+http://178.162.205.71:8081/live_sd/eurod/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNzoyMDowOCBQTSZoYXNoX3ZhbHVlPUh1eE1QVlRSRmtCUXdNSUhtQ3UwL1E9PSZ2YWxpZG1pbnV0ZXM9MTAmaXA9NDYuMjIzLjIzLjIwOQ==
 
 
 #EXTINF:-1,CNN Turk
