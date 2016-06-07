@@ -6,8 +6,9 @@
 
 #EXTINF:-1,ATV HD
 http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
-
 #EXTINF:-1,Kanal D HD
+http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
+#EXTINF:-1,EURO D
 http://178.162.205.71:8081/live_sd/eurod/live_sd/eurod_hi/chunks.m3u8?nimblesessionid=74999509&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTYgNzoyMDowOCBQTSZoYXNoX3ZhbHVlPUh1eE1QVlRSRmtCUXdNSUhtQ3UwL1E9PSZ2YWxpZG1pbnV0ZXM9MTAmaXA9NDYuMjIzLjIzLjIwOQ==
 
 
