@@ -1,61 +1,34 @@
 
 
 
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-EXTINF:-1,test
-
-EXTINF:-1,tets
-
-EXTINF:-1,no
-
-
-
 
 #EXTM3U
+#EXTINF:-1,ATV HD
+http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
-#EXTM3U
+#EXTINF:-1,SHOW HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,Kanal D HD
+http://hdtvizle.ru/paneliptv/ip/kanaldhd.m3u8
+#EXTINF:-1,Star TV
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1,tv8 HD
+http://www.iptvsaga.com/play/tv3/0064.m3u8
+#EXTINF:-1,Fox HD
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:-1,Samanyolu TV
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1,Samanyolu Haber
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:-1,Flash TV
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1,Kanal 7
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+
+#EXTINF:-1,TVEM
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1,TV 2
+http://www.iptvsaga.com/play/tv3/0047.m3u8
 
 #EXTINF:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
@@ -83,32 +56,7 @@ http://www.iptvsaga.com/play/tv3/0056.m3u8
 http://www.iptvsaga.com/play/tv3/0061.m3u8
 #EXTINF:-1,TRT DIYANET HD
 http://www.iptvsaga.com/play/tv3/0062.m3u8
-#EXTINF:-1,ATV HD
-http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
-#EXTINF:-1,SHOW HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,Kanal D HD
-http://hdtvizle.ru/paneliptv/ip/kanaldhd.m3u8
-#EXTINF:-1,Star TV
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:-1,tv8 HD
-http://www.iptvsaga.com/play/tv3/0064.m3u8
-#EXTINF:-1,Fox HD
-http://www.iptvsaga.com/play/tv3/0065.m3u8
-#EXTINF:-1,Samanyolu TV
-http://www.iptvsaga.com/play/tv3/0039.m3u8
-#EXTINF:-1,Samanyolu Haber
-http://www.iptvsaga.com/play/tv3/0040.m3u8
-#EXTINF:-1,Flash TV
-http://www.iptvsaga.com/play/tv3/0042.m3u8
-#EXTINF:-1,Kanal 7
-http://www.iptvsaga.com/play/tv3/0043.m3u8
-
-#EXTINF:-1,TVEM
-http://www.iptvsaga.com/play/tv3/0046.m3u8
-#EXTINF:-1,TV 2
-http://www.iptvsaga.com/play/tv3/0047.m3u8
 
 
 
