@@ -103,26 +103,20 @@ http://www.iptvsaga.com/play/tv3/0040.m3u8
 http://www.iptvsaga.com/play/tv3/0042.m3u8
 #EXTINF:-1,Kanal 7
 http://www.iptvsaga.com/play/tv3/0043.m3u8
-#EXTINF:-1,KANALTÜRK
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
+
 #EXTINF:-1,TVEM
 http://www.iptvsaga.com/play/tv3/0046.m3u8
 #EXTINF:-1,TV 2
 http://www.iptvsaga.com/play/tv3/0047.m3u8
-#EXTINF:-1,e2
-http://www.iptvsaga.com/play/tv3/0048.m3u8
-#EXTINF:-1,Fil TV
-http://www.iptvsaga.com/play/tv3/0067.m3u8
-#EXTINF:-1,TLC
-http://www.iptvsaga.com/play/tv3/0073.m3u8
+
+
+
 #EXTINF:-1,CNN Turk
 http://www.iptvsaga.com/play/tv3/0051.m3u8
 #EXTINF:-1,HABERTÜRK
 http://www.iptvsaga.com/play/tv3/0073.m3u8
-#EXTINF:-1,Bugün TV
-http://www.iptvsaga.com/play/tv3/0052.m3u8
-#EXTINF:-1,CINE 5
-http://www.iptvsaga.com/play/tv3/0072.m3u8
+
+
 #EXTINF:-1,Bloomberg
 http://www.iptvsaga.com/play/tv3/0066.m3u8
 #EXTINF:-1,TRT ÇOCUK
@@ -132,7 +126,7 @@ http://www.iptvsaga.com/play/tv3/0054.m3u8
 #EXTINF:-1,MINIKA GO
 http://www.iptvsaga.com/play/tv3/0055.m3u8
 #EXTINF:-1,NTV SPOR
-http://www.iptvsaga.com/play/tv3/0057.m3u8
+
 #EXTINF:-1,SPORTS TV
 http://www.iptvsaga.com/play/tv3/0058.m3u8
 #EXTINF:-1,TRT Müzik HD
