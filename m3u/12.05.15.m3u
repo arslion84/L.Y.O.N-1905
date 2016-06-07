@@ -24,10 +24,7 @@ http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessioni
 
 #EXTINF:-1,Fox HD
 http://www.iptvsaga.com/play/tv3/0065.m3u8
-#EXTINF:-1,Samanyolu TV
-http://www.iptvsaga.com/play/tv3/0039.m3u8
-#EXTINF:-1,Samanyolu Haber
-http://www.iptvsaga.com/play/tv3/0040.m3u8
+
 #EXTINF:-1,Flash TV
 http://www.iptvsaga.com/play/tv3/0042.m3u8
 #EXTINF:-1,Kanal 7
