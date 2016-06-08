@@ -29,10 +29,7 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,STAR TV
 http://yayin8.canlitv.com:1935/live/startv/chunklist_w910200906.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
-EXTINF:-1,A HABER HD
-http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
-#EXTINF:-1,FOX HD
-http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
+
 
 #EXTINF:-1,Tv8 HD
 http://yayin8.canlitv.com:1935/live/tv8/chunklist_w541806581.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
