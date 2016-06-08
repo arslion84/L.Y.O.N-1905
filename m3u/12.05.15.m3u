@@ -11,10 +11,12 @@ http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd20
 #EXTINF:-1,SHOW HD
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,STAR TV
-http://yayin8.canlitv.com:1935/live/startv/playlist.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+http://yayin8.canlitv.com:1935/live/startv/chunklist_w910200906.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+
 
 #EXTINF:-1,Tv8 HD
-http://yayin8.canlitv.com:1935/live/tv8/playlist.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+http://yayin8.canlitv.com:1935/live/tv8/chunklist_w541806581.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+
 #EXTINF:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
 
@@ -67,7 +69,7 @@ http://www.iptvsaga.com/play/tv3/0054.m3u8
 #EXTINF:-1,MINIKA GO
 http://www.iptvsaga.com/play/tv3/0055.m3u8
 #EXTINF:-1,NTV SPOR
-
+rtmp://mn-l.mncdn.com/ntvspor_live/ntvspor1?token=cbd6cbe1931a5330f948a7cc0aaacdd60f1146e724e62f25 
 #EXTINF:-1,SPORTS TV
 http://www.iptvsaga.com/play/tv3/0058.m3u8
 #EXTINF:-1,TRT Müzik HD
