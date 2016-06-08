@@ -5,7 +5,8 @@
 #EXTM3U
 
 #EXTINF:-1,ATV HD
-http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+http://yayin2.ehdcanlitvizle.com/atvyayin_720p.m3u8?tkn=2eb5fc9e47ff14802b2ca928d450e3eb&st=f6KB3VKVGCsV1OkLlDjRoQ&e=1465443229
+
 #EXTINF:-1,Kanal D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 #EXTINF:-1,SHOW HD
