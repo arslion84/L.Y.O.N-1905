@@ -69,7 +69,7 @@ http://www.iptvsaga.com/play/tv3/0054.m3u8
 #EXTINF:-1,MINIKA GO
 http://www.iptvsaga.com/play/tv3/0055.m3u8
 #EXTINF:-1,NTV SPOR
-rtmp://mn-l.mncdn.com/ntvspor_live/ntvspor1?token=cbd6cbe1931a5330f948a7cc0aaacdd60f1146e724e62f25 
+rtmp://mn-l.mncdn.com/ntvspor_liventvspor1?token=cbd6cbe1931a5330f948a7cc0aaacdd60f1146e724e62f25 
 #EXTINF:-1,SPORTS TV
 http://www.iptvsaga.com/play/tv3/0058.m3u8
 #EXTINF:-1,TRT Müzik HD
