@@ -7,8 +7,20 @@
 #EXTINF:-1,ATV HD
 http://yayin2.ehdcanlitvizle.com/atvyayin_720p.m3u8?tkn=2eb5fc9e47ff14802b2ca928d450e3eb&st=f6KB3VKVGCsV1OkLlDjRoQ&e=1465443229
 
-#EXTINF:-1,ATV HD 2
+EXTINF:-1,ATV HD 2
 -http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+#EXTINF:-1,Fox Tv HD
+http://149.255.152.110/foxturk/index.m3u8
+#EXTINF:-1,Tv8 Int
+http://149.255.152.110/tv8/index.m3u8
+#EXTINF:-1,Euro Star Tv
+http://149.255.152.110/startv/index.m3u8
+#EXTINF:-1,Ntv
+http://149.255.152.110/ntvtr/index.m3u8
+#EXTINF:-1,Ntv Spor
+http://149.255.152.110/ntvspor/index.m3u8
+#EXTINF:-1,Kral Tv
+http://149.255.152.110/kral/index.m3u8
 
 #EXTINF:-1,Kanal D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
@@ -17,6 +29,10 @@ http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1,STAR TV
 http://yayin8.canlitv.com:1935/live/startv/chunklist_w910200906.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
+EXTINF:-1,A HABER HD
+http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
+#EXTINF:-1,FOX HD
+http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
 
 #EXTINF:-1,Tv8 HD
 http://yayin8.canlitv.com:1935/live/tv8/chunklist_w541806581.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
