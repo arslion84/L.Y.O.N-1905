@@ -10,13 +10,13 @@ http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/705.m3u8|User-Agent=Moz
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/724.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,LIGTV 3 HD
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/723.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,SALONDA NE VAR? (TR)
+#EXTINF:-1,SALONDA NE VAR? 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/736.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 1 (TR)
+#EXTINF:-1,SALON 1 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/737.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 2 (TR)
+#EXTINF:-1,SALON 2 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/738.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 3 (TR)
+#EXTINF:-1,SALON 3 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/739.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,SALON 4
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/915.m3u8|X-Forwarded-For=77.237.223.255
@@ -60,16 +60,6 @@ http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/747.m3u8|X-Forwarded-Fo
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/729.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,CINEBOX HD 2 (TR)
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/730.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 3 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/731.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 4 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/732.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 5 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/733.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 6 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/734.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX  HD 7 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/735.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,YESİL SINEMATV (TR)
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/754.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,YESILCAM 1
