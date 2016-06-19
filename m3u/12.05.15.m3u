@@ -4,11 +4,64 @@
 
 #EXTM3U
 
-#EXTINF:-1,ATV HD
-http://yayin2.ehdcanlitvizle.com/atvyayin_720p.m3u8?tkn=2eb5fc9e47ff14802b2ca928d450e3eb&st=f6KB3VKVGCsV1OkLlDjRoQ&e=1465443229
+#EXTINF:-1,LIGTV 1 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/2.m3u8
+#EXTINF:-1,LIGTV 2 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/3.m3u8
+#EXTINF:-1,LIGTV 3 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/4.m3u8
 
-EXTINF:-1,ATV HD 2
--http://yayin8.canlitv.com:1935/live/atv/chunklist_w204252306.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
+
+#EXTINF:-1,VİP CHANNEL HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/5.m3u8
+#EXTINF:-1,MOVIMAX PREMİER HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/6.m3u8
+#EXTINF:-1,SALON 1  HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/7.m3u8
+#EXTINF:-1,SALON 2  HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/8.m3u8
+#EXTINF:-1,SALON 3  HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/9.m3u8
+#EXTINF:-1,YESILCAM 1 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/14.m3u8
+#EXTINF:-1,YESILCAM 2 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/15.m3u8
+#EXTINF:-1,LOCA 1-HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/16.m3u8
+#EXTINF:-1,LOCA 2 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/149.m3u8
+#EXTINF:-1,VIP CHANNEL TURK HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/13.m3u8
+#EXTINF:-1,MOVIEMAX TURK HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/81.m3u8
+#EXTINF:-1,MOVIESMART TURK HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/159.m3u8
+#EXTINF:-1,FILM TV HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/17.m3u8
+#EXTINF:-1,VIP CHANNEL 2 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/19.m3u8
+#EXTINF:-1,ANIMASYON HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/20.m3u8
+#EXTINF:-1,MOVIMAX PREMIER 2 HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/24.m3u8
+#EXTINF:-1,MOVIMAX STARS-HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/22.m3u8
+#EXTINF:-1,MOVIMAX FAMILY-HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/23.m3u8
+#EXTINF:-1,SINE TV-HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/21.m3u8
+#EXTINF:-1,MOVIEMAX SPEED HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/65.m3u8
+#EXTINF:-1,MOVIEMAX ACTION HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/68.m3u8
+#EXTINF:-1,MOVIEMAX COMEDY HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/73.m3u8
+#EXTINF:-1,DIZIMAX SCIFI HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/66.m3u8
+#EXTINF:-1,MOVIEMAX FESTIVAL HD
+http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/72.m3u8
+
+
 #EXTINF:-1,Fox Tv HD
 http://149.255.152.110/foxturk/index.m3u8
 #EXTINF:-1,Tv8 Int
@@ -26,13 +79,7 @@ http://149.255.152.110/kral/index.m3u8
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
 #EXTINF:-1,SHOW HD
 http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,STAR TV
-http://yayin8.canlitv.com:1935/live/startv/chunklist_w910200906.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
-
-
-#EXTINF:-1,Tv8 HD
-http://yayin8.canlitv.com:1935/live/tv8/chunklist_w541806581.m3u8?hash=760eb013ce30ad093d9d29f646490eb1
 
 #EXTINF:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
@@ -102,175 +149,7 @@ http://www.iptvsaga.com/play/tv3/0070.m3u8
 #EXTINF:-1,POWER TV
 http://www.iptvsaga.com/play/tv3/0071.m3u8
 
-#EXTINF:-1,LIGTV 1 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/2.m3u8
-#EXTINF:-1,LIGTV 2 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/3.m3u8
-#EXTINF:-1,LIGTV 3 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/4.m3u8
 
-#EXTINF:-1,SALONDA NE VAR? (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/736.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 1 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/737.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 2 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/738.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 3 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/739.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 4
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/915.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 5
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/914.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 6
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/913.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 7
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/911.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 8
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/910.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 9
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/909.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 10
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/912.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 1 3D (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/740.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 2 3D  (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/898.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SALON 3 3D (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/897.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIESMART TURK (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/751.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIESMART PREMIUM HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/741.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIESMART PREMIUM 2 HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/742.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIESMART COCUK (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/756.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIEGOLD HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/743.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIEACTION HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/744.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIE PLATIN 2 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/746.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MOVIE PLATIN (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/745.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,MMX SPEED (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/747.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 1 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/729.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 2 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/730.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 3 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/731.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 4 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/732.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 5 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/733.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX HD 6 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/734.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,CINEBOX  HD 7 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/735.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,YESİL SINEMATV (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/754.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,YESILCAM 1
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/680.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,YESILCAM HD
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/681.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,YESILCAM (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/755.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SINEMATV HD 2 (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/888.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SINEMATV HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/887.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,DISCOVERY SCIENCE (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/706.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,DISCOVERY (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/707.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,NAT GEO WILD HD
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/900.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,NAT GEO CHANELL HD
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/901.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,KEMAL SUNAL SD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/749.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,KEMAL SUNAL HD (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/750.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,SADRI ALISIK (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/752.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,ZEKI METIN (TR)
-http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/753.m3u8|X-Forwarded-For=77.237.223.255
-#EXTINF:-1,VİP CHANNEL HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/5.m3u8
-#EXTINF:-1,MOVIMAX PREMİER HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/6.m3u8
-#EXTINF:-1,SALON 1  HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/7.m3u8
-#EXTINF:-1,SALON 2  HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/8.m3u8
-#EXTINF:-1,SALON 3  HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/9.m3u8
-#EXTINF:-1,SMART SPOR-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/10.m3u8
-#EXTINF:-1,SMART SPOR 2-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/11.m3u8
-#EXTINF:-1,NTVSMART SPOR HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/12.m3u8
-#EXTINF:-1,TIVIBU SPOR 1 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/186.m3u8
-#EXTINF:-1,TIVIBU SPOR 2 HDT
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/187.m3u8
-#EXTINF:-1,TIVIBU SPOR 3-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/188.m3u8
-#EXTINF:-1,TIVIBU SPOR 4-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/189.m3u8
-#EXTINF:-1,YESILCAM 1 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/14.m3u8
-#EXTINF:-1,YESILCAM 2 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/15.m3u8
-#EXTINF:-1,LOCA 1-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/16.m3u8
-#EXTINF:-1,LOCA 2 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/149.m3u8
-#EXTINF:-1,VIP CHANNEL TURK HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/13.m3u8
-#EXTINF:-1,MOVIEMAX TURK HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/81.m3u8
-#EXTINF:-1,MOVIESMART TURK HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/159.m3u8
-#EXTINF:-1,FILM TV HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/17.m3u8
-#EXTINF:-1,VIP CHANNEL 2 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/19.m3u8
-#EXTINF:-1,ANIMASYON HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/20.m3u8
-#EXTINF:-1,MOVIMAX PREMIER 2 HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/24.m3u8
-#EXTINF:-1,MOVIMAX STARS-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/22.m3u8
-#EXTINF:-1,MOVIMAX FAMILY-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/23.m3u8
-#EXTINF:-1,SINE TV-HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/21.m3u8
-#EXTINF:-1,MGM HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/63.m3u8
-#EXTINF:-1,MOVIEMAX SPEED HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/65.m3u8
-#EXTINF:-1,MOVIEMAX ACTION HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/68.m3u8
-#EXTINF:-1,MOVIEMAX COMEDY HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/73.m3u8
-#EXTINF:-1,DIZIMAX SCIFI HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/66.m3u8
-#EXTINF:-1,MOVIEMAX FESTIVAL HD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/72.m3u8
-#EXTINF:-1,National Geographic Wild
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/125.m3u8
-#EXTINF:-1,NATIONAL GENOGRAFI
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/147.m3u8
-#EXTINF:-1,HISTORY CHANNEL-
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/148.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL-
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/191.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://proiptv.dnsmas.com:8000/live/ahmetay/cVWwiaTLzk/67.m3u8
 
 
 
