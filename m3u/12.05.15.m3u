@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1,LIGTV 1 HD
-http://mywebtv.info/flash6.php?stream=http://195.230.24.166:1935/live/898953sport1.stream/playlist.m3u8
+http://195.230.24.166:1935/live/898953sport1.stream/playlist.m3u8
 #EXTINF:-1,LIGTV 2 HD
 http://mywebtv.info/flash6.php?stream=http://195.230.24.166:1935/live/898953sport2.stream/playlist.m3u8
 #EXTINF:-1,LIGTV 3 HD
