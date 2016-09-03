@@ -13,7 +13,7 @@ http://195.230.24.166:1935/live/898953sport2.stream/playlist.m3u8
 #EXTINF:-1,LIGTV 3 HD
 http://195.230.24.166:1935/live/898953sport3.stream/playlist.m3u8
  
-#EXTINF:-1,SALONDA NE VAR? (TR)
+#EXTINF:-1,SALONDA NE VAR? 
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/736.m3u8|X-Forwarded-For=77.237.223.255
 #EXTINF:-1,SALON 1 (TR)
 http://note4.redtech.tv:80/live/birtane/df723f63f25rf6e8/737.m3u8|X-Forwarded-For=77.237.223.255
