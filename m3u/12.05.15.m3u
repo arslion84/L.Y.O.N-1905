@@ -4,7 +4,14 @@
 
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="" tvg-name="LigTV 1 HD TR" tvg-logo="" group-title="Turkey",LigTV 1 HD TR
+http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LigTV 2 HD TR" tvg-logo="" group-title="Turkey",LigTV 2 HD TR
+http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LigTV 3 HD TR" tvg-logo="" group-title="Turkey",LigTV 3 HD TR
+http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LigTV 4 HD TR" tvg-logo="" group-title="Turkey",LigTV 4 HD TR
+http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/13665.m3u8
 
 #EXTINF:-1,LIG TV 1
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/896.m3u8
