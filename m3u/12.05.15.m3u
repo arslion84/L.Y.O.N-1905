@@ -4,15 +4,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LigTV 1 HD TR" tvg-logo="" group-title="Turkey",LigTV 1 HD TR
-http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LigTV 2 HD TR" tvg-logo="" group-title="Turkey",LigTV 2 HD TR
-http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LigTV 3 HD TR" tvg-logo="" group-title="Turkey",LigTV 3 HD TR
-http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/6414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LigTV 4 HD TR" tvg-logo="" group-title="Turkey",LigTV 4 HD TR
-http://deliiptv.myfreenetwork.net/live/rahimtst/yt9oCpskhT/13665.m3u8
-
 #EXTINF:-1,LIG TV 1
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/896.m3u8
 #EXTINF:-1,LIG TV 2
@@ -39,24 +30,9 @@ http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/725.m3u8
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/889.m3u8
 
 
-#EXTINF:-1,Fox Tv HD
-http://149.255.152.110/foxturk/index.m3u8
-#EXTINF:-1,Tv8 Int
-http://149.255.152.110/tv8/index.m3u8
-#EXTINF:-1,Euro Star Tv
-http://149.255.152.110/startv/index.m3u8
-#EXTINF:-1,Ntv
-http://149.255.152.110/ntvtr/index.m3u8
-#EXTINF:-1,Ntv Spor
-http://149.255.152.110/ntvspor/index.m3u8
-#EXTINF:-1,Kral Tv
-http://149.255.152.110/kral/index.m3u8
 
 #EXTINF:-1,Kanal D HD
 http://212.224.80.71/S1/HLS_LIVE/kanald/1000/prog_index.m3u8?key=921427ca68efd203a6f967aa7446a0c2&amp;live=true&amp;app=com.kanald&amp;min=0&amp;max=1250
-#EXTINF:-1,SHOW HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-
 
 
 #EXTINF:-1,TRT 1 HD
@@ -110,8 +86,6 @@ http://www.iptvsaga.com/play/tv3/0053.m3u8
 http://www.iptvsaga.com/play/tv3/0054.m3u8
 #EXTINF:-1,MINIKA GO
 http://www.iptvsaga.com/play/tv3/0055.m3u8
-#EXTINF:-1,NTV SPOR
-rtmp://mn-l.mncdn.com/ntvspor_liventvspor1?token=cbd6cbe1931a5330f948a7cc0aaacdd60f1146e724e62f25 
 #EXTINF:-1,SPORTS TV
 http://www.iptvsaga.com/play/tv3/0058.m3u8
 #EXTINF:-1,TRT Müzik HD
