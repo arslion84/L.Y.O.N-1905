@@ -3,37 +3,34 @@
 
 
 #EXTM3U
-#EXTINF: Lig TV 1 HD
-http://185.102.219.5:1935/edge/ch104/paşa.m3u8
-#EXTINF: Lig TV 2 HD
-http://185.102.219.5:1935/edge/ch105/paşa.m3u8
-#EXTINF: Lig TV 3 HD
-http://185.102.219.5:1935/edge/ch106/paşa.m3u8
-#EXTINF:-1,LIG TV 1
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/896.m3u8
-#EXTINF:-1,LIG TV 2
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/895.m3u8
-#EXTINF:-1,LIG TV 3
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/905.m3u8
+#EXTINF:-1,Moviemax Premier
+http://www.ipsat.me:8000/live/mohit/mohit/2783.m3u8
+#EXTINF:-1,Moviemax Premier 2
+http://www.ipsat.me:8000/live/mohit/mohit/2782.m3u8
+#EXTINF:-1,Moviemax Stars
+http://www.ipsat.me:8000/live/mohit/mohit/2781.m3u8
+#EXTINF:-1,FILMBOXHD TURK
+http://www.ipsat.me:8000/live/mohit/mohit/2780.m3u8
+#EXTINF:-1,Moviemax Festival
+http://www.ipsat.me:8000/live/mohit/mohit/2784.m3u8
+#EXTINF:-1,MovieSmart Action HD
+http://www.ipsat.me:8000/live/mohit/mohit/2811.m3u8
+#EXTINF:-1,Moviemax Family
+http://www.ipsat.me:8000/live/mohit/mohit/2785.m3u8
 #EXTINF:-1,SALON 1
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/894.m3u8
+http://www.ipsat.me:8000/live/mohit/mohit/2791.m3u8
 #EXTINF:-1,SALON 2
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/893.m3u8
+http://www.ipsat.me:8000/live/mohit/mohit/2792.m3u8
 #EXTINF:-1,SALON 3
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/892.m3u8
-#EXTINF:-1,MOVIE SMART
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/769.m3u8
-#EXTINF:-1,MOVIEMAX FAMILY
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/703.m3u8
-#EXTINF:-1,MOVIEMAX SPEED STARS HD
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/724.m3u8
-#EXTINF:-1,SINEMA TV 2 HD
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/887.m3u8
-#EXTINF:-1,MOVIESMART GOLD HD
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/725.m3u8
-#EXTINF:-1,MOVIE SMART PREMIUM
-http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/889.m3u8
+http://www.ipsat.me:8000/live/mohit/mohit/2793.m3u8
+#EXTINF:-1,LOCA 1
+http://www.ipsat.me:8000/live/mohit/mohit/2814.m3u8
+#EXTINF:-1,LOCA 2
+http://www.ipsat.me:8000/live/mohit/mohit/2789.m3u8
 
+
+#EXTINF:-1,LOCA 3
+http://www.ipsat.me:8000/live/mohit/mohit/2790.m3u8
 
 
 #EXTINF:-1,Kanal D HD
@@ -113,18 +110,6 @@ http://www.iptvsaga.com/play/tv3/0071.m3u8
 
 
 
-
-
-
------down-----down----down--------
-EXTINF:-1,TR: Lig TV 1 HD
-http://ksportiptv.com:1557/live/gaz/gaz/981.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-EXTINF:-1,TR: Lig TV 2 HD
-http://ksportiptv.com:1557/live/gaz/gaz/982.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-EXTINF:-1,TR: Lig TV 3
-http://ksportiptv.com:1557/live/gaz/gaz/1360.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
-EXTINF:-1,TR: Lig TV
-http://ksportiptv.com:1557/live/gaz/gaz/1664.ch|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:41.0) Gecko/20100101 Firefox/41.0 Iceweasel/41.0
 
 
 
