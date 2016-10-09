@@ -3,34 +3,7 @@
 
 
 #EXTM3U
-#EXTINF:-1,Moviemax Premier
-http://www.ipsat.me:8000/live/mohit/mohit/2783.m3u8
-#EXTINF:-1,Moviemax Premier 2
-http://www.ipsat.me:8000/live/mohit/mohit/2782.m3u8
-#EXTINF:-1,Moviemax Stars
-http://www.ipsat.me:8000/live/mohit/mohit/2781.m3u8
-#EXTINF:-1,FILMBOXHD TURK
-http://www.ipsat.me:8000/live/mohit/mohit/2780.m3u8
-#EXTINF:-1,Moviemax Festival
-http://www.ipsat.me:8000/live/mohit/mohit/2784.m3u8
-#EXTINF:-1,MovieSmart Action HD
-http://www.ipsat.me:8000/live/mohit/mohit/2811.m3u8
-#EXTINF:-1,Moviemax Family
-http://www.ipsat.me:8000/live/mohit/mohit/2785.m3u8
-#EXTINF:-1,SALON 1
-http://www.ipsat.me:8000/live/mohit/mohit/2791.m3u8
-#EXTINF:-1,SALON 2
-http://www.ipsat.me:8000/live/mohit/mohit/2792.m3u8
-#EXTINF:-1,SALON 3
-http://www.ipsat.me:8000/live/mohit/mohit/2793.m3u8
-#EXTINF:-1,LOCA 1
-http://www.ipsat.me:8000/live/mohit/mohit/2814.m3u8
-#EXTINF:-1,LOCA 2
-http://www.ipsat.me:8000/live/mohit/mohit/2789.m3u8
 
-
-#EXTINF:-1,LOCA 3
-http://www.ipsat.me:8000/live/mohit/mohit/2790.m3u8
 
 
 #EXTINF:-1,Kanal D HD
